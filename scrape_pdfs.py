@@ -38,7 +38,18 @@ def find_pdf_links(page_url: str) -> list[str]:
         href = tag["href"]
         absolute = urljoin(page_url, href)
         path = urlparse(absolute).path.lower()
+
+        # Case 1: URL itself ends in .pdf (the simple, common case)
         if path.endswith(".pdf"):
+            pdf_links.add(absolute)
+            continue
+
+        # Case 2: some IR platforms (e.g. NASDAQ/Q4) use opaque URLs like
+        # /static-files/<uuid> and only reveal the real filename via the
+        # title attribute or link text, e.g. title="...Earnings.pdf"
+        title = (tag.get("title") or "").lower()
+        text = tag.get_text().lower()
+        if title.endswith(".pdf") or ".pdf" in title or ".pdf" in text:
             pdf_links.add(absolute)
 
     return sorted(pdf_links)
