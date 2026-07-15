@@ -16,12 +16,30 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 URLS_FILE = "urls.txt"
 PDF_DIR = "pdfs"
 EXTRACTED_DIR = "extracted"
-REQUEST_TIMEOUT = 20
+REQUEST_TIMEOUT = 60
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PDFScraperBot/1.0)"}
+
+
+def make_session() -> requests.Session:
+    session = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=5,  # waits 5s, 10s, 20s between retries
+        status_forcelist=[429, 500, 502, 503, 504],
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
+SESSION = make_session()
 
 
 def hash_for(url: str) -> str:
@@ -29,7 +47,7 @@ def hash_for(url: str) -> str:
 
 
 def find_pdf_links(page_url: str) -> list[str]:
-    resp = requests.get(page_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    resp = SESSION.get(page_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
