@@ -1,0 +1,60 @@
+name: Monitor Website Changes
+
+# Runs on a schedule (edit the cron line for your preferred frequency),
+# plus a manual button in the Actions tab for testing.
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour, on the hour, UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed so the workflow can commit updated snapshots
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch current page content
+        run: |
+          mkdir -p snapshots
+          # EDIT THIS URL to the page you want to watch
+          curl -sL "https://example.com" -o snapshots/latest.html
+
+      - name: Compare against last saved snapshot
+        id: diff
+        run: |
+          if [ -f snapshots/previous.html ]; then
+            if diff -q snapshots/previous.html snapshots/latest.html > /dev/null; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              echo "No change detected."
+            else
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              diff snapshots/previous.html snapshots/latest.html > snapshots/diff.txt || true
+              echo "Change detected."
+            fi
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "First run - establishing baseline snapshot." > snapshots/diff.txt
+          fi
+
+      # Optional: notify Slack when a change is found.
+      # Requires a repo secret named SLACK_WEBHOOK_URL. Delete this step if you don't want it.
+      - name: Notify Slack on change
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data '{"text":"Website change detected on the monitored page."}' \
+            "${{ secrets.SLACK_WEBHOOK_URL }}"
+
+      - name: Save new snapshot and commit
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          cp snapshots/latest.html snapshots/previous.html
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snapshots/
+          git commit -m "Update website snapshot - change detected"
+          git push
