@@ -1,46 +1,127 @@
-name: Scrape PDFs from URL list
+"""
+Scans each webpage URL listed in urls.txt, finds all links pointing to PDFs,
+downloads any new ones, and extracts their text.
 
-# Triggers whenever urls.txt is edited (add a webpage URL, push, and this runs).
-# Each line in urls.txt should be a webpage to scan for PDF links, not a direct
-# PDF URL. Also runs manually via the Actions tab button.
-on:
-  push:
-    paths:
-      - 'urls.txt'
-  workflow_dispatch:
+Layout produced:
+  pdfs/<hash>.pdf              - the downloaded PDF
+  extracted/<hash>.txt         - extracted text
+  extracted/<hash>.meta.txt    - source webpage + original PDF URL, for traceability
+"""
 
-permissions:
-  contents: write   # needed so the workflow can commit results back to the repo
+import hashlib
+import os
+import subprocess
+import sys
+from urllib.parse import urljoin, urlparse
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+import requests
+from bs4 import BeautifulSoup
 
-      - name: Install PDF text extraction tool
-        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+URLS_FILE = "urls.txt"
+PDF_DIR = "pdfs"
+EXTRACTED_DIR = "extracted"
+REQUEST_TIMEOUT = 20
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PDFScraperBot/1.0)"}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
 
-      - name: Install Python dependencies
-        run: pip install requests beautifulsoup4
+def hash_for(url: str) -> str:
+    return hashlib.md5(url.encode("utf-8")).hexdigest()
 
-      - name: Scan pages and download any new PDFs
-        run: python scrape_pdfs.py
 
-      - name: Commit new PDFs and extracted text
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add pdfs/ extracted/
-          if ! git diff --cached --quiet; then
-            git commit -m "Scrape new PDFs from urls.txt"
-            git push
-          else
-            echo "No new PDFs to commit"
-          fi
+def find_pdf_links(page_url: str) -> list[str]:
+    resp = requests.get(page_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    pdf_links = set()
+    for tag in soup.find_all("a", href=True):
+        href = tag["href"]
+        absolute = urljoin(page_url, href)
+        path = urlparse(absolute).path.lower()
+
+        # Case 1: URL itself ends in .pdf (the simple, common case)
+        if path.endswith(".pdf"):
+            pdf_links.add(absolute)
+            continue
+
+        # Case 2: some IR platforms (e.g. NASDAQ/Q4) use opaque URLs like
+        # /static-files/<uuid> and only reveal the real filename via the
+        # title attribute or link text, e.g. title="...Earnings.pdf"
+        title = (tag.get("title") or "").lower()
+        text = tag.get_text().lower()
+        if title.endswith(".pdf") or ".pdf" in title or ".pdf" in text:
+            pdf_links.add(absolute)
+
+    return sorted(pdf_links)
+
+
+def download_pdf(pdf_url: str):
+    try:
+        resp = requests.get(pdf_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+    except requests.RequestException as exc:
+        print(f"  Failed to download {pdf_url}: {exc}", file=sys.stderr)
+        return None
+
+    content_type = resp.headers.get("Content-Type", "")
+    if "application/pdf" not in content_type and not resp.content.startswith(b"%PDF"):
+        print(f"  Skipping, not a PDF: {pdf_url}", file=sys.stderr)
+        return None
+
+    return resp.content
+
+
+def extract_text(pdf_path: str, txt_path: str) -> bool:
+    result = subprocess.run(["pdftotext", pdf_path, txt_path], capture_output=True)
+    return result.returncode == 0
+
+
+def main():
+    os.makedirs(PDF_DIR, exist_ok=True)
+    os.makedirs(EXTRACTED_DIR, exist_ok=True)
+
+    if not os.path.exists(URLS_FILE):
+        print(f"{URLS_FILE} not found, nothing to do.")
+        return
+
+    with open(URLS_FILE, "r") as f:
+        page_urls = [line.strip() for line in f if line.strip()]
+
+    for page_url in page_urls:
+        print(f"Scanning page: {page_url}")
+        try:
+            pdf_links = find_pdf_links(page_url)
+        except requests.RequestException as exc:
+            print(f"  Failed to fetch page: {exc}", file=sys.stderr)
+            continue
+
+        print(f"  Found {len(pdf_links)} PDF link(s)")
+
+        for pdf_url in pdf_links:
+            file_hash = hash_for(pdf_url)
+            pdf_path = os.path.join(PDF_DIR, f"{file_hash}.pdf")
+            txt_path = os.path.join(EXTRACTED_DIR, f"{file_hash}.txt")
+            meta_path = os.path.join(EXTRACTED_DIR, f"{file_hash}.meta.txt")
+
+            if os.path.exists(txt_path):
+                print(f"    Already processed: {pdf_url}")
+                continue
+
+            print(f"    Downloading: {pdf_url}")
+            content = download_pdf(pdf_url)
+            if content is None:
+                continue
+
+            with open(pdf_path, "wb") as f:
+                f.write(content)
+
+            if extract_text(pdf_path, txt_path):
+                with open(meta_path, "w") as f:
+                    f.write(f"source_page: {page_url}\npdf_url: {pdf_url}\n")
+                print(f"    Extracted text -> {txt_path}")
+            else:
+                print(f"    Text extraction failed for: {pdf_url}", file=sys.stderr)
+
+
+if __name__ == "__main__":
+    main()
