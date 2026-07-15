@@ -1,0 +1,116 @@
+"""
+Scans each webpage URL listed in urls.txt, finds all links pointing to PDFs,
+downloads any new ones, and extracts their text.
+
+Layout produced:
+  pdfs/<hash>.pdf              - the downloaded PDF
+  extracted/<hash>.txt         - extracted text
+  extracted/<hash>.meta.txt    - source webpage + original PDF URL, for traceability
+"""
+
+import hashlib
+import os
+import subprocess
+import sys
+from urllib.parse import urljoin, urlparse
+
+import requests
+from bs4 import BeautifulSoup
+
+URLS_FILE = "urls.txt"
+PDF_DIR = "pdfs"
+EXTRACTED_DIR = "extracted"
+REQUEST_TIMEOUT = 20
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PDFScraperBot/1.0)"}
+
+
+def hash_for(url: str) -> str:
+    return hashlib.md5(url.encode("utf-8")).hexdigest()
+
+
+def find_pdf_links(page_url: str) -> list[str]:
+    resp = requests.get(page_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    pdf_links = set()
+    for tag in soup.find_all("a", href=True):
+        href = tag["href"]
+        absolute = urljoin(page_url, href)
+        path = urlparse(absolute).path.lower()
+        if path.endswith(".pdf"):
+            pdf_links.add(absolute)
+
+    return sorted(pdf_links)
+
+
+def download_pdf(pdf_url: str):
+    try:
+        resp = requests.get(pdf_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+    except requests.RequestException as exc:
+        print(f"  Failed to download {pdf_url}: {exc}", file=sys.stderr)
+        return None
+
+    content_type = resp.headers.get("Content-Type", "")
+    if "application/pdf" not in content_type and not resp.content.startswith(b"%PDF"):
+        print(f"  Skipping, not a PDF: {pdf_url}", file=sys.stderr)
+        return None
+
+    return resp.content
+
+
+def extract_text(pdf_path: str, txt_path: str) -> bool:
+    result = subprocess.run(["pdftotext", pdf_path, txt_path], capture_output=True)
+    return result.returncode == 0
+
+
+def main():
+    os.makedirs(PDF_DIR, exist_ok=True)
+    os.makedirs(EXTRACTED_DIR, exist_ok=True)
+
+    if not os.path.exists(URLS_FILE):
+        print(f"{URLS_FILE} not found, nothing to do.")
+        return
+
+    with open(URLS_FILE, "r") as f:
+        page_urls = [line.strip() for line in f if line.strip()]
+
+    for page_url in page_urls:
+        print(f"Scanning page: {page_url}")
+        try:
+            pdf_links = find_pdf_links(page_url)
+        except requests.RequestException as exc:
+            print(f"  Failed to fetch page: {exc}", file=sys.stderr)
+            continue
+
+        print(f"  Found {len(pdf_links)} PDF link(s)")
+
+        for pdf_url in pdf_links:
+            file_hash = hash_for(pdf_url)
+            pdf_path = os.path.join(PDF_DIR, f"{file_hash}.pdf")
+            txt_path = os.path.join(EXTRACTED_DIR, f"{file_hash}.txt")
+            meta_path = os.path.join(EXTRACTED_DIR, f"{file_hash}.meta.txt")
+
+            if os.path.exists(txt_path):
+                print(f"    Already processed: {pdf_url}")
+                continue
+
+            print(f"    Downloading: {pdf_url}")
+            content = download_pdf(pdf_url)
+            if content is None:
+                continue
+
+            with open(pdf_path, "wb") as f:
+                f.write(content)
+
+            if extract_text(pdf_path, txt_path):
+                with open(meta_path, "w") as f:
+                    f.write(f"source_page: {page_url}\npdf_url: {pdf_url}\n")
+                print(f"    Extracted text -> {txt_path}")
+            else:
+                print(f"    Text extraction failed for: {pdf_url}", file=sys.stderr)
+
+
+if __name__ == "__main__":
+    main()
