@@ -2,6 +2,7 @@ name: Monitor Website Changes
 
 # Runs on a schedule (edit the cron line for your preferred frequency),
 # plus a manual button in the Actions tab for testing.
+# Add or remove sites to watch by editing url_monitor.txt, one URL per line.
 on:
   schedule:
     - cron: '0 * * * *'   # every hour, on the hour, UTC
@@ -17,44 +18,33 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch current page content
-        run: |
-          mkdir -p snapshots
-          # EDIT THIS URL to the page you want to watch
-          curl -sL "https://example.com" -o snapshots/latest.html
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Compare against last saved snapshot
-        id: diff
-        run: |
-          if [ -f snapshots/previous.html ]; then
-            if diff -q snapshots/previous.html snapshots/latest.html > /dev/null; then
-              echo "changed=false" >> "$GITHUB_OUTPUT"
-              echo "No change detected."
-            else
-              echo "changed=true" >> "$GITHUB_OUTPUT"
-              diff snapshots/previous.html snapshots/latest.html > snapshots/diff.txt || true
-              echo "Change detected."
-            fi
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "First run - establishing baseline snapshot." > snapshots/diff.txt
-          fi
+      - name: Install Python dependencies
+        run: pip install requests
 
-      # Optional: notify Slack when a change is found.
+      - name: Check all monitored sites
+        id: monitor
+        run: python monitor_websites.py
+
+      # Optional: notify Slack when any site changed.
       # Requires a repo secret named SLACK_WEBHOOK_URL. Delete this step if you don't want it.
       - name: Notify Slack on change
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.monitor.outputs.changed == 'true'
         run: |
+          MESSAGE=$(echo "${{ steps.monitor.outputs.changed_urls }}" | sed 's/^/- /' | tr '\n' '\\n')
           curl -X POST -H 'Content-type: application/json' \
-            --data '{"text":"Website change detected on the monitored page."}' \
+            --data "{\"text\":\"Website change(s) detected:\\n${MESSAGE}\"}" \
             "${{ secrets.SLACK_WEBHOOK_URL }}"
 
-      - name: Save new snapshot and commit
-        if: steps.diff.outputs.changed == 'true'
+      - name: Commit updated snapshots
+        if: steps.monitor.outputs.changed == 'true'
         run: |
-          cp snapshots/latest.html snapshots/previous.html
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add snapshots/
-          git commit -m "Update website snapshot - change detected"
+          git commit -m "Update website snapshots - change detected"
           git push
