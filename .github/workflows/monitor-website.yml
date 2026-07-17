@@ -5,7 +5,7 @@ name: Monitor Website Changes
 # Add or remove sites to watch by editing url_monitor.txt, one URL per line.
 on:
   schedule:
-    - cron: '0 * * * *'   # every hour, on the hour, UTC
+    - cron: '0 12 * * 2,4'   # every hour, on the hour, UTC
   workflow_dispatch:
 
 permissions:
