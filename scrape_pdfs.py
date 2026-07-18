@@ -3,16 +3,27 @@ Scans each webpage URL listed in urls.txt, finds all links pointing to PDFs,
 downloads any new ones, and extracts their text.
 
 Layout produced:
-  pdfs/<hash>.pdf              - the downloaded PDF
-  extracted/<hash>.txt         - extracted text
-  extracted/<hash>.meta.txt    - source webpage + original PDF URL, for traceability
+  pdfs/<original-name>__<hash>.pdf        - the downloaded PDF, named after its
+                                             real title where possible
+  extracted/<original-name>__<hash>.txt   - extracted text
+  extracted/<hash>.meta.txt               - source webpage, PDF URL, and the
+                                             detected original filename
+  manifest.csv                            - a single running index of every
+                                             PDF ever downloaded, for a quick
+                                             overview without opening each file
+
+The <hash> suffix (short MD5 of the PDF's URL) guarantees uniqueness even if
+two PDFs happen to share a display name, and is also used internally to
+detect whether a link has already been processed, independent of renames.
 """
 
+import csv
 import hashlib
 import os
+import re
 import subprocess
 import sys
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, unquote
 
 import requests
 from bs4 import BeautifulSoup
@@ -22,15 +33,21 @@ from urllib3.util.retry import Retry
 URLS_FILE = "urls.txt"
 PDF_DIR = "pdfs"
 EXTRACTED_DIR = "extracted"
-REQUEST_TIMEOUT = 60
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PDFScraperBot/1.0)"}
+MANIFEST_PATH = "manifest.csv"
+REQUEST_TIMEOUT = 25
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 
 def make_session() -> requests.Session:
     session = requests.Session()
     retries = Retry(
-        total=3,
-        backoff_factor=5,  # waits 5s, 10s, 20s between retries
+        total=2,
+        backoff_factor=3,  # waits 3s, 6s between retries
         status_forcelist=[429, 500, 502, 503, 504],
     )
     adapter = HTTPAdapter(max_retries=retries)
@@ -43,7 +60,19 @@ SESSION = make_session()
 
 
 def hash_for(url: str) -> str:
-    return hashlib.md5(url.encode("utf-8")).hexdigest()
+    return hashlib.md5(url.encode("utf-8")).hexdigest()[:10]
+
+
+def sanitize_filename(name: str, fallback: str) -> str:
+    """Strips a candidate filename down to something safe to write to disk."""
+    name = (name or "").strip()
+    if name.lower().endswith(".pdf"):
+        name = name[:-4]
+    name = re.sub(r"[^\w\-. ]+", "_", name).strip("_ ")
+    name = re.sub(r"\s+", "_", name)
+    if not name:
+        return fallback
+    return name[:120]  # keep filenames from getting unreasonably long
 
 
 DOWNLOAD_KEYWORDS = ["download", "pdf", "document", "file", "minutes", "report", "attachment"]
@@ -75,8 +104,6 @@ def is_pdf_content_type(url: str) -> bool:
         resp = SESSION.head(url, headers=HEADERS, timeout=REQUEST_TIMEOUT, allow_redirects=True)
         content_type = resp.headers.get("Content-Type", "")
         if not content_type or resp.status_code >= 400:
-            # Some servers don't support HEAD properly, or omit Content-Type on it.
-            # Fall back to a streamed GET and only read the headers.
             resp = SESSION.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT, stream=True)
             content_type = resp.headers.get("Content-Type", "")
             resp.close()
@@ -85,38 +112,52 @@ def is_pdf_content_type(url: str) -> bool:
         return False
 
 
-def find_pdf_links(page_url: str) -> list[str]:
+def find_pdf_links(page_url: str) -> dict[str, str]:
+    """Returns {absolute_pdf_url: name_hint}. name_hint is the best guess at
+    the PDF's real name based on the link's title/text, or '' if unknown
+    (in which case we'll try Content-Disposition or the URL at download time)."""
     resp = SESSION.get(page_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    pdf_links = set()
+    pdf_links = {}
     for tag in soup.find_all("a", href=True):
         href = tag["href"]
         absolute = urljoin(page_url, href)
-        path = urlparse(absolute).path.lower()
+        path = urlparse(absolute).path
+
+        title = (tag.get("title") or "").strip()
+        text = tag.get_text().strip()
 
         # Case 1: URL itself ends in .pdf (the simple, common case)
-        if path.endswith(".pdf"):
-            pdf_links.add(absolute)
+        if path.lower().endswith(".pdf"):
+            pdf_links[absolute] = unquote(os.path.basename(path))
             continue
 
         # Case 2: opaque URL, but the real filename shows up in the title or link text
-        title = (tag.get("title") or "").lower()
-        text = tag.get_text().lower()
-        if title.endswith(".pdf") or ".pdf" in title or ".pdf" in text:
-            pdf_links.add(absolute)
+        if title.lower().endswith(".pdf"):
+            pdf_links[absolute] = title
+            continue
+        if ".pdf" in text.lower():
+            pdf_links[absolute] = text
             continue
 
-        # Case 3: no textual clue at all (e.g. a "Download" button/icon with an
-        # opaque URL) - only worth the extra request if it at least looks
-        # document-related based on class/id/text
+        # Case 3: no textual clue at all - only worth the extra request if it
+        # at least looks document-related based on class/id/text
         if looks_like_document_link(tag):
             print(f"    Checking possible document link: {absolute}")
             if is_pdf_content_type(absolute):
-                pdf_links.add(absolute)
+                # use whatever link text exists as a rough name hint, even if
+                # it didn't mention .pdf explicitly (e.g. "Download")
+                pdf_links[absolute] = title or text or ""
 
-    return sorted(pdf_links)
+    return pdf_links
+
+
+def name_from_content_disposition(resp: requests.Response) -> str:
+    disposition = resp.headers.get("Content-Disposition", "")
+    match = re.search(r'filename\*?=(?:UTF-8\'\')?"?([^";\n]+)"?', disposition)
+    return unquote(match.group(1)) if match else ""
 
 
 def download_pdf(pdf_url: str):
@@ -125,19 +166,29 @@ def download_pdf(pdf_url: str):
         resp.raise_for_status()
     except requests.RequestException as exc:
         print(f"  Failed to download {pdf_url}: {exc}", file=sys.stderr)
-        return None
+        return None, ""
 
     content_type = resp.headers.get("Content-Type", "")
     if "application/pdf" not in content_type and not resp.content.startswith(b"%PDF"):
         print(f"  Skipping, not a PDF: {pdf_url}", file=sys.stderr)
-        return None
+        return None, ""
 
-    return resp.content
+    server_name = name_from_content_disposition(resp)
+    return resp.content, server_name
 
 
 def extract_text(pdf_path: str, txt_path: str) -> bool:
     result = subprocess.run(["pdftotext", pdf_path, txt_path], capture_output=True)
     return result.returncode == 0
+
+
+def append_to_manifest(row: dict):
+    file_exists = os.path.exists(MANIFEST_PATH)
+    with open(MANIFEST_PATH, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=["original_name", "pdf_file", "text_file", "source_page", "pdf_url"])
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(row)
 
 
 def main():
@@ -161,28 +212,48 @@ def main():
 
         print(f"  Found {len(pdf_links)} PDF link(s)")
 
-        for pdf_url in pdf_links:
+        for pdf_url, name_hint in pdf_links.items():
             file_hash = hash_for(pdf_url)
-            pdf_path = os.path.join(PDF_DIR, f"{file_hash}.pdf")
-            txt_path = os.path.join(EXTRACTED_DIR, f"{file_hash}.txt")
             meta_path = os.path.join(EXTRACTED_DIR, f"{file_hash}.meta.txt")
 
-            if os.path.exists(txt_path):
+            if os.path.exists(meta_path):
                 print(f"    Already processed: {pdf_url}")
                 continue
 
             print(f"    Downloading: {pdf_url}")
-            content = download_pdf(pdf_url)
+            content, server_name = download_pdf(pdf_url)
             if content is None:
                 continue
+
+            # Prefer, in order: name hint from the page, name from the
+            # server's Content-Disposition header, then just the hash.
+            best_name = name_hint or server_name or ""
+            display_name = sanitize_filename(best_name, fallback=file_hash)
+
+            base_filename = f"{display_name}__{file_hash}"
+            pdf_path = os.path.join(PDF_DIR, f"{base_filename}.pdf")
+            txt_path = os.path.join(EXTRACTED_DIR, f"{base_filename}.txt")
 
             with open(pdf_path, "wb") as f:
                 f.write(content)
 
             if extract_text(pdf_path, txt_path):
                 with open(meta_path, "w") as f:
-                    f.write(f"source_page: {page_url}\npdf_url: {pdf_url}\n")
-                print(f"    Extracted text -> {txt_path}")
+                    f.write(
+                        f"original_name: {best_name or '(unknown, used hash)'}\n"
+                        f"source_page: {page_url}\n"
+                        f"pdf_url: {pdf_url}\n"
+                        f"pdf_file: {pdf_path}\n"
+                        f"text_file: {txt_path}\n"
+                    )
+                append_to_manifest({
+                    "original_name": best_name or "(unknown)",
+                    "pdf_file": pdf_path,
+                    "text_file": txt_path,
+                    "source_page": page_url,
+                    "pdf_url": pdf_url,
+                })
+                print(f"    Saved -> {pdf_path}")
             else:
                 print(f"    Text extraction failed for: {pdf_url}", file=sys.stderr)
 
