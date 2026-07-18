@@ -5,7 +5,7 @@ name: Monitor Website Changes
 # Add or remove sites to watch by editing url_monitor.txt, one URL per line.
 on:
   schedule:
-    - cron: '0 6 * * 1,4'   # 6am UTC every Monday and Thursday
+    - cron: '0 12 * * 2,5'   # 6am UTC every Monday and Thursday
   workflow_dispatch:
 
 permissions:
@@ -17,19 +17,19 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v5
-
+ 
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-
+ 
       - name: Install Python dependencies
         run: pip install requests
-
+ 
       - name: Check all monitored sites
         id: monitor
         run: python monitor_websites.py
-
+ 
       - name: Commit snapshots
         run: |
           git config user.name "github-actions[bot]"
@@ -37,7 +37,9 @@ jobs:
           git add snapshots/
           if ! git diff --cached --quiet; then
             git commit -m "Update website snapshots"
+            git pull --rebase origin main
             git push
           else
             echo "No snapshot changes to commit"
           fi
+ 
