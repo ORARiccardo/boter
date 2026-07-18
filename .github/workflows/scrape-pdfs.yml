@@ -17,13 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Install PDF text extraction tool
         run: sudo apt-get update && sudo apt-get install -y poppler-utils
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -40,6 +40,7 @@ jobs:
           git add pdfs/ extracted/
           if ! git diff --cached --quiet; then
             git commit -m "Scrape new PDFs from urls.txt"
+            git pull --rebase origin main
             git push
           else
             echo "No new PDFs to commit"
