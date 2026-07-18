@@ -46,6 +46,45 @@ def hash_for(url: str) -> str:
     return hashlib.md5(url.encode("utf-8")).hexdigest()
 
 
+DOWNLOAD_KEYWORDS = ["download", "pdf", "document", "file", "minutes", "report", "attachment"]
+
+
+def looks_like_document_link(tag) -> bool:
+    """Heuristic pre-filter: does this link look document-related at all,
+    based on its class/id/aria attributes or visible text? This avoids
+    sending a network request for every single link on the page."""
+    class_attr = tag.get("class") or []
+    if isinstance(class_attr, list):
+        class_attr = " ".join(class_attr)
+
+    haystack = " ".join([
+        class_attr,
+        tag.get("id", "") or "",
+        tag.get("aria-labelledby", "") or "",
+        tag.get("title", "") or "",
+        tag.get_text() or "",
+    ]).lower()
+
+    return any(keyword in haystack for keyword in DOWNLOAD_KEYWORDS)
+
+
+def is_pdf_content_type(url: str) -> bool:
+    """Confirms via the actual HTTP response whether a link serves a PDF.
+    Used as a last resort for links with no textual .pdf indicator."""
+    try:
+        resp = SESSION.head(url, headers=HEADERS, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+        content_type = resp.headers.get("Content-Type", "")
+        if not content_type or resp.status_code >= 400:
+            # Some servers don't support HEAD properly, or omit Content-Type on it.
+            # Fall back to a streamed GET and only read the headers.
+            resp = SESSION.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT, stream=True)
+            content_type = resp.headers.get("Content-Type", "")
+            resp.close()
+        return "application/pdf" in content_type.lower()
+    except requests.RequestException:
+        return False
+
+
 def find_pdf_links(page_url: str) -> list[str]:
     resp = SESSION.get(page_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
@@ -62,20 +101,27 @@ def find_pdf_links(page_url: str) -> list[str]:
             pdf_links.add(absolute)
             continue
 
-        # Case 2: some IR platforms (e.g. NASDAQ/Q4) use opaque URLs like
-        # /static-files/<uuid> and only reveal the real filename via the
-        # title attribute or link text, e.g. title="...Earnings.pdf"
+        # Case 2: opaque URL, but the real filename shows up in the title or link text
         title = (tag.get("title") or "").lower()
         text = tag.get_text().lower()
         if title.endswith(".pdf") or ".pdf" in title or ".pdf" in text:
             pdf_links.add(absolute)
+            continue
+
+        # Case 3: no textual clue at all (e.g. a "Download" button/icon with an
+        # opaque URL) - only worth the extra request if it at least looks
+        # document-related based on class/id/text
+        if looks_like_document_link(tag):
+            print(f"    Checking possible document link: {absolute}")
+            if is_pdf_content_type(absolute):
+                pdf_links.add(absolute)
 
     return sorted(pdf_links)
 
 
 def download_pdf(pdf_url: str):
     try:
-        resp = requests.get(pdf_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        resp = SESSION.get(pdf_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
     except requests.RequestException as exc:
         print(f"  Failed to download {pdf_url}: {exc}", file=sys.stderr)
