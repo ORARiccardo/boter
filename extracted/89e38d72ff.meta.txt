@@ -1,0 +1,5 @@
+original_name: Cy4Gate-FY-2025-Presentation-last2.pdf
+source_page: https://www.cy4gate.com/company/investor-relations/presentations-and-financial-highlight/year-3/
+pdf_url: https://www.cy4gate.com/assets/Uploads/Cy4Gate-FY-2025-Presentation-last2.pdf
+pdf_file: pdfs/Cy4Gate-FY-2025-Presentation-last2__89e38d72ff.pdf
+text_file: extracted/Cy4Gate-FY-2025-Presentation-last2__89e38d72ff.txt

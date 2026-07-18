@@ -1,0 +1,5 @@
+original_name: Download
+source_page: https://ec.europa.eu/transparency-initiative/meetings/meeting.do?host=61569260-525e-42f8-aa52-51d7bfc30d4f&page=1
+pdf_url: https://ec.europa.eu/transparency-initiative/meetings/data/meetings/36cc64d2-2330-4360-88c4-a0e9237fb2f5/minutes
+pdf_file: pdfs/Download__24259f5cab.pdf
+text_file: extracted/Download__24259f5cab.txt

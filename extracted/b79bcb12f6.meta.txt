@@ -1,0 +1,5 @@
+original_name: Cy4Gate-Northern-MidCap-Event-2026-Presentation.pdf
+source_page: https://www.cy4gate.com/company/investor-relations/presentations-and-financial-highlight/year-3/
+pdf_url: https://www.cy4gate.com/assets/Uploads/Cy4Gate-Northern-MidCap-Event-2026-Presentation.pdf
+pdf_file: pdfs/Cy4Gate-Northern-MidCap-Event-2026-Presentation__b79bcb12f6.pdf
+text_file: extracted/Cy4Gate-Northern-MidCap-Event-2026-Presentation__b79bcb12f6.txt
