@@ -30,16 +30,6 @@ jobs:
         id: monitor
         run: python monitor_websites.py
 
-      # Optional: notify Slack when any site changed.
-      # Requires a repo secret named SLACK_WEBHOOK_URL. Delete this step if you don't want it.
-      - name: Notify Slack on change
-        if: steps.monitor.outputs.changed == 'true'
-        run: |
-          MESSAGE=$(echo "${{ steps.monitor.outputs.changed_urls }}" | sed 's/^/- /' | tr '\n' '\\n')
-          curl -X POST -H 'Content-type: application/json' \
-            --data "{\"text\":\"Website change(s) detected:\\n${MESSAGE}\"}" \
-            "${{ secrets.SLACK_WEBHOOK_URL }}"
-
       - name: Commit snapshots
         run: |
           git config user.name "github-actions[bot]"
