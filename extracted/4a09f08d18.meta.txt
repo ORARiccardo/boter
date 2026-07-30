@@ -1,0 +1,5 @@
+original_name: Digital-Realty-4Q23-Earnings-Supplemental-FINAL-2-15-24.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/dceae36c-2695-4b9a-a9ec-15929b5094d8
+pdf_file: pdfs/Digital-Realty-4Q23-Earnings-Supplemental-FINAL-2-15-24__4a09f08d18.pdf
+text_file: extracted/Digital-Realty-4Q23-Earnings-Supplemental-FINAL-2-15-24__4a09f08d18.txt

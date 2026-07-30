@@ -1,0 +1,5 @@
+original_name: 1Q22-Earnings-Presentation-FINAL_4.28.22.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/01abd5cf-a609-48f1-ab84-99ef97d94358
+pdf_file: pdfs/1Q22-Earnings-Presentation-FINAL_4.28.22__dc458af97b.pdf
+text_file: extracted/1Q22-Earnings-Presentation-FINAL_4.28.22__dc458af97b.txt

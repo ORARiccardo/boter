@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Third-Quarter-2015-Results.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/95a6ea1a-8c53-4e26-bba0-ca4337f70a9c
+pdf_file: pdfs/Digital-Realty-Reports-Third-Quarter-2015-Results__c9cb876d1c.pdf
+text_file: extracted/Digital-Realty-Reports-Third-Quarter-2015-Results__c9cb876d1c.txt

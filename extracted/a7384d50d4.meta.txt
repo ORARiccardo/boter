@@ -1,0 +1,5 @@
+original_name: Digital-Realty-3Q24-Earnings-Press-Release-FINAL-10-24-24.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/97583064-4ce7-4d36-9760-d04f7b9d8ea7
+pdf_file: pdfs/Digital-Realty-3Q24-Earnings-Press-Release-FINAL-10-24-24__a7384d50d4.pdf
+text_file: extracted/Digital-Realty-3Q24-Earnings-Press-Release-FINAL-10-24-24__a7384d50d4.txt

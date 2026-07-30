@@ -1,0 +1,5 @@
+original_name: Q3'19-Supplemental-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/47e6534a-d657-41c9-a6f9-8d3d9ad7a93f
+pdf_file: pdfs/Q3_19-Supplemental-FINAL__e2aeb79016.pdf
+text_file: extracted/Q3_19-Supplemental-FINAL__e2aeb79016.txt

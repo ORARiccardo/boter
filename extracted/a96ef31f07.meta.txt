@@ -1,0 +1,5 @@
+original_name: DLR-Earnings-3Q15-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/e9f0c3e1-71c6-449a-9849-e10a9abf73ac
+pdf_file: pdfs/DLR-Earnings-3Q15-Presentation__a96ef31f07.pdf
+text_file: extracted/DLR-Earnings-3Q15-Presentation__a96ef31f07.txt

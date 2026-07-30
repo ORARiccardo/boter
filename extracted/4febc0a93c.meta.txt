@@ -1,0 +1,5 @@
+original_name: 3Q15-Financial-Supplemental-FINAL-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/5b68ee3e-fd63-46d7-9a45-72776e7d3046
+pdf_file: pdfs/3Q15-Financial-Supplemental-FINAL-FINAL__4febc0a93c.pdf
+text_file: extracted/3Q15-Financial-Supplemental-FINAL-FINAL__4febc0a93c.txt

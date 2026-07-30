@@ -1,0 +1,5 @@
+original_name: Digital-Realty-1Q25-Supplemental-FINAL-04-24-2025.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/12f35c99-d57c-481b-95cb-4efcde87a575
+pdf_file: pdfs/Digital-Realty-1Q25-Supplemental-FINAL-04-24-2025__65ef7dca2b.pdf
+text_file: extracted/Digital-Realty-1Q25-Supplemental-FINAL-04-24-2025__65ef7dca2b.txt

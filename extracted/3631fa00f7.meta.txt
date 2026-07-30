@@ -1,0 +1,5 @@
+original_name: Q4'21-Supplemental-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/cfd96a09-c8e6-4ae4-a579-783aaec41ee5
+pdf_file: pdfs/Q4_21-Supplemental-FINAL__3631fa00f7.pdf
+text_file: extracted/Q4_21-Supplemental-FINAL__3631fa00f7.txt

@@ -1,0 +1,5 @@
+original_name: 3Q18-Earnings-Presentation-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/6796aa09-1ea1-454b-a351-6e590eec0db9
+pdf_file: pdfs/3Q18-Earnings-Presentation-FINAL__6622e9d045.pdf
+text_file: extracted/3Q18-Earnings-Presentation-FINAL__6622e9d045.txt

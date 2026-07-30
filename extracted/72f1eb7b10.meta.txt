@@ -1,0 +1,5 @@
+original_name: 4Q19-Earnings-Presentation-(February-132020).pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/40d30fb6-4bd6-49bf-8a9a-090e8eee8355
+pdf_file: pdfs/4Q19-Earnings-Presentation-_February-132020__72f1eb7b10.pdf
+text_file: extracted/4Q19-Earnings-Presentation-_February-132020__72f1eb7b10.txt

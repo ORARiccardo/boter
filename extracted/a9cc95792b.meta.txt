@@ -1,0 +1,5 @@
+original_name: Q2-Earnings-Conference-Call-presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/54dab5c8-bfc5-455e-9008-1379be2dfeb0
+pdf_file: pdfs/Q2-Earnings-Conference-Call-presentation__a9cc95792b.pdf
+text_file: extracted/Q2-Earnings-Conference-Call-presentation__a9cc95792b.txt

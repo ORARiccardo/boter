@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Second-Quarter-2019-Results-2019.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/a1fde25f-0026-487c-9747-3b03e6e3844b
+pdf_file: pdfs/Digital-Realty-Reports-Second-Quarter-2019-Results-2019__4d0b00b152.pdf
+text_file: extracted/Digital-Realty-Reports-Second-Quarter-2019-Results-2019__4d0b00b152.txt

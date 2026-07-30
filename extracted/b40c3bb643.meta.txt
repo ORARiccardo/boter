@@ -1,0 +1,5 @@
+original_name: Digital Realty 4Q25 Earnings Supplemental Final 2.5.2026.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/4bac803d-f2a7-400a-b4db-1e8804a60414
+pdf_file: pdfs/Digital_Realty_4Q25_Earnings_Supplemental_Final_2.5.2026__b40c3bb643.pdf
+text_file: extracted/Digital_Realty_4Q25_Earnings_Supplemental_Final_2.5.2026__b40c3bb643.txt

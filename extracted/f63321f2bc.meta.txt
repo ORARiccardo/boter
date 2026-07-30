@@ -1,0 +1,5 @@
+original_name: Digital+Realty+2Q26+Earnings+Press+Release+7.23.2026+FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/d8e6c0b2-cd4e-46f6-aee8-91c4dcf2d48e
+pdf_file: pdfs/Digital_Realty_2Q26_Earnings_Press_Release_7.23.2026_FINAL__f63321f2bc.pdf
+text_file: extracted/Digital_Realty_2Q26_Earnings_Press_Release_7.23.2026_FINAL__f63321f2bc.txt

@@ -1,0 +1,5 @@
+original_name: Q1'22-Supplemental-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/5eee2e9c-5817-4ff5-9e4a-2c9116d4c9f4
+pdf_file: pdfs/Q1_22-Supplemental-FINAL__b0daeae41b.pdf
+text_file: extracted/Q1_22-Supplemental-FINAL__b0daeae41b.txt

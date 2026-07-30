@@ -1,0 +1,5 @@
+original_name: Digital-Realty-2Q25-Earnings-Presentation-07-24-2025-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/fae3263a-6189-4520-a7d0-822c5145b21b
+pdf_file: pdfs/Digital-Realty-2Q25-Earnings-Presentation-07-24-2025-FINAL__171b982b5f.pdf
+text_file: extracted/Digital-Realty-2Q25-Earnings-Presentation-07-24-2025-FINAL__171b982b5f.txt

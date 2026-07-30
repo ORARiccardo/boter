@@ -1,0 +1,5 @@
+original_name: 4Q18-Earnings-Presentation-FINAL-version.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/e26aa437-fa0d-41eb-a1da-85c52b28f9fa
+pdf_file: pdfs/4Q18-Earnings-Presentation-FINAL-version__7f99984856.pdf
+text_file: extracted/4Q18-Earnings-Presentation-FINAL-version__7f99984856.txt

@@ -1,0 +1,8239 @@
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+PAGE
+Corporate Data
+Corporate Information……………………………………………………………………………………………………………..
+
+4
+
+Ownership Structure………………………………………………………………………………………………………………
+
+6
+
+Consolidated Financial Information
+Key Quarterly Financial Data………………………………………………………………………………………………………………..7
+Consolidated Balance Sheets……………………………………………………………………………………………………
+
+8
+
+Consolidated Quarterly Statements of Operations………………………………………………………………………………………..9
+Funds From Operations and Adjusted Funds From Operations…………………………………………………………………………………………………………..
+10
+Reconciliation of Earnings Before Interest, Taxes, Depreciation and Amortization and Financial Ratios……………………………………
+11
+
+Same Store and New Properties Consolidated Quarterly Statements of Operations…………………………………………………………………………………………
+12
+Same Store Operating Trend Summary…………………………………………………………………………………………………………………………………
+13
+Consolidated Debt Analysis and Credit Facility……………………………………………………………………………………………………………………..
+14
+Revolving Credit Facility Commitments……………………………………………………………………………………………………………………..
+15
+Debt Maturities……………………………………………………………………………………………………………………..
+
+16
+
+Debt Analysis & Covenant Compliance………………………………………………………………………………
+
+17
+
+Portfolio Data
+Portfolio Summary……………………………………………………………………………………………………………………….. 18
+Properties Acquired……………………………………………………………………………………………………………………….. 19
+Occupancy Analysis………………………………………………………………………………………………………………
+
+20
+
+Major Tenants………………………………………………………………………………………………………………………
+
+23
+
+Lease Expirations & Lease Distribution………………………………………………………………………………………………………………….
+24
+25
+Lease Expirations — By Product Type………………………………………………………………………………………………………………….
+Leasing Activity - Signed…………………………………………………………………………………………………………………….26
+Leasing Activity - Commenced…………………………………………………………………………………………………………………….
+27
+Historical Capital Expenditures…………………………………………………………………………………………………..
+
+28
+
+Construction Activity Report…………………………………………………………………………………………………………………………………………………………
+29
+Construction Projects in Progress and Total Estimated Direct Cost……………………………………………………………………
+30
+Definitions
+Management Statements on Non-GAAP Supplemental Measures………………………………………………………….
+
+Page 2
+
+31
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Statement Regarding Forward-Looking Statements
+This supplemental package contains forward-looking statements within the meaning of the federal securities laws, including information related to run-rate net operating
+income, trends, leasing expectations, weighted average lease terms, the exercise of lease extensions, lease expirations, debt maturities, annualized rent at expiration of
+leases, the effect new leases and increases in rental rates will have on our rental revenue, our credit ratings, construction and redevelopment activity, projected construction costs
+and other forward-looking financial data. Such statements are based on management’s beliefs and assumptions made based on information currently available to management.
+Such statements are subject to risks, uncertainties and assumptions and are not guarantees of future performance and may be affected by known and unknown
+risks, trends, uncertainties and factors that are beyond our control. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove
+incorrect, actual results may vary materially from those anticipated, estimated or projected. Some of the risks and uncertainties that may cause our actual results, performance or
+achievements to differ materially from those expressed or implied by forward-looking statements include, among others, the following:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+the impact of the recent deterioration in global economic, credit and market conditions;
+current local economic conditions in our geographic markets;
+decreases in information technology spending, including as a result of economic slowdowns or recession;
+adverse economic or real estate developments in our industry or the industry sectors that we sell to (including risks relating to decreasing real estate valuations and
+impairment charges);
+our dependence upon significant tenants;
+bankruptcy or insolvency of a major tenant or a significant number of smaller tenants;
+defaults on or non-renewal of leases by tenants;
+our failure to obtain necessary debt and equity financing;
+increased interest rates and operating costs;
+risks associated with using debt to fund our business activities, including re-financing and interest rate risks, our failure to repay debt when due, adverse changes in our
+credit ratings or our breach of covenants or other terms contained in our loan facilities and agreements;
+financial market fluctuations;
+changes in foreign currency exchange rates;
+our inability to manage our growth effectively;
+difficulty acquiring or operating properties in foreign jurisdictions;
+our failure to successfully integrate and operate acquired or redeveloped properties;
+risks related to joint venture investments, including as a result of our lack of control of such investments;
+delays or unexpected costs in development or redevelopment of properties;
+decreased rental rates or increased vacancy rates;
+increased competition or available supply of data center space;
+our inability to successfully develop and lease new properties and space held for redevelopment;
+our difficulties in identifying properties to acquire and completing acquisitions;
+our inability to acquire off-market properties;
+our inability to comply with the rules and regulations applicable to reporting companies;
+our failure to maintain our status as a REIT;
+possible adverse changes to tax laws;
+restrictions on our ability to engage in certain business activities;
+environmental uncertainties and risks related to natural disasters;
+losses in excess of our insurance coverage;
+changes in foreign laws and regulations, including those related to taxation and real estate ownership and operation; and
+changes in local, state and federal regulatory requirements, including changes in real estate and zoning laws and increases in real property tax rates.
+
+The risks included here are not exhaustive, and additional factors could adversely affect our business and financial performance. We discussed a number of additional material
+risks in our annual report on Form 10-K for the year ended December 31, 2010, and other filings with the Securities and Exchange Commission. Those risks continue to be
+relevant to our performance and financial condition. Moreover, we operate in a very competitive and rapidly changing environment. New risk factors emerge from time to time and
+it is not possible for management to predict all such risk factors, nor can it assess the impact of all such risk factors on the business or the extent to which any factor, or
+combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. We expressly disclaim any responsibility to update
+forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Page 3
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Corporate Information
+Corporate Profile
+Digital Realty Trust, Inc. owns, acquires, redevelops, develops and manages technology-related real estate. The Company is focused on providing Turn-Key Datacenter® and
+Powered Base Building® datacenter solutions for domestic and international tenants across a variety of industry verticals ranging from information technology and Internet
+enterprises, to manufacturing and financial services. The Company's 96 properties, excluding two properties held as investments in unconsolidated joint ventures, contain
+applications and operations critical to the day-to-day operations of technology industry tenants and corporate enterprise datacenter tenants. Comprising approximately 16.9 million
+net rentable square feet, including approximately 2.2 million square feet of space held for redevelopment, Digital Realty Trust's property portfolio is located throughout North
+America, Europe and Asia. For additional information, please visit the company's website at www.digitalrealtytrust.com.
+Corporate Headquarters
+560 Mission Street, Suite 2900
+San Francisco, California 94105
+Telephone: (415) 738-6500
+Facsimile: (415) 738-6501
+Web site: www.digitalrealtytrust.com
+Senior Management
+Richard A. Magnuson: Chairman
+Michael F. Foust: Chief Executive Officer
+A. William Stein: Chief Financial Officer and Chief Investment Officer
+Scott E. Peterson: Chief Acquisitions Officer
+David J. Caron: Senior Vice President, Portfolio Management
+
+Investor Relations
+To request an Investor Relations package or be added to our e-mail distribution list, please visit our website:
+www.digitalrealtytrust.com
+
+(Proceed to Information Request in the Investor Relations section)
+
+Analyst Coverage
+Credit Suisse
+Andrew Rosivach
+(415) 249-7941
+
+Jefferies
+Omotayo Okusanya
+(212) 336-7076
+
+JMP Securities
+William C. Marks
+(415) 835-8944
+
+Deutsche Bank
+John Perry
+(212) 250-4912
+
+Macquarie
+Rob Stevenson
+(212) 231-8068
+
+Suzanne Kim
+(415) 249-7943
+
+Jonathan Petersen
+(212) 336-7454
+
+Mitch Germain
+(212) 906-3546
+
+Vincent Chao
+(212) 250-6799
+
+Nicolas Yulico
+(212) 231-8028
+
+Green Street
+John Stewart
+(949) 640-8780
+
+FBR
+Sri Nagarajan
+(646) 885-5429
+
+Citigroup
+Michael Bilerman
+(212) 816-1685
+
+Baird
+Christopher R. Lucas
+(703) 821-5780
+
+Bank of America
+James Feldman
+(646) 855-5808
+
+Lukas Hartwich
+(949) 640-8780
+
+Evan Smith
+(646) 885-6431
+
+Mark Montandon
+(212) 816-6243
+
+David S. Nebinski
+(703) 918-7854
+
+Michelle Ko
+(646) 855-1802
+
+RBC Capital Markets
+Dave Rodgers
+(440) 715-2647
+
+Raymond James
+Paul D. Puryear
+(727) 567-2253
+
+KeyBanc Capital Markets
+Jordan Sadler
+(917) 368-2280
+
+ISI
+Steve Sakwa
+(212) 446-9462
+
+Stifel Nicolaus
+Todd Weller
+(443) 224-1305
+
+Mike Carroll
+(440) 715-2649
+
+William A. Crowe
+(727) 567-2594
+
+Craig Mailman
+(917) 368-2316
+
+George Auerbach
+(212) 446-9459
+
+Ben Lowe
+(443) 224-1264
+
+Guggenheim
+Michael Bowen
+(212) 381-4162
+Brian Siu
+(212) 292-4778
+
+Barclays Capital
+Ross Smotrich
+(212) 526-2306
+Matthew Rand
+(212) 526-0248
+
+Goldman Sachs
+Sloan Bohlen
+(212) 902-2796
+Conor Fennerty
+(212) 902-4227
+
+UBS
+Ross Nussbaum
+(212) 713-2484
+
+This Supplemental Operating and Financial Data package supplements the information provided in our quarterly and annual reports filed
+with the Securities and Exchange Commission. Additional information about us and our properties is also available at our website
+www.digitalrealtytrust.com.
+
+Page 4
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Corporate Information
+Stock Listing Information
+The stock of Digital Realty Trust, Inc. is traded primarily on the New York Stock Exchange under the following symbol:
+Common Stock:
+
+DLR
+
+Note that symbols may vary by stock quote provider.
+Credit Ratings
+Standard & Poors
+Corporate Credit Rating
+
+BBB
+
+(Stable Outlook)
+
+Moody's
+Issuer Rating
+
+Baa2
+
+(Stable Outlook)
+
+Fitch
+Issuer Default Rating
+Preferred Stock
+
+BBB
+BB+
+
+(Stable Outlook)
+(Stable Outlook)
+
+These credit ratings may not reflect the potential impact of risks relating to the structure or trading of the Company’s securities and are
+provided solely for informational purposes. Credit ratings are not recommendations to buy, sell or hold any security, and may be revised
+or withdrawn at any time by the issuing organization in its sole discretion. The Company does not undertake any obligation to maintain
+the ratings or to advise of any change in ratings. Each agency’s rating should be evaluated independently of any other agency’s rating.
+An explanation of the significance of the ratings may be obtained from each of the rating agencies.
+
+Common Stock Price Performance
+The following summarizes recent activity of Digital Realty Trust's common stock (DLR):
+1st Quarter
+2011
+High Price *
+Low Price *
+Closing Price, end of quarter *
+Average daily trading volume *
+Indicated dividend per common share **
+Closing annual dividend yield, end of quarter
+Closing shares and units
+outstanding, end of quarter ***
+Closing market value of shares
+and units outstanding
+(thousands), end of quarter
+
+$
+$
+$
+$
+
+$
+
+4th Quarter
+2010
+
+3rd Quarter
+2010
+
+2nd Quarter
+2010
+
+1st Quarter
+2010
+
+59.34 $
+50.63 $
+58.14 $
+1,192,245
+2.720 $
+4.7%
+
+62.40 $
+47.42 $
+51.54 $
+1,665,345
+2.120 $
+4.1%
+
+64.06 $
+56.23 $
+61.70 $
+1,094,573
+2.120 $
+3.4%
+
+64.17 $
+51.77 $
+57.68 $
+1,254,652
+1.920 $
+3.3%
+
+97,555,237
+
+96,622,670
+
+94,895,869
+
+92,586,978
+
+5,671,861
+
+$
+
+4,979,932
+
+$
+
+5,855,075
+
+$
+
+5,340,417
+
+56.60
+46.21
+54.20
+975,779
+1.920
+3.5%
+83,638,744
+
+$
+
+4,533,220
+
+* New York Stock Exchange trades only.
+** On an annual basis.
+*** As of March 31, 2011, the total number of shares and units includes 92,078,429 shares of common stock, 3,810,814 common units held by
+third parties and 1,665,994 common units, vested and unvested long-term incentive units and vested and unvested class C units held by
+officers and directors, and excludes all unexercised common stock options and all shares potentially issuable upon exchange of our 4.125%
+exchangeable senior debentures due 2026 and 5.50% exchangeable senior debentures due 2029 or upon conversion of our series C and
+series D cumulative convertible preferred stock.
+This Supplemental Operating and Financial Data package supplements the information provided in our quarterly and annual reports filed
+with the Securities and Exchange Commission. Additional information about us and our properties is also available at our website
+www.digitalrealtytrust.com.
+
+Page 5
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Ownership Structure
+As of March 31, 2011
+
+Series C / D
+Convertible Preferred
+Stockholders
+
+Public
+Stockholders
+
+Digital Realty Trust, Inc.
+(the REIT)
+
+100% Series
+C/D Preferred
+Partnership
+Interest
+
+94.4%
+Common
+General
+Partnership
+Interest
+
+3.9% Limited
+Partnership
+Interest
+Digital Realty Trust, L.P.
+(our operating partnership)
+
+Third-Party
+Contributors
+
+100%
+1.7% Limited
+Partnership
+Interest (1)
+Digital
+Services, Inc.
+(taxable REIT
+subsidiary)
+
+Directors, Executive
+Officers and Others
+
+Properties
+
+Partner
+
+# of Units
+
+(2)
+
+% Ownership
+
+Digital Realty Trust, Inc.
+
+92,078,429
+
+94.4%
+
+Cambay Tele.com, LLC (3)
+
+3,810,814
+
+3.9%
+
+Directors, Executive Officers and Others
+
+1,665,994
+
+1.7%
+
+Total
+
+97,555,237
+
+100.0%
+
+(1) Reflects limited partnership interests held by our officers and directors in the form of common units and vested and unvested long-term incentive units and excludes
+all unexercised common stock options.
+(2) The total number of shares and units includes 92,078,429 shares of common stock, 3,810,814 common units held by third parties and 1,665,994 common units,
+vested and unvested long-term incentive units and vested and unvested class C units held by officers and directors, and excludes all unexercised common stock options
+and all shares potentially issuable upon exchange of our 4.125% exchangeable senior debentures due 2026 and 5.50% exchangeable senior debentures due 2029 or
+upon conversion of our series C and series D cumulative convertible preferred stock.
+(3) These third-party contributors received the common units (along with cash and our operating partnership's assumption of debt) in exchange for their interests in 200
+Paul Avenue 1-4, 1100 Space Park Drive, the eXchange colocation business and other specified assets and liabilities. Includes 409,913 common units held by the
+members of Cambay Tele.com, LLC.
+
+Page 6
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Key Quarterly Financial Data
+(Unaudited and dollars in thousands, except per share data)
+31-Mar-11
+
+31-Dec-10
+
+30-Sep-10
+
+30-Jun-10
+
+31-Mar-10
+
+92,078,429
+5,476,808
+97,555,237
+
+91,159,221
+5,463,449
+96,622,670
+
+89,419,253
+5,476,616
+94,895,869
+
+87,049,946
+5,537,032
+92,586,978
+
+78,176,655
+5,462,089
+83,638,744
+
+Shares and Units at End of Quarter
+Common shares outstanding
+Common units outstanding
+Total shares and operating partnership units
+Enterprise Value
+Market value of common equity (1)
+Liquidation value of preferred equity
+Total debt at balance sheet carrying value
+Total enterprise value
+
+$
+
+$
+
+5,671,861
+508,619
+3,055,429
+9,235,909
+
+Total debt/Total enterprise value
+
+$
+
+$
+
+33.1%
+
+4,979,932
+519,681
+2,806,954
+8,306,567
+
+$
+
+$
+
+33.8%
+
+5,855,075
+582,931
+2,721,599
+9,159,605
+
+$
+
+$
+
+29.7%
+
+5,340,417
+686,611
+2,124,710
+8,151,738
+
+$
+
+$
+
+4,533,220
+686,637
+2,168,209
+7,388,066
+
+26.1%
+
+29.3%
+
+Selected Balance Sheet Data
+Investments in real estate (before depreciation)
+Total assets
+Total liabilities
+
+$
+
+5,455,314
+5,537,345
+3,498,272
+
+$
+
+5,245,177
+5,329,483
+3,274,820
+
+$
+
+4,953,540
+5,170,899
+3,122,030
+
+$
+
+4,094,476
+4,501,032
+2,469,143
+
+$
+
+4,003,523
+4,147,586
+2,499,081
+
+$
+
+250,741
+176,076
+36,082
+39,012
+30,980
+
+$
+
+238,672
+166,112
+36,583
+36,298
+24,865
+
+$
+
+237,486
+177,085
+36,737
+23,626
+9,639
+
+$
+
+197,464
+143,314
+33,162
+19,902
+9,091
+
+$
+
+191,779
+136,584
+30,902
+25,586
+14,744
+
+$
+$
+$
+$
+
+142,023
+150,055
+45,208
+55,630
+3.3x
+2.7x
+
+$
+$
+$
+$
+
+138,994
+150,427
+27,404
+38,831
+5.5x
+3.9x
+
+$
+$
+$
+$
+
+117,930
+131,917
+36,851
+49,621
+3.6x
+2.7x
+
+$
+$
+$
+$
+
+104,188
+114,999
+27,062
+40,613
+4.2x
+2.8x
+
+$
+$
+$
+$
+
+103,894
+114,736
+22,231
+35,326
+5.2x
+3.2x
+
+$
+$
+$
+$
+$
+
+0.34
+0.33
+1.02
+0.90
+0.68
+66.9%
+75.4%
+
+$
+$
+$
+$
+$
+
+0.27
+0.27
+0.98
+0.87
+0.53
+53.9%
+60.8%
+
+$
+$
+$
+$
+$
+
+0.11
+0.11
+0.81
+0.75
+0.53
+65.4%
+70.7%
+
+$
+$
+$
+$
+$
+
+0.11
+0.11
+0.76
+0.65
+0.48
+63.4%
+73.3%
+
+$
+$
+$
+$
+$
+
+0.19
+0.18
+0.81
+0.67
+0.48
+59.2%
+71.4%
+
+Selected Operating Data
+Total operating revenues
+Total operating expenses
+Interest expense
+Net income
+Net income available to common stockholders
+Financial Ratios
+EBITDA (2)
+Adjusted EBITDA (3)
+Cash interest expense (4)
+Fixed charges (5)
+Debt service coverage ratio (6)
+Fixed charge coverage ratio (7)
+Profitability Measures
+Net income per common share - basic
+Net income per common share - diluted
+Funds From Operations (FFO) per diluted share and unit (8)
+Adjusted Funds From Operations (AFFO) per diluted share and unit (9)
+Dividends per share and common unit
+Diluted FFO payout ratio (10)
+Diluted AFFO payout ratio (11)
+Portfolio Statistics
+Buildings
+Properties
+Net rentable square feet, excluding redevelopment space
+Square feet held for redevelopment (12)
+Occupancy at end of quarter (13)
+Weighted average remaining lease term (years) (14)
+Same store occupancy at end of quarter (13)(15)
+
+133
+96
+14,628,267
+2,236,745
+93.5%
+6.9
+93.8%
+
+132
+96
+14,584,914
+2,166,848
+94.6%
+6.9
+94.9%
+
+131
+95
+14,456,127
+1,925,135
+95.0%
+6.9
+94.8%
+
+122
+87
+13,270,035
+1,916,028
+95.0%
+7.2
+94.9%
+
+118
+84
+13,211,992
+1,828,598
+95.2%
+7.2
+95.2%
+
+(1) The market value of common equity is based on the closing stock price at the end of the quarter and assumes 100% redemption of the limited partnership units in our
+operating partnership, including common units and vested and unvested long-term incentive units (including vested and unvested class C units), for shares of our common
+stock. Excludes shares issuable with respect to stock options that have been granted but have not yet been exercised, and also excludes all shares potentially issuable upon
+exchange of our 4.125% exchangeable senior debentures due 2026 and 5.50% exchangeable senior debentures due 2029 or upon conversion of our series C and series D
+cumulative convertible preferred stock.
+(2) EBITDA is calculated as earnings before interest, taxes, depreciation and amortization. For a discussion of EBITDA, see page 31. For a reconciliation of net income
+available to common stockholders to EBITDA, see page 11.
+(3) Adjusted EBITDA is EBITDA adjusted for preferred dividends and minority interests. For a discussion of Adjusted EBITDA, see page 31. For a reconciliation of net
+income available to common stockholders to Adjusted EBITDA, see page 11.
+(4) Cash interest expense is interest expense per our statement of operations (including interest expense on discontinued operations) less amortization of debt discount and
+deferred financing fees and includes interest that we capitalized. For a reconciliation of GAAP interest expense to cash interest expense, see page 11.
+(5) Fixed charges consist of cash interest expense, scheduled debt principal payments and preferred dividends.
+(6) Debt service coverage ratio is Adjusted EBITDA divided by cash interest expense.
+(7) Fixed charge coverage ratio is Adjusted EBITDA divided by fixed charges.
+(8) For a definition and discussion of FFO, see page 31. For a reconciliation of net income available to common stockholders to FFO, see page 10.
+(9) For a definition and discussion of AFFO, see page 31. For a reconciliation of FFO to AFFO, see page 10.
+(10) Diluted FFO payout ratio is dividends declared per common share and unit divided by diluted FFO per share and unit.
+(11) Diluted AFFO payout ratio is dividends declared per common share and unit divided by diluted AFFO per share and unit.
+(12) Redevelopment space requires significant capital investment in order to develop data center facilities that are ready for use. Most often this is shell space. However, in
+certain circumstances this may include partially built datacenter space that was not completed by previous ownership and requires a large capital investment in order to build
+out the space.
+(13) Occupancy and same store occupancy exclude space held for redevelopment. For some of our properties, we calculate occupancy based on factors in addition to
+contractually leased square feet, including available power, required support space and common area.
+(14) Weighted average remaining lease term excludes renewal options, weighted by net rentable square feet.
+(15) Same store properties were acquired before December 31, 2009.
+
+Page 7
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Consolidated Balance Sheets
+(Dollars in thousands, except per share data)
+
+March 31, 2011
+(unaudited)
+
+ASSETS
+Investments in real estate
+Land
+Acquired ground leases
+Buildings and improvements
+Tenant improvements
+
+$
+
+December 31, 2010
+
+480,788
+6,666
+4,662,458
+287,440
+
+$
+
+478,629
+6,374
+4,459,047
+283,492
+
+Investments in real estate
+Accumulated depreciation and amortization
+
+5,437,352
+(720,610)
+
+5,227,542
+(660,700)
+
+Net investments in properties
+Investment in unconsolidated joint ventures
+Net investments in real estate
+
+4,716,742
+17,962
+4,734,704
+
+4,566,842
+17,635
+4,584,477
+
+Cash and cash equivalents
+
+44,368
+
+11,719
+
+Accounts and other receivables, net of allowance for doubtful accounts
+of $2,331 and $3,250 as of March 31, 2011 and December 31, 2010, respectively
+Deferred rent
+Acquired above market leases, net
+Acquired in place lease value and deferred leasing costs, net
+Deferred financing costs, net
+Restricted cash
+Other assets
+
+78,992
+203,708
+37,421
+327,625
+23,836
+59,836
+26,855
+
+70,337
+190,067
+40,539
+334,366
+22,825
+60,062
+15,091
+
+Total Assets
+
+$
+
+5,537,345
+
+$
+
+5,329,483
+
+$
+
+209,687
+1,465,351
+318,669
+1,051,222
+10,500
+265,714
+89,018
+88,111
+
+$
+
+333,534
+1,066,030
+353,702
+1,043,188
+10,500
+237,631
+51,210
+93,250
+85,775
+
+LIABILITIES AND EQUITY
+Revolving credit facility
+Unsecured senior notes, net of discount
+Exchangeable senior debentures, net of discount
+Mortgage loans
+Other secured loans
+Accounts payable and other accrued liabilities
+Accrued dividends and distributions
+Acquired below market leases, net
+Security deposits and prepaid rents
+
+3,498,272
+
+Total Liabilities
+Commitments and contingencies
+
+3,274,820
+
+-
+
+-
+
+Series C Cumulative Convertible Preferred Stock, 4.375%, $167,499 and $174,999
+liquidation preference, respectively ($25.00 per share), 6,699,955 and 6,999,955
+issued and outstanding, respectively
+
+161,822
+
+169,067
+
+Series D Cumulative Convertible Preferred Stock, 5.500%, $341,120 and $344,683
+liquidation preference, respectively ($25.00 per share), 13,644,790 and 13,787,300
+issued and outstanding, respectively
+
+329,829
+
+333,274
+
+917
+1,854,424
+(379,627)
+(23,570)
+
+909
+1,849,497
+(348,148)
+(42,081)
+
+1,943,795
+
+1,962,518
+
+55,669
+39,609
+95,278
+2,039,073
+
+52,436
+39,709
+92,145
+2,054,663
+
+EQUITY:
+Stockholders' equity:
+Preferred Stock: $0.01 par value, 30,000,000 authorized:
+
+Common Stock: $0.01 par value, 145,000,000 authorized,
+92,078,429 and 91,159,221 shares issued and outstanding
+as of March 31, 2011 and December 31, 2010, respectively
+Additional paid-in capital
+Dividends in excess of earnings
+Accumulated other comprehensive income, net
+Total stockholders' equity
+Noncontrolling interests:
+Noncontrolling interest in operating partnership
+Noncontrolling interest in consolidated joint ventures
+Total noncontrolling interests
+Total Equity
+$
+
+Total Liabilities and Equity
+
+Page 8
+
+5,537,345
+
+$
+
+5,329,483
+
+0.34
+
+92,600,215
+98,117,454
+
+Weighted-average shares outstanding - diluted
+
+Weighted-average fully diluted shares and units
+
+Page 9
+
+91,428,355
+
+Weighted-average shares outstanding - basic
+
+0.33
+
+$
+$
+
+Net income per share available to common stockholders - basic
+
+Net income per share available to common stockholders - diluted
+
+(6,522)
+-
+
+37,502
+
+1,208
+264
+(36,082)
+(428)
+(615)
+39,012
+(1,510)
+
+74,665
+
+176,076
+
+71,723
+13,471
+2,051
+1,737
+73,918
+12,405
+681
+90
+
+250,741
+
+196,795
+51,834
+1,817
+295
+
+30,980
+
+$
+
+$
+
+Net income available to common stockholders
+
+Preferred stock dividends
+Costs on redemption of preferred stock
+
+Net income attributable to Digital Realty Trust, Inc.
+
+Equity in earnings of unconsolidated joint ventures
+Interest and other income
+Interest expense
+Tax expense
+Loss from early extinguishment of debt
+Net income
+Net income attributable to noncontrolling interests
+
+Operating income
+
+Total operating expenses
+
+Rental property operating and maintenance
+Property taxes
+Insurance
+Construction management
+Depreciation and amortization
+General and administrative
+Transactions
+Other
+
+Total operating revenues
+
+Rental
+Tenant reimbursements
+Construction management
+Other
+
+31-Mar-11
+
+(unaudited and in thousands, except share and per share data)
+
+Consolidated Quarterly Statements of Operations
+
+$
+
+$
+
+$
+
+$
+
+0.27
+
+0.27
+
+24,865
+
+(7,608)
+(2,748)
+
+35,221
+
+1,260
+224
+(36,583)
+(258)
+(905)
+36,298
+(1,077)
+
+72,560
+
+166,112
+
+69,732
+4,933
+2,384
+231
+76,383
+12,225
+224
+-
+
+238,672
+
+189,684
+46,451
+2,166
+371
+
+97,330,548
+
+92,448,830
+
+$
+
+$
+
+$
+
+$
+
+95,042,658
+
+90,136,911
+
+87,908,953
+
+0.11
+
+0.11
+
+9,639
+
+(9,194)
+(4,203)
+
+23,036
+
+1,061
+327
+(36,737)
+(343)
+(1,083)
+23,626
+(590)
+
+60,401
+
+177,085
+
+73,866
+14,030
+2,168
+290
+70,128
+11,878
+4,666
+59
+
+237,486
+
+184,256
+52,975
+255
+-
+
+Three Months Ended
+31-Dec-10
+30-Sep-10
+
+90,698,033
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+$
+
+$
+
+$
+
+$
+
+88,295,639
+
+83,021,817
+
+80,542,329
+
+0.11
+
+0.11
+
+9,091
+
+(10,101)
+-
+
+19,192
+
+955
+34
+(33,162)
+(534)
+(1,541)
+19,902
+(710)
+
+54,150
+
+143,314
+
+53,935
+12,748
+1,846
+471
+59,860
+12,574
+1,715
+165
+
+197,464
+
+156,831
+39,597
+1,036
+-
+
+30-Jun-10
+
+$
+
+$
+
+$
+
+$
+
+86,075,069
+
+80,612,660
+
+77,770,691
+
+0.18
+
+0.19
+
+14,744
+
+(10,101)
+-
+
+24,845
+
+1,978
+31
+(30,902)
+(716)
+25,586
+(741)
+
+55,195
+
+136,584
+
+52,595
+12,721
+1,735
+647
+57,532
+10,519
+833
+2
+
+191,779
+
+151,306
+39,059
+1,414
+-
+
+31-Mar-10
+
+73,506
+
+$
+
+$
+
+73,918 $
+(412)
+
+$
+$
+
+$
+$
+
+75,983
+
+$
+
+76,383 $
+(400)
+
+95,580
+115,618
+
+1.08
+0.98
+
+$
+
+$
+
+$
+$
+
+$
+
+$
+
+69,810
+
+$
+
+70,128 $
+(318)
+
+93,421
+113,235
+
+0.87
+0.81
+
+81,044
+
+1,058
+
+537
+69,810
+
+9,639
+
+Three Months Ended
+30-Sep-10
+
+$
+$
+
+$
+
+$
+
+59,517
+
+$
+
+59,860 $
+(343)
+
+86,150
+106,386
+
+0.81
+0.76
+
+69,856
+
+688
+
+560
+59,517
+
+9,091
+
+30-Jun-10
+
+57,175
+
+57,532
+(357)
+
+83,233
+104,142
+
+0.89
+0.81
+
+73,665
+
+773
+
+973
+57,175
+
+14,744
+
+31-Mar-10
+
+$
+
+93,747
+
+412
+2,451
+998
+2,963
+615
+(12,749)
+(1,814)
+(2,443)
+(687)
+(3,029)
+-
+
+107,030
+
+31-Mar-11
+
+$
+
+$
+
+$
+
+$
+
+89,952
+
+400
+2,410
+933
+2,803
+905
+(11,948)
+(1,813)
+(1,930)
+(2,667)
+(4,797)
+2,748
+
+102,908
+
+31-Dec-10
+
+115,618
+
+6,270
+
+8,314
+
+95,580
+1,751
+3,703
+
+113,611
+
+1,914
+4,739
+4,050
+
+102,908
+
+Page 10
+
+113,235
+
+6,210
+
+8,316
+
+93,421
+1,622
+3,666
+
+91,747
+
+1,914
+4,739
+4,050
+
+81,044
+
+$
+
+$
+
+74,005
+
+318
+2,715
+781
+2,942
+1,083
+(11,861)
+(1,800)
+(1,760)
+(735)
+(2,925)
+4,203
+
+81,044
+
+Three Months Ended
+30-Sep-10
+
+$
+
+$
+
+Note: For a definition and discussion of AFFO, see page 31. For a reconciliation of net income available to common stockholders to FFO, see above table.
+
+AFFO available to common stockholders and unitholders
+
+Non-real estate depreciation
+Amortization of deferred financing costs
+Amortization of debt discount
+Non-cash compensation
+Loss from early extinguishment of debt
+Straight line rents
+Above and below market rent amortization
+Capitalized leasing compensation
+Recurring capital expenditures and tenant improvements
+Capitalized leasing commissions
+Costs on redemption of preferred stock
+
+Adjustments:
+
+FFO available to common stockholders and unitholders
+
+Reconciliation of FFO to AFFO (Note):
+
+(unaudited and in thousands)
+
+Adjusted Funds From Operations (AFFO)
+
+Note: For a definition and discussion of FFO, see page 31.
+
+115,730
+
+6,270
+
+Weighted average common stock and units outstanding -- diluted
+
+8,333
+
+96,303
+1,172
+3,652
+
+117,602
+
+1,832
+4,690
+4,050
+
+107,030
+
+Add: Effect of dilutive 5.50% exchangeable senior debentures
+
+$
+
+$
+
+$
+
+Add: Effect of dilutive series D convertible preferred stock
+
+Weighted average common stock and units outstanding
+Add: Effect of dilutive securities (excl. series C & D convert. preferred stock & 5.50% debentures)
+Add: Effect of dilutive series C convertible preferred stock
+
+FFO available to common stockholders and unitholders -- diluted
+
+Add: Series C convertible preferred dividends
+Add: Series D convertible preferred dividends
+Add: 5.50% exchangeable senior debentures interest expense
+
+FFO available to common stockholders and unitholders
+
+$
+
+$
+
+$
+
+$
+
+58,928
+
+343
+2,929
+1,082
+3,229
+1,541
+(10,560)
+(2,422)
+(2,026)
+(178)
+(4,866)
+-
+
+69,856
+
+30-Jun-10
+
+106,386
+
+6,195
+
+8,238
+
+86,150
+2,146
+3,657
+
+80,562
+
+1,914
+4,742
+4,050
+
+69,856
+
+$
+
+$
+
+$
+
+$
+
+59,192
+
+357
+2,406
+1,025
+2,188
+(11,099)
+(2,283)
+(1,887)
+(2,024)
+(3,156)
+-
+
+73,665
+
+31-Mar-10
+
+104,142
+
+6,195
+
+8,215
+
+83,233
+2,842
+3,657
+
+84,371
+
+1,914
+4,742
+4,050
+
+73,665
+
+(2) At March 31, 2011, we had 6,700 series C convertible preferred shares and 13,645 series D convertible preferred shares outstanding that were convertible into 3,652 common shares and 8,333 common shares on
+a weighted average basis for the three months ended March 31, 2011, respectively. In addition, we had a balance of $266,400 of 5.50% exchangeable senior debentures that were exchangeable for 6,270 common
+shares on a weighted average basis for the three months ended March 31, 2011. See below for calculations of diluted FFO available to common stockholders and unitholders and weighted average common stock
+and units outstanding.
+
+(1) Real estate depreciation and amortization was computed as follows:
+Depreciation and amortization per income statement
+Non-real estate depreciation
+
+96,303
+115,730
+
+1.11
+1.02
+
+102,908
+
+724
+
+107,030
+
+892
+
+24,865
+
+1,336
+75,983
+
+$
+
+$
+
+31-Dec-10
+
+1,652
+73,506
+
+30,980
+
+31-Mar-11
+
+$
+
+$
+$
+
+FFO per share and unit:
+Basic
+(2)
+Diluted
+
+Weighted-average shares and units outstanding - basic
+(2)
+Weighted-average shares and units outstanding - diluted
+
+$
+
+$
+
+FFO available to common stockholders and unitholders
+
+Noncontrolling interests in operating partership
+Real estate related depreciation and amortization (1)
+Real estate related depreciation and amortization related to investment in
+unconsolidated joint ventures
+
+Adjustments:
+
+Net income available to common stockholders
+
+Reconciliation of net income available to common stockholders to FFO (Note):
+
+(unaudited and in thousands, except per share data)
+
+Funds From Operations (FFO)
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+(f)
+(g)
+(h)
+
+(b)
+(c)
+(d)
+(e)
+
+(a)
+
+$
+
+$
+
+$
+
+$
+
+$
+
+36,082 $
+4,666
+4,460
+45,208
+10,422
+55,630 $
+4.2x
+3.3x
+3.2x
+2.7x
+33.1%
+38.6%
+2.1x
+5.0x
+
+31-Mar-11
+
+150,055
+
+$
+
+$
+
+36,583 $
+3,100
+(12,279)
+27,404
+11,427
+38,831 $
+4.1x
+5.5x
+3.1x
+3.9x
+33.8%
+40.0%
+2.0x
+4.6x
+
+31-Dec-10
+
+150,427
+
+1,077
+7,608
+2,748
+
+138,994
+
+1,510
+6,522
+-
+
+142,023
+
+24,865
+36,583
+905
+258
+76,383
+
+$
+
+$
+
+$
+
+36,737 $
+2,723
+(2,609)
+36,851
+12,770
+49,621 $
+3.6x
+3.6x
+2.7x
+2.7x
+29.7%
+36.1%
+1.6x
+5.0x
+
+30-Sep-10
+
+131,917
+
+590
+9,194
+4,203
+
+117,930
+
+36,737
+1,083
+343
+70,128
+
+9,639
+
+Three Months Ended
+31-Dec-10
+30-Sep-10
+
+36,082
+615
+428
+73,918
+
+30,980
+
+31-Mar-11
+
+$
+
+$
+
+33,162 $
+2,511
+(8,611)
+27,062
+13,551
+40,613 $
+3.5x
+4.2x
+2.5x
+2.8x
+26.1%
+34.5%
+1.6x
+3.9x
+
+30-Jun-10
+
+114,999
+
+710
+10,101
+-
+
+104,188
+
+33,162
+1,541
+534
+59,860
+
+9,091
+
+30-Jun-10
+
+30,902
+1,907
+(10,578)
+22,231
+13,095
+35,326
+3.7x
+5.2x
+2.6x
+3.2x
+29.3%
+38.6%
+1.8x
+4.6x
+
+31-Mar-10
+
+114,736
+
+741
+10,101
+-
+
+103,894
+
+30,902
+716
+57,532
+
+14,744
+
+31-Mar-10
+
+Page 11
+
+Cash interest expense is interest expense less amortization of debt discount and deferred financing fees and includes interest that we capitalized. We consider cash interest expense to be a useful measure of
+interest as it excludes non-cash based interest expense.
+For a definition of Fixed Charges, see page 7.
+Adjusted EBITDA divided by interest expense.
+Adjusted EBITDA divided by fixed charges. Fixed charges include interest expense as per (a) above and scheduled debt principal payments and preferred dividends.
+Mortgage debt and other loans divided by mortgage debt and other loans plus the liquidation value of preferred stock and the market value of outstanding common stock and operating partnership units, assuming
+the redemption of operating partnership units for shares of our common stock.
+Same as (e), except numerator includes preferred stock.
+Calculated as income, including interest, divided by GAAP interest expense.
+Calculated as total debt at balance sheet carrying value (see page 7) less unrestricted cash and cash equivalents divided by Adjusted EBITDA multiplied by four.
+
+Total GAAP interest expense
+Capitalized interest
+Change in accrued interest and other non-cash amounts
+Cash interest expense (a)
+Scheduled debt principal payments and preferred dividends
+Total fixed charges (b)
+Debt service coverage ratio based on GAAP interest expense (c)
+Debt service coverage ratio based on cash interest expense (c)
+Fixed charge coverage ratio based on GAAP interest expense (d)
+Fixed charge coverage ratio based on cash interest expense (d)
+Debt to total enterprise value including debt and preferred equity (e)
+Debt plus preferred stock to total enterprise value including debt and preferred equity (f)
+Pretax income to interest expense (g)
+Net Debt to Adjusted EBITDA (h)
+
+(unaudited and in thousands)
+
+Financial Ratios
+
+(1) For the definition and discussion of EBITDA and Adjusted EBITDA, see page 31.
+
+Adjusted EBITDA
+
+Noncontrolling interests
+Preferred stock dividends
+Costs on redemption of preferred stock
+
+EBITDA
+
+Interest
+Loss from early extinguishment of debt
+Taxes
+Depreciation and amortization
+
+Net income available to common stockholders
+
+(unaudited and in thousands)
+
+Reconciliation of Earnings Before Interest, Taxes, Depreciation and Amortization (EBITDA) (1)
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Same Store and New Properties Consolidated Quarterly Statements of Operations
+(unaudited and in thousands)
+
+Same store (1)
+Operating Revenues:
+Rental
+Tenant reimbursements - Utilities
+Tenant reimbursements - Other
+Construction management
+Other
+
+31-Mar-11
+$
+
+Total operating revenues
+
+153,169
+22,050
+16,369
+295
+
+31-Dec-10
+$
+
+151,863
+20,614
+13,312
+371
+
+Three Months Ended
+30-Sep-10
+$
+
+148,832
+23,879
+16,477
+-
+
+$
+
+30-Jun-10
+143,666
+19,410
+16,463
+-
+
+31-Mar-10
+$
+
+142,035
+18,145
+17,694
+-
+
+191,883
+
+186,160
+
+189,188
+
+179,539
+
+177,874
+
+27,860
+23,666
+10,978
+1,543
+58,668
+12,405
+90
+
+25,290
+25,203
+5,253
+1,581
+61,342
+12,225
+-
+
+30,487
+24,624
+11,628
+1,777
+56,308
+11,878
+59
+
+24,417
+23,250
+11,071
+1,743
+55,419
+12,574
+165
+
+24,876
+23,271
+11,464
+1,662
+54,348
+10,519
+2
+
+Total operating expenses
+
+135,210
+
+130,894
+
+136,761
+
+128,639
+
+126,142
+
+Operating income
+
+56,673
+
+55,266
+
+52,427
+
+50,900
+
+51,732
+
+1,249
+255
+(35,914)
+(417)
+(615)
+
+1,270
+213
+(36,392)
+(258)
+(905)
+
+1,177
+297
+(36,647)
+(347)
+(1,083)
+
+955
+34
+(33,162)
+(530)
+(1,541)
+
+1,978
+31
+(30,902)
+(716)
+-
+
+Operating Expenses:
+Rental property operating and maintenance - Utilities
+Rental property operating and maintenance - Other
+Property taxes
+Insurance
+Construction management
+Depreciation and amortization
+General and administrative (2)
+Transactions
+Other
+
+Other Income (Expenses):
+Equity in earnings of unconsolidated joint ventures
+Interest and other income
+Interest expense (3)
+Tax expense
+Loss from early extinguishment of debt
+Net income
+
+$
+
+21,231
+
+$
+
+19,194
+
+$
+
+15,824
+
+$
+
+16,656
+
+$
+
+22,123
+
+$
+
+43,626
+10,866
+2,549
+1,817
+-
+
+$
+
+37,821
+10,667
+1,858
+2,166
+-
+
+$
+
+35,424
+12,344
+275
+255
+-
+
+$
+
+13,165
+2,410
+1,314
+1,036
+-
+
+$
+
+9,271
+2,872
+348
+1,414
+-
+
+New properties (1)
+Operating Revenues:
+Rental
+Tenant reimbursements - Utilities
+Tenant reimbursements - Other
+Construction management
+Other
+Total operating revenues
+
+58,858
+
+52,512
+
+48,298
+
+17,925
+
+13,905
+
+11,305
+8,892
+2,493
+508
+1,737
+15,250
+681
+-
+
+10,776
+8,463
+(320)
+803
+231
+15,041
+224
+-
+
+12,045
+6,710
+2,402
+391
+290
+13,820
+4,666
+-
+
+3,540
+2,728
+1,677
+103
+471
+4,441
+1,715
+-
+
+3,787
+661
+1,257
+73
+647
+3,184
+833
+-
+
+Total operating expenses
+
+40,866
+
+35,218
+
+40,324
+
+14,675
+
+10,442
+
+Operating income
+
+17,992
+
+17,294
+
+7,974
+
+3,250
+
+3,463
+
+(41)
+9
+(168)
+(11)
+-
+
+(10)
+11
+(191)
+-
+
+(116)
+30
+(90)
+4
+-
+
+-
+
+-
+
+Operating Expenses:
+Rental property operating and maintenance - Utilities
+Rental property operating and maintenance - Other
+Property taxes
+Insurance
+Construction management
+Depreciation and amortization
+General and administrative (2)
+Transactions
+Other
+
+Other Income (Expenses):
+Equity in earnings of unconsolidated joint ventures
+Interest and other income
+Interest expense (3)
+Tax expense
+Loss from early extinguishment of debt
+Net Income
+
+$
+
+17,781
+
+$
+
+17,104
+
+$
+
+7,802
+
+(4)
+$
+
+3,246
+
+$
+
+3,463
+
+(1) Same store properties are properties that were acquired on or before December 31, 2009 and new properties are properties acquired after December 31, 2009.
+(2) General and administrative expenses are included entirely in same store as they are not allocable to specific properties.
+(3) Interest expense on our revolving credit facility is allocated entirely to same store properties.
+
+Page 12
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+Same Store Operating Trend Summary
+(unaudited and in thousands)
+
+Same store
+
+(1)
+
+31-Mar-11
+
+(2)
+
+Rental
+Tenant reimbursements - Utilities
+Tenant reimbursements - Other
+
+$
+
+Rental property operating and maintenance - Utilities
+Rental property operating and maintenance - Other
+Property taxes
+Insurance
+
+Net Operating Income
+
+Three Months Ended
+Percentage
+31-Dec-10
+Change
+
+(3)
+
+$
+(4)
+
+Same store occupancy at end of quarter (4)
+
+153,169
+22,050
+16,369
+
+142,035
+18,145
+17,694
+
+7.8%
+21.5%
+(7.5%)
+
+0.9%
+7.0%
+23.0%
+
+191,588
+
+185,789
+
+3.1%
+
+177,874
+
+7.7%
+
+27,860
+23,666
+10,978
+1,543
+
+25,290
+25,203
+5,253
+1,581
+
+10.2%
+(6.1%)
+109.0%
+(2.4%)
+
+24,876
+23,271
+11,464
+1,662
+
+12.0%
+1.7%
+(4.2%)
+(7.2%)
+
+64,047
+
+57,327
+
+11.7%
+
+61,273
+
+4.5%
+
+128,462
+
+(0.7%) $
+
+116,601
+
+9.4%
+
+$
+
+93.8%
+
+94.9%
+
+$
+
+Percentage
+Change
+
+151,863
+20,614
+13,312
+
+127,541
+
+$
+
+31-Mar-10
+
+95.2%
+
+(1) Same store properties were acquired on or before December 31, 2009.
+(2) For the periods presented, same store straight-line rent was $10,655, $8,022, and $11,099, respectively, and non-cash purchase accounting
+adjustments were $1,860, $1,677, and $2,283, respectively.
+(3) For a definition and discussion of Net Operating Income, see page 31.
+(4) Occupancy excludes space held for redevelopment. For some of our properties, we calculate occupancy based on factors in addition to
+contractually leased square feet, including available power, required support space and common area.
+
+Page 13
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Consolidated Debt Analysis
+(unaudited, in thousands)
+Principal Balance as of
+March 31, 2011
+
+Maturity Date
+
+% of Debt
+
+Interest Rate as of
+March 31, 2011
+
+Interest Rate as of March
+31, 2011 including caps
+and swaps
+
+Revolving Credit Facility
+Revolving credit facility
+
+August 31, 2012
+
+Unsecured senior notes:
+Prudential Shelf Facility:
+Series A
+Series B
+Series C
+Series D
+Series E
+Series F
+Total Prudential Shelf Facility
+
+(1)
+
+209,687
+
+6.9%
+
+$
+
+209,687
+
+6.9%
+
+0.8%
+1.1%
+0.8%
+1.6%
+1.6%
+0.6%
+6.5%
+
+7.00%
+9.32%
+9.68%
+4.57%
+5.73%
+4.50%
+
+$
+
+25,000
+33,000
+25,000
+50,000
+50,000
+17,000
+200,000
+
+500,000
+375,000
+400,000
+(9,649)
+
+16.4%
+12.3%
+13.1%
+-0.3%
+
+5.88%
+5.25%
+4.50%
+
+July 24, 2011
+November 5, 2013
+January 6, 2016
+January 20, 2015
+January 20, 2017
+February 3, 2015
+
+Senior Notes:
+5.875% notes due 2020
+4.50% notes due 2015
+5.25% notes due 2021
+Unamortized discounts
+
+February 1, 2020
+July 15, 2015
+March 15, 2021
+
+1.44%
+
+Total senior notes
+
+$
+
+1,265,351
+
+41.5%
+
+Total unsecured senior notes
+
+$
+
+1,465,351
+
+48.0%
+
+1.7%
+8.7%
+0.0%
+10.4%
+
+6.75%
+5.50%
+
+$
+
+52,908
+266,400
+(639)
+318,669
+
+Exchangeable senior debentures:
+4.125% exchangeable senior debentures due 2026
+5.50% exchangeable senior debentures due 2029
+Unamortized discount
+Total exchangeable senior debentures
+
+August 15, 2026
+April 15, 2029
+
+Mortgage loans:
+6 Braham Street
+
+April 10, 2011
+
+19,875
+
+0.7%
+
+1.72%
+
+5.84%
+
+114 Rue Ambroise Croizat
+
+January 18, 2012
+
+43,652
+
+1.4%
+
+2.59%
+
+5.13%
+
+Unit 9, Blanchardstown Corporate Park
+
+January 18, 2012
+
+37,530
+
+1.2%
+
+2.59%
+
+5.35%
+
+Datacenter Park -- Dallas
+1350 Duane Avenue/3080 Raymond Street
+
+September 15, 2012
+October 1, 2012
+
+16,150
+52,800
+
+0.5%
+1.7%
+
+5.00%
+5.42%
+
+10,000
+
+0.3%
+
+5.75%
+
+16,777
+
+0.5%
+
+3.74%
+
+14,727
+
+0.5%
+
+2.84%
+
+5.58%
+
+10,655
+
+0.3%
+
+2.74%
+
+5.57%
+
+80,000
+
+2.6%
+
+6.72%
+
+800 Central Expressway
+
+June 9, 2013
+
+1201 Comstock Street
+
+June 25, 2013
+
+Paul van Vlissingenstraat 16
+
+July 18, 2013
+
+Chemin de l'Epinglier 2
+
+July 18, 2013
+
+3 Corporate Place
+
+August 1, 2013
+
+(1)
+
+(1)
+
+(1)
+
+5.75%
+
+1500 Space Park Drive
+
+October 5, 2013
+
+39,428
+
+1.3%
+
+6.15%
+
+Gyroscoopweg 2E-2F
+Mundells Roundabout
+
+October 18, 2013
+November 30, 2013
+
+9,377
+68,640
+
+0.3%
+2.2%
+
+2.74%
+2.02%
+
+5.49%
+4.18%
+
+Clonshaugh Industrial Estate II
+
+September 4, 2014
+
+42,474
+
+1.4%
+
+5.74%
+
+7.20%
+
+Cressex 1
+
+October 16, 2014
+
+29,021
+
+0.9%
+
+5.68%
+
+5.68%
+
+Manchester Technopark
+
+October 16, 2014
+
+8,829
+
+0.3%
+
+5.68%
+
+Secured Term Debt
+
+November 11, 2014
+
+140,840
+
+4.6%
+
+5.65%
+
+October 8, 2015
+March 15, 2016
+
+75,743
+53,803
+
+2.5%
+1.8%
+
+5.74%
+5.80%
+
+200 Paul Avenue 1-4
+600 West Seventh Street
+34551 Ardenwood Boulevard 1-4
+
+November 11, 2016
+
+54,129
+
+1.8%
+
+5.95%
+
+2334 Lundy Place
+1100 Space Park Drive
+
+November 11, 2016
+December 11, 2016
+
+39,367
+54,118
+
+1.3%
+1.8%
+
+5.96%
+5.89%
+
+2045 & 2055 LaFayette Street
+
+February 6, 2017
+
+66,207
+
+2.2%
+
+5.93%
+
+150 South First Street
+731 East Trade Street
+
+February 6, 2017
+July 1, 2020
+
+51,985
+5,014
+
+1.7%
+0.2%
+
+6.30%
+8.22%
+
+1125 Energy Park Drive
+Unamortized net premiums
+
+March 1, 2032
+
+9,020
+1,061
+
+0.3%
+0.1%
+
+7.62%
+
+1,051,222
+
+34.4%
+
+$
+Other secured loans:
+800 Central Expressway Mezzanine
+
+June 9, 2013
+
+Total other secured loans:
+Total Consolidated Debt
+
+10,500
+
+0.3%
+
+$
+
+10,500
+
+0.3%
+
+$
+
+3,055,429
+
+100.0%
+
+Weighted average cost of debt (including interest rate caps and swaps)
+
+Credit Facility
+(in thousands)
+
+Revolving Credit Facility
+
+$
+
+750,000
+
+9.50%
+
+5.32%
+
+(1) Assumes all extensions will be exercised.
+
+Maximum Available as of
+March 31, 2011
+
+9.50%
+
+Available as of March 31,
+2011 (1)
+
+Drawn as of March
+31, 2011
+
+$
+
+$
+
+510,000
+
+(1) Net of letters of credit issued.
+
+Page 14
+
+209,687
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+REVOLVING CREDIT FACILITY COMMITMENTS
+(Dollar amounts in thousands)
+Amount
+Committed
+
+Lender / Issuing Bank
+1 Bank of America, N.A. / Merrill Lynch Capital Corporation
+
+$
+
+130,000
+
+2 Credit Suisse, Cayman Islands Branch
+
+90,000
+
+3 Citicorp North America, Inc.
+
+85,000
+
+4 Morgan Stanley Bank, National Association
+
+75,000
+
+5 Deutsche Bank
+
+70,000
+
+6 The Royal Bank of Scotland PLC
+
+70,000
+
+7 Royal Bank of Canada, New York Branch
+
+65,000
+
+8 Raymond James Bank, FSB
+
+50,000
+
+9 UBS Loan Finance LLC
+
+25,000
+
+10 JPMorgan Chase
+
+25,000
+
+11 Allied Irish Banks, p.l.c.
+
+15,000
+
+12 Chang Hwa Commercial Bank, Ltd., New York Branch
+
+15,000
+
+13 Mega International Commercial Bank Co., Ltd Los Angeles Branch
+
+15,000
+
+14 Comerica Bank
+
+10,000
+
+15 First Commercial Bank New York Agency
+
+10,000
+
+Total Commitments - Revolving Credit Facility
+
+$
+
+Note: The revolving credit facility has a $515.0 million sub-facility for multi-currency advances.
+
+Page 15
+
+750,000
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Debt Maturities
+(unaudited, in thousands)
+
+Remainder of
+2011
+Revolving Credit Facility
+Unsecured senior notes
+Secured Term Debt
+3 Corporate Place
+200 Paul Avenue 1-4
+Mundells Roundabout
+2045 & 2055 LaFayette Street
+34551 Ardenwood Boulevard 1-4
+1100 Space Park Drive
+600 West Seventh Street
+1350 Duane Avenue/3080 Raymond Street
+150 South First Street
+114 Rue Ambroise Croizat
+Clonshaugh Industrial Estate II
+1500 Space Park Drive
+2334 Lundy Place
+Unit 9, Blanchardstown Corporate Park
+Cressex 1
+6 Braham Street
+1201 Comstock Street
+Datacenter Park -- Dallas
+Paul van Vlissingenstraat 16
+800 Central Expressway Mezzanine
+Chemin de l'Epinglier 2
+800 Central Expressway
+Gyroscoopweg 2E-2F
+1125 Energy Park Drive
+Manchester Technopark
+731 East Trade Street
+5.875% notes due 2020
+4.50% notes due 2015
+5.25% notes due 2021
+5.50% exchangeable senior debentures due 2029
+4.125% exchangeable senior debentures due 2026
+
+(1)
+
+2014
+
+2015
+
+Thereafter
+
+Total
+
+25,000
+2,012
+1,285
+656
+502
+508
+1,094
+477
+522
+1,554
+364
+449
+369
+19,875
+614
+500
+178
+129
+113
+115
+112
+208
+52,908
+
+$
+
+209,687
+2,836
+1,812
+941
+711
+720
+1,535
+52,800
+679
+43,130
+2,192
+516
+37,081
+491
+16,163
+15,650
+238
+172
+151
+165
+150
+297
+-
+
+$
+
+33,000
+3,026
+80,000
+1,932
+68,640
+999
+765
+774
+1,626
+733
+35,682
+556
+491
+14,311
+10,500
+10,354
+10,000
+9,113
+179
+150
+323
+-
+
+$
+
+132,966
+2,048
+1,061
+812
+821
+1,723
+781
+42,474
+590
+27,670
+194
+8,417
+350
+266,400
+-
+
+$
+
+67,000
+68,666
+1,126
+862
+872
+1,825
+832
+627
+210
+416
+375,000
+-
+
+$
+
+75,000
+61,424
+50,477
+50,423
+46,000
+48,483
+36,714
+8,157
+3,420
+500,000
+400,000
+-
+
+$
+
+209,687
+200,000
+140,840
+80,000
+75,743
+68,640
+66,207
+54,129
+54,118
+53,803
+52,800
+51,985
+43,652
+42,474
+39,428
+39,367
+37,530
+29,021
+19,875
+16,777
+16,150
+14,727
+10,500
+10,655
+10,000
+9,377
+9,020
+8,829
+5,014
+500,000
+375,000
+400,000
+266,400
+52,908
+
+$
+
+109,544
+
+$
+
+388,117
+
+$
+
+283,154
+
+$ 486,307
+
+$
+
+517,436
+
+$ 1,280,098
+
+$
+
+3,064,656
+
+(1)
+
+(1)
+(1)
+
+(3)
+(4)
+
+(3)(4)
+Weighted Average Term to Initial Maturity
+Weighted Average Term to Initial Maturity (assuming (3)(4)
+exercise of extension options)
+
+2013
+
+$
+
+(2)
+
+Total
+
+2012
+
+5 Years
+5.2 Years
+
+(1) Assumes all extensions will be exercised.
+(2) This amount represents six mortgage loans secured by our interests in 36 NE 2nd Street, 3300 East Birch Street, 100 & 200 Quannapowitt Parkway, 300
+Boulevard East, 4849 Alpha Road, and 11830 Webb Chapel Road. Each of these loans is cross-collateralized by the six properties.
+(3) Assumes maturity of 5.50% exchangeable senior debentures due 2029 at first redemption date in April 2014.
+(4) Assumes maturity of 4.125% exchangeable senior debentures due 2026 at first redemption date in August 2011.
+Note: Total excludes $1,061 of loan premiums, net and ($7,767), ($986), and ($896) of debt discount on 5.875% unsecured senior notes due 2020, 4.50% unsecured
+senior notes due 2015, and 5.25% unsecured senior notes due 2021, respectively, and ($639) on 4.125% exchangeable senior debentures due 2026.
+
+Page 16
+
+(1)
+
+:
+
+(3)
+
+N/A
+N/A
+
+Unencumbered Assets Debt Service Coverage Ratio
+
+(4)
+
+Greater than 1.50x
+
+Less than 70%
+
+Greater than 1.40x
+
+Less than 60%
+
+Less than 65%
+
+(2)
+
+3.9 x
+
+46%
+
+2.7 x
+
+N/A
+
+N/A
+
+15%
+
+41%
+
+Actual
+
+Revolving Credit Facility
+
+Required
+
+As of March 31, 2011
+
+Page 17
+
+(7) Assets must satisfy certain conditions to qualify for inclusion in the Unencumbered Asset pool under the Revolving Credit Facility.
+
+(5) This ratio is referred to as the Secured Debt Leverage Ratio, defined as Consolidated Secured Debt / Total Asset Value, under the Revolving Credit Facility.
+(6) Calculated as current quarter annualized Consolidated EBITDA to current quarter annualized Interest Expense (including capitalized interest and debt discounts).
+
+(4) A one-time right exists to maintain Consolidated Debt to Total Asset Value greater than 65.0% but less than 70.0% for up to two consecutive fiscal quarters.
+
+(3) This ratio is referred to as the Leverage Ratio, defined as Consolidated Debt / Total Asset Value, under the Revolving Credit Facility. Under the 4.50% Notes due 2015, 5.875%
+Notes due 2020, and 5.25% Notes due 2021, Total Assets is calculated using Consolidated EBITDA capped at 9.0%. Under the Revolving Credit Facility, Total Asset Value is
+calculated using Adjusted Net Operating Income capped at 8.25% for Data Center Assets and 7.25% for all other Assets.
+
+(2) Under the Revolving Credit Agreement, no rent leveling adjustments are included in the calculation of Adjusted EBITDA or Adjusted Net Operating Income.
+
+(1) For a definition of the capitalized terms used in the table above and related footnotes, please refer to: the indenture dated January 28, 2010, which governs the 5.875% Notes due
+2020; the indenture dated July 8, 2010, which governs the 4.50% Notes due 2015, the Indenture dated March 8, 2011 which governs the 5.25% Notes due 2021; and the Revolving
+Credit Facility Agreement, as amended, which are filed as exhibits to our reports filed with the Securities and Exchange Commission.
+
+N/A
+
+3.1 x
+
+274%
+
+14%
+
+41%
+
+Actual
+
+Unsecured Debt / Total Unencumbered Asset Value (7)
+
+Greater than 1.50x
+
+Greater than 150%
+
+Less than 40%
+
+Less than 60%
+
+Required
+
+4.50% Notes due 2015,
+5.875% Notes due 2020 &
+5.25% Notes due 2021
+
+Fixed Charge Coverage
+
+Consolidated EBITDA / Interest Expense
+
+(6)
+
+Total Unencumbered Assets / Unsecured Debt
+
+Secured Debt / Total Assets
+
+(5)
+
+Total Outstanding Debt / Total Assets
+
+Debt Covenant Ratios
+
+Debt Analysis & Covenant Compliance
+(unaudited)
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Portfolio Summary
+As of March 31, 2011
+
+3/31/2011
+
+12/31/2010
+
+Domestic
+
+80
+
+80
+
+International
+
+16
+
+Number of Properties:
+
+96
+
+16
+(1)
+
+96 (1)
+
+Number of Buildings:
+Domestic
+
+113
+
+112
+
+International
+
+20
+133
+
+20
+132
+
+20
+
+20
+
+Number of Markets:
+Domestic
+International
+
+8
+
+8
+
+28
+
+28
+
+Domestic
+
+13,282,702
+
+13,247,658
+
+International
+
+1,345,565
+14,628,267
+
+1,337,256
+14,584,914
+
+Domestic
+
+1,752,152
+
+1,673,946
+
+International
+
+484,593
+2,236,745
+
+492,902
+2,166,848
+
+93.5%
+
+94.6%
+
+93.8%
+
+94.9%
+
+Average Original Lease Term (years)
+
+13.6
+
+13.6
+
+Average Remaining Lease Term (years)
+
+6.9
+
+6.9
+
+Lease Expirations (through 2012)
+
+8.3%
+
+10.7%
+
+Net Rentable Square Feet:
+
+Redevelopment Square Feet:
+
+Portfolio Occupancy
+
+(2)
+
+Same Store Pool Occupancy
+
+(2)
+
+(1) Excludes two properties held as investments in unconsolidated joint ventures and developable land.
+(2) Occupancy excludes space held for redevelopment. For some of our properties, we calculate occupancy based
+on factors in addition to contractually leased square feet, including available power, required support space and
+common area.
+
+Page 18
+
+Property
+
+For the three months ended March 31, 2011
+
+Properties Acquired
+
+Date Acquired
+
+Purchase
+Price (in
+millions)
+
+Net Rentable
+Square
+Footage of
+Property
+
+Total Square
+Footage Held for
+Redevelopment
+
+Page 19
+
+NO ACQUISITION DURING THE THREE MONTHS ENDED MARCH 31, 2011
+
+Metropolitan Area
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+Percentage of
+Total Rentable
+Square Footage
+of Property
+Occupied
+
+Jul-10
+Jul-06
+Oct-06
+
+Phoenix
+2121 South Price Road
+120 E. Van Buren Street
+2055 East Technology Circle
+
+Dec-05
+Mar-07
+Nov-02
+Jan-10
+Feb-08
+Jun-08
+
+New York Metro
+3 Corporate Place
+111 Eighth Avenue
+300 Boulevard East
+60 & 80 Merritt Boulevard
+365 S. Randolphville Road
+650 Randolph Road
+
+May-05
+Sep-05
+
+Jul-10
+Nov-04
+Jul-10
+
+San Francisco
+365 Main Street
+200 Paul Avenue 1-4
+720 Second Street
+
+Chicago
+350 East Cermak Road
+600-780 S. Federal
+
+Mar-07
+May-09
+Mar-07
+Jul-10
+Dec-09
+Feb-07
+Jan-07
+Dec-09
+Jul-10
+Oct-06
+Nov-08
+Nov-05
+Mar-07
+Oct-06
+May-09
+Jul-10
+
+Northern Virginia
+43881 Devin Shafron Drive
+43915 Devin Shafron Drive
+43791 Devin Shafron Drive
+4030 Lafayette Center Drive
+45901 & 45845 Nokes Boulevard
+44470 Chilum Place
+21110 Ridgetop Circle
+21561 & 21571 Beaumeade Circle
+4050 Lafayette Center Drive
+1807 Michael Faraday Court
+7505 Mason King Court
+251 Exchange Place
+43831 Devin Shafron Drive
+8100 Boone Boulevard
+43830 Devin Shafron Drive
+4040 Lafayette Center Drive
+
+(3)
+
+Jan-07
+Oct-09
+Sep-07
+Sep-09
+Nov-04
+May-04
+Sep-04
+Dec-02
+Jun-08
+Apr-10
+Jun-05
+Aug-10
+May-10
+Jun-05
+Jun-05
+Jun-05
+Sep-09
+Aug-10
+
+Acquisition date
+
+Silicon Valley
+3011 Lafayette Street
+1350 Duane & 3080 Raymond
+1500 Space Park Drive
+1525 Comstock Street
+1100 Space Park Drive
+2045 & 2055 LaFayette Street
+150 South First Street
+2334 Lundy Place
+1201 Comstock Street
+1725 Comstock Street
+2401 Walsh Street
+2950 Zanker Road
+3105 & 3115 Alfred Street
+2403 Walsh Street
+4700 Old Ironsides Drive
+4650 Old Ironsides Drive
+444 Toyama Drive
+800 Central Expressway
+
+NORTH AMERICA
+
+Property
+
+As of March 31, 2011
+(Dollar amounts in thousands)
+
+Occupancy Analysis
+
+Corporate Datacenters
+Internet Gateway Datacenters
+Corporate Datacenters
+
+Internet Gateway Datacenters
+Internet Gateway Datacenters
+
+Corporate Datacenters
+Internet Gateway Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Internet Gateway Datacenters
+Internet Gateway Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Internet Gateway Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Property Type
+
+293,479
+287,514
+76,350
+657,343
+
+1,129,226
+161,547
+1,290,773
+
+276,931
+116,843
+311,950
+169,540
+95,110
+970,374
+
+226,981
+494,120
+121,220
+842,321
+
+180,000
+125,692
+132,806
+72,696
+167,160
+95,440
+135,513
+164,453
+42,374
+19,237
+109,650
+70,982
+117,071
+17,015
+16,797
+30,333
+1,497,219
+
+90,780
+185,000
+51,615
+42,385
+165,297
+300,000
+179,761
+130,752
+24,000
+39,643
+167,932
+69,700
+25,853
+103,940
+90,139
+84,383
+42,083
+1,793,263
+
+Net Rentable
+Square Feet
+
+-
+
+-
+
+Page 20
+
+4,513
+
+4,513
+
+169,682
+127,790
+297,472
+
+33,560
+33,560
+
+6,588
+2,194
+96,453
+105,235
+
+24,005
+150,000
+174,005
+
+Redevelopment
+Space
+
+32,434
+20,597
+8,004
+61,035
+
+62,998
+6,504
+69,502
+
+16,190
+15,320
+14,813
+12,253
+11,537
+70,113
+
+26,369
+26,165
+18,549
+71,083
+
+18,431
+14,966
+10,346
+5,791
+4,416
+4,206
+2,822
+2,763
+2,203
+1,796
+1,777
+1,593
+1,472
+938
+565
+376
+74,461
+
+9,947
+9,708
+8,790
+8,682
+8,009
+6,840
+6,658
+4,784
+4,464
+4,323
+3,614
+2,884
+2,385
+2,237
+1,940
+1,816
+1,777
+88,858
+
+Annualized Rent
+($000) (1)
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+96.5%
+85.9%
+100.0%
+92.3%
+
+96.4%
+64.6%
+92.4%
+
+96.1%
+95.3%
+100.0%
+100.0%
+79.4%
+0.0%
+96.3%
+
+84.8%
+96.3%
+97.3%
+93.3%
+
+98.5%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+34.2%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+27.0%
+100.0%
+97.1%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+98.3%
+100.0%
+100.0%
+66.7%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+99.1%
+
+As of
+03/31/11
+
+97.8%
+97.3%
+100.0%
+
+96.8%
+64.6%
+
+96.1%
+100.0%
+100.0%
+100.0%
+74.5%
+0.0%
+
+84.9%
+96.6%
+97.3%
+
+98.5%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+100.0%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+98.3%
+100.0%
+100.0%
+38.6%
+100.0%
+100.0%
+0.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+
+As of
+12/31/10
+
+97.3%
+97.5%
+100.0%
+
+96.3%
+65.8%
+
+96.1%
+100.0%
+100.0%
+100.0%
+74.5%
+0.0%
+
+86.1%
+96.3%
+97.5%
+
+98.5%
+75.6%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+100.0%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+98.3%
+100.0%
+100.0%
+0.0%
+100.0%
+100.0%
+0.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+
+As of
+9/30/10
+
+Occupancy (2)
+
+N/A
+97.5%
+100.0%
+
+94.3%
+68.7%
+
+96.1%
+95.6%
+100.0%
+100.0%
+62.1%
+0.0%
+
+N/A
+99.7%
+N/A
+
+98.5%
+49.6%
+100.0%
+N/A
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+N/A
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+98.3%
+100.0%
+100.0%
+0.0%
+100.0%
+N/A
+0.0%
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+
+As of
+6/30/10
+
+N/A
+97.5%
+100.0%
+
+94.1%
+66.3%
+
+95.9%
+95.6%
+100.0%
+100.0%
+34.6%
+0.0%
+
+N/A
+99.7%
+N/A
+
+98.5%
+100.0%
+100.0%
+N/A
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+N/A
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+100.0%
+N/A
+0.0%
+100.0%
+100.0%
+100.0%
+100.0%
+N/A
+
+As of 3/31/10
+
+2.0 %
+2.0
+0.5
+4.5 %
+
+7.7 %
+1.1
+8.8 %
+
+1.9 %
+0.8
+2.1
+1.2
+0.7
+0.0
+6.7 %
+
+1.6 %
+3.4
+0.8
+5.8 %
+
+1.2 %
+0.9
+0.9
+0.5
+1.1
+0.7
+0.9
+1.1
+0.3
+0.1
+0.7
+0.5
+0.8
+0.1
+0.1
+0.2
+10.1 %
+
+0.6 %
+1.3
+0.4
+0.3
+1.1
+2.0
+1.2
+0.9
+0.2
+0.3
+1.1
+0.5
+0.2
+0.7
+0.6
+0.6
+0.3
+0.0
+12.3 %
+
+Net Rentable
+Square Feet as a
+% of Total
+Portfolio
+
+4.5 %
+2.9
+1.1
+8.5 %
+
+8.8 %
+0.9
+9.7 %
+
+2.3 %
+2.1
+2.1
+1.7
+1.6
+0.0
+9.8 %
+
+3.7 %
+3.6
+2.6
+9.9 %
+
+2.6 %
+2.1
+1.4
+0.8
+0.6
+0.6
+0.4
+0.4
+0.3
+0.3
+0.2
+0.2
+0.2
+0.1
+0.1
+0.1
+10.4 %
+
+1.4 %
+1.4
+1.2
+1.2
+1.1
+1.0
+0.9
+0.7
+0.6
+0.6
+0.5
+0.4
+0.3
+0.3
+0.3
+0.3
+0.2
+0.0
+12.4 %
+
+Annualized Rent
+as a % of Total
+Portfolio
+
+Jan-03
+Jan-02
+Jan-06
+Aug-04
+Sep-09
+Jun-06
+Apr-04
+Aug-10
+Sep-09
+Sep-09
+Sep-09
+Sep-09
+Sep-09
+
+Jan-10
+Jan-10
+Jun-04
+Oct-05
+Sep-06
+
+May-04
+Jul-10
+Jun-05
+Dec-04
+Aug-03
+
+Mar-05
+
+Jun-03
+Apr-06
+
+Aug-07
+Aug-07
+
+Jan-02
+Sep-06
+
+Apr-06
+
+Jun-05
+
+Aug-05
+Aug-05
+Aug-05
+
+Apr-06
+
+Mar-05
+
+Boston
+128 First Avenue CDO
+55 Middlesex Turnpike
+100 & 200 Quannapowitt Parkway
+115 Second Avenue
+600 Winter Street
+
+Los Angeles
+600 West Seventh Street
+2260 East El Segundo Boulevard
+200 North Nash Street
+3015 Winona Avenue
+3300 East Birch Street
+
+Philadelphia
+833 Chestnut Street
+
+Atlanta
+375 Riverside Parkway
+101 Aquila Way
+
+St. Louis
+900 Walnut Street
+210 N Tucker Boulevard
+
+Miami
+36 NE 2nd Street
+2300 NW 89th Place
+
+Houston
+12001 North Freeway
+
+Denver
+8534 Concord Center Drive
+
+Charlotte
+125 North Myers
+731 East Trade Street
+113 North Myers
+
+Toronto, Canada
+6800 Millcreek Drive
+
+Minneapolis/St. Paul
+1125 Energy Park Drive
+
+Acquisition date
+
+Dallas
+2440 Marsh Lane
+2323 Bryan Street
+4025 Midway Road
+11830 Webb Chapel Road
+1232 Alma Road
+14901 FAA Boulevard
+4849 Alpha Road
+900 Dorothy Drive
+900 Quality Way
+1400 N Bowser Way
+1301 International Parkway
+904 Quality Way
+905 Security Row
+
+Property
+
+As of March 31, 2011
+(Dollar amounts in thousands)
+
+Occupancy Analysis
+
+Corporate Datacenters
+
+Corporate Datacenters
+
+Internet Gateway Datacenters
+Internet Gateway Datacenters
+Internet Gateway Datacenters
+
+Corporate Datacenters
+
+Corporate Datacenters
+
+Internet Gateway Datacenters
+Corporate Datacenters
+
+Internet Gateway Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+
+Internet Gateway Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+Internet Gateway Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Property Type
+
+112,827
+112,827
+
+83,758
+83,758
+
+25,402
+40,879
+29,218
+95,499
+
+85,660
+85,660
+
+224,275
+224,275
+
+162,140
+64,174
+226,314
+
+112,266
+153,588
+265,854
+
+248,268
+313,581
+561,849
+
+588,770
+588,770
+
+482,089
+132,240
+113,606
+82,911
+68,807
+879,653
+
+274,750
+106,000
+272,033
+66,730
+30,400
+749,913
+
+135,250
+457,217
+90,058
+365,647
+105,726
+263,700
+84,552
+56,176
+1,558,326
+
+Net Rentable
+Square Feet
+
+-
+
+-
+
+-
+
+Page 21
+
+-
+
+-
+
+-
+
+-
+
+76,430
+76,430
+
+48,000
+48,000
+
+1,923
+
+1,923
+-
+
+65,988
+65,988
+
+7,633
+
+7,633
+
+114,923
+114,923
+
+19,890
+10,532
+40,986
+112,253
+246,940
+20,500
+46,750
+249,657
+747,508
+
+Redevelopment
+Space
+
+1,437
+1,437
+
+1,576
+1,576
+
+1,315
+1,236
+896
+3,447
+
+3,463
+3,463
+
+3,962
+3,962
+
+4,860
+635
+5,495
+
+4,256
+2,408
+6,664
+
+7,249
+1,411
+8,660
+
+11,647
+11,647
+
+18,233
+11,005
+2,445
+1,640
+1,502
+34,825
+
+22,144
+11,533
+4,038
+3,540
+826
+42,081
+
+14,615
+14,668
+8,695
+6,711
+5,006
+4,817
+2,860
+1,520
+58,892
+
+Annualized Rent
+($000) (1)
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+100.0%
+100.0%
+
+100.0%
+100.0%
+
+100.0%
+100.0%
+100.0%
+100.0%
+
+100.0%
+100.0%
+
+91.9%
+91.9%
+
+95.9%
+100.0%
+97.0%
+
+99.9%
+75.8%
+86.0%
+
+100.0%
+100.0%
+100.0%
+
+84.1%
+84.1%
+
+95.3%
+100.0%
+100.0%
+100.0%
+100.0%
+97.4%
+
+99.6%
+89.7%
+70.0%
+100.0%
+100.0%
+87.5%
+
+100.0%
+73.8%
+100.0%
+88.4%
+67.7%
+100.0%
+100.0%
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+87.4%
+
+As of
+03/31/11
+
+100.0%
+
+100.0%
+
+100.0%
+100.0%
+100.0%
+
+100.0%
+
+75.4%
+
+95.9%
+100.0%
+
+98.5%
+80.0%
+
+100.0%
+100.0%
+
+85.5%
+
+95.8%
+100.0%
+100.0%
+100.0%
+100.0%
+
+99.6%
+87.9%
+100.0%
+100.0%
+100.0%
+
+100.0%
+74.2%
+100.0%
+96.6%
+81.1%
+100.0%
+100.0%
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+As of
+12/31/10
+
+100.0%
+
+100.0%
+
+100.0%
+100.0%
+100.0%
+
+100.0%
+
+75.4%
+
+95.9%
+100.0%
+
+90.6%
+82.0%
+
+100.0%
+100.0%
+
+85.7%
+
+95.8%
+100.0%
+100.0%
+100.0%
+100.0%
+
+99.6%
+87.9%
+94.9%
+100.0%
+100.0%
+
+100.0%
+74.5%
+100.0%
+96.6%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+As of
+9/30/10
+
+Occupancy (2)
+
+100.0%
+
+100.0%
+
+100.0%
+100.0%
+100.0%
+
+100.0%
+
+75.4%
+
+95.9%
+100.0%
+
+97.3%
+79.4%
+
+100.0%
+100.0%
+
+85.7%
+
+94.7%
+N/A
+100.0%
+100.0%
+100.0%
+
+95.7%
+87.9%
+94.9%
+100.0%
+100.0%
+
+100.0%
+75.1%
+99.8%
+96.6%
+77.3%
+100.0%
+100.0%
+N/A
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+As of
+6/30/10
+
+100.0%
+
+100.0%
+
+100.0%
+100.0%
+100.0%
+
+100.0%
+
+75.4%
+
+95.9%
+100.0%
+
+97.3%
+78.4%
+
+100.0%
+100.0%
+
+86.0%
+
+95.2%
+N/A
+100.0%
+100.0%
+100.0%
+
+95.7%
+87.9%
+94.9%
+100.0%
+100.0%
+
+100.0%
+75.1%
+99.8%
+96.6%
+100.0%
+100.0%
+100.0%
+N/A
+0.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+As of 3/31/10
+
+0.8 %
+0.8 %
+
+0.6 %
+0.6 %
+
+0.2 %
+0.3
+0.2
+0.7 %
+
+0.6 %
+0.6 %
+
+1.5 %
+1.5 %
+
+1.1 %
+0.4
+1.5 %
+
+0.8 %
+1.0
+1.8 %
+
+1.7 %
+2.1
+3.8 %
+
+4.0 %
+4.0 %
+
+3.3 %
+0.9
+0.8
+0.6
+0.5
+6.1 %
+
+1.9 %
+0.7
+1.9
+0.5
+0.2
+5.2 %
+
+0.9 %
+3.1
+0.6
+2.5
+0.7
+1.8
+0.6
+0.4
+0.0
+0.0
+0.0
+0.0
+0.0
+10.6 %
+
+Net Rentable
+Square Feet as a
+% of Total
+Portfolio
+
+0.2 %
+0.2 %
+
+0.2 %
+0.2 %
+
+0.2 %
+0.2
+0.1
+0.5 %
+
+0.5 %
+0.5 %
+
+0.6 %
+0.6 %
+
+0.7 %
+0.1
+0.8 %
+
+0.6 %
+0.3
+0.9 %
+
+1.0 %
+0.2
+1.2 %
+
+1.6 %
+1.6 %
+
+2.5 %
+1.5
+0.3
+0.2
+0.2
+4.7 %
+
+3.1 %
+1.6
+0.6
+0.5
+0.1
+5.9 %
+
+2.0 %
+2.0
+1.2
+0.9
+0.7
+0.7
+0.4
+0.2
+0.0
+0.0
+0.0
+0.0
+0.0
+8.1 %
+
+Annualized Rent
+as a % of Total
+Portfolio
+
+Oct-04
+
+Sacramento
+3065 Gold Camp Drive
+
+Dec-06
+
+Dec-07
+Aug-05
+Jul-06
+Jun-10
+
+Jun-08
+
+Nov-05
+
+Paris, France
+114 Rue Ambroise Croizat
+
+Amsterdam, Netherlands
+Naritaweg 52
+Paul van Vlissingenstraat 16
+Gyroscoopweg 2E-2F
+Cateringweg 5
+
+Manchester, England
+Manchester Technopark, Plot C1
+
+Geneva, Switzerland
+Chemin de l'Epinglier 2
+
+Jan-03
+Sep-03
+May-03
+Aug-07
+Sep-09
+
+Technology Manufacturing
+Technology Manufacturing
+Technology Manufacturing
+Technology Office
+Technology Office
+
+Corporate Datacenters
+
+Corporate Datacenters
+
+Corporate Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Internet Gateway Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+Corporate Datacenters
+Internet Gateway Datacenters
+Corporate Datacenters
+Corporate Datacenters
+
+Corporate Datacenters
+
+Corporate Datacenters
+Corporate Datacenters
+
+Property Type
+
+14,628,267
+
+307,657
+183,050
+113,405
+156,000
+14,400
+774,512
+
+61,578
+61,578
+
+59,190
+59,190
+
+38,016
+38,016
+
+63,260
+77,472
+55,585
+196,317
+
+332,300
+332,300
+
+120,000
+124,500
+20,000
+264,500
+
+62,143
+113,464
+50,847
+63,233
+20,219
+309,906
+
+62,957
+62,957
+
+45,000
+
+45,000
+-
+
+Net Rentable
+Square Feet
+
+(4)
+
+2,236,745
+
+308,922
+308,922
+
+-
+
+-
+
+-
+
+35,000
+55,972
+90,972
+
+19,846
+19,846
+
+-
+
+34,241
+30,612
+64,853
+
+-
+
+74,962
+74,962
+
+Redevelopment
+Space
+
+718,161
+
+9,177
+4,025
+2,852
+2,644
+24
+18,722
+
+1,704
+1,704
+
+1,741
+1,741
+
+2,035
+2,035
+
+2,746
+2,298
+1,270
+6,314
+
+18,783
+18,783
+
+9,468
+9,195
+1,577
+20,240
+
+10,733
+7,704
+7,121
+4,705
+273
+30,536
+
+280
+280
+
+605
+605
+
+Annualized Rent
+($000) (1)
+
+93.5%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+
+16.8%
+16.8%
+
+100.0%
+100.0%
+
+100.0%
+100.0%
+
+100.0%
+58.8%
+100.0%
+0.0%
+83.7%
+
+91.6%
+91.6%
+
+92.2%
+100.0%
+100.0%
+96.4%
+
+80.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+96.0%
+
+21.1%
+21.1%
+
+100.0%
+0.0%
+100.0%
+
+As of
+03/31/11
+
+94.6%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+
+16.8%
+
+100.0%
+
+100.0%
+
+100.0%
+58.8%
+100.0%
+0.0%
+
+91.9%
+
+99.0%
+100.0%
+100.0%
+
+46.9%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+
+21.1%
+
+100.0%
+0.0%
+
+As of
+12/31/10
+
+95.0%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+
+N/A
+
+100.0%
+
+100.0%
+
+100.0%
+58.8%
+100.0%
+0.0%
+
+91.9%
+
+99.0%
+100.0%
+100.0%
+
+79.5%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+
+21.1%
+
+100.0%
+0.0%
+
+As of
+9/30/10
+
+Occupancy (2)
+
+95.0%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+
+N/A
+
+100.0%
+
+100.0%
+
+100.0%
+58.8%
+100.0%
+0.0%
+
+90.5%
+
+99.1%
+100.0%
+100.0%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+
+100.0%
+
+100.0%
+0.0%
+
+As of
+6/30/10
+
+95.2%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+
+N/A
+
+100.0%
+
+100.0%
+
+100.0%
+58.8%
+100.0%
+0.0%
+
+90.5%
+
+98.8%
+100.0%
+100.0%
+
+100.0%
+100.0%
+100.0%
+100.0%
+100.0%
+0.0%
+
+100.0%
+
+100.0%
+0.0%
+
+As of 3/31/10
+
+100.0
+
+Includes approximately 33,700 rentable square feet from a leasehold interest acquisition.
+
+Page 22
+
+(4) Net rentable square feet excludes square footage at two joint ventures: 2001 Sixth Avenue in Seattle, WA (400,369 rentable square feet) which was 95.96% occupied and 700 -750 Central Expressway in Santa Clara, CA (306,144 rentable square feet) which was 100% occupied as of
+March 31, 2011.
+
+(3)
+
+(2) Occupancy excludes space held for redevelopment. For some of our properties, we calculate occupancy based on factors in addition to contractually leased square feet, including available power, required support space and common area.
+
+%
+
+2.1 %
+1.3
+0.8
+1.1
+0.1
+5.4 %
+
+0.4 %
+0.4 %
+
+0.4 %
+0.4 %
+
+0.3 %
+0.3 %
+
+0.4 %
+0.5
+0.4
+0.0
+1.3 %
+
+2.3 %
+2.3 %
+
+0.8 %
+0.9
+0.1
+1.8 %
+
+0.4 %
+0.8
+0.3
+0.4
+0.1
+0.0
+2.0 %
+
+0.4 %
+0.4 %
+
+0.3 %
+0.0
+0.3 %
+
+Net Rentable
+Square Feet as a
+% of Total
+Portfolio
+
+(1) Annualized rent represents the monthly contractual rent under existing leases as of March 31, 2011 multiplied by 12. We estimate the total net rentable square feet available for lease based on a number of factors in addition to contractually leased square feet, including available
+power, required support space and common area.
+
+Portfolio Total/Weighted Average
+
+34551 Ardenwood Boulevard 1-4
+47700 Kato Road & 1055 Page Avenue
+2010 East Centennial Circle
+1 Savvis Parkway
+908 Quality Way
+
+NON-DATACENTER PROPERTIES
+
+Singapore
+29A International Business Park
+Nov-10
+
+Dec-06
+Feb-06
+Feb-06
+
+Dublin, Ireland
+Unit 9, Blanchardstown Corporate Park
+Clonshaugh Industrial Estate II
+Clonshaugh Industrial Estate
+
+ASIA PACIFIC
+
+Dec-07
+Apr-07
+Dec-07
+Jul-02
+Dec-07
+Dec-07
+
+London, England
+3 St. Anne's Boulevard
+Mundells Roundabout
+Cressex 1
+6 Braham Street
+1 St. Anne's Boulevard
+2 St. Anne's Boulevard
+
+EUROPE
+
+Dec-05
+Dec-05
+
+Acquisition date
+
+Austin
+7620 Metro Center Drive
+7500 Metro Center Drive
+
+Property
+
+As of March 31, 2011
+(Dollar amounts in thousands)
+
+Occupancy Analysis
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+100.0 %
+
+1.3 %
+0.6
+0.4
+0.4
+0.0
+2.7 %
+
+0.2 %
+0.2 %
+
+0.2 %
+0.2 %
+
+0.3 %
+0.3 %
+
+0.4 %
+0.3
+0.2
+0.0
+0.9 %
+
+2.6 %
+2.6 %
+
+1.3 %
+1.3
+0.2
+2.8 %
+
+1.5 %
+1.1
+1.0
+0.7
+0.0
+0.0
+4.3 %
+
+0.0 %
+0.0 %
+
+0.1 %
+0.0
+0.1 %
+
+Annualized Rent
+as a % of Total
+Portfolio
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Major Tenants
+As of March 31, 2011
+(Dollar amounts in thousands)
+
+Tenant
+
+Number of
+Locations
+
+Total Occupied
+Square Feet (1)
+
+Percentage of
+Net Rentable
+Square Feet
+
+Annualized
+Rent (2)
+
+Percentage of
+Annualized
+Rent
+
+Weighted
+Average
+Remaining
+Lease Term
+in Months
+
+1
+
+Savvis Communications
+
+19
+
+2,001,885
+
+13.7%
+
+$
+
+55,608
+
+7.7%
+
+104
+
+2
+
+Equinix Operating Company, Inc.
+
+8
+
+725,558
+
+5.0%
+
+$
+
+30,566
+
+4.3%
+
+83
+
+3
+
+Facebook, Inc.
+
+4
+
+231,648
+
+1.6%
+
+$
+
+30,070
+
+4.2%
+
+89
+
+4
+
+Morgan Stanley
+
+5
+
+173,506
+
+1.2%
+
+$
+
+25,799
+
+3.6%
+
+42
+
+5
+
+TelX Group, Inc.
+
+11
+
+202,987
+
+1.4%
+
+$
+
+23,569
+
+3.3%
+
+182
+
+6
+
+CenturyLink, Inc. (3)
+
+17
+
+632,658
+
+4.3%
+
+$
+
+21,222
+
+3.0%
+
+67
+
+7
+
+NTT Communications Company
+
+5
+
+307,887
+
+2.1%
+
+$
+
+18,773
+
+2.6%
+
+50
+
+8
+
+AT & T
+
+18
+
+610,384
+
+4.2%
+
+$
+
+17,844
+
+2.5%
+
+91
+
+9
+
+Level 3 Communications, LLC
+
+26
+
+321,543
+
+2.2%
+
+$
+
+12,280
+
+1.7%
+
+112
+119
+
+10
+
+Softlayer Technoloies, Inc.
+
+4
+
+169,390
+
+1.2%
+
+$
+
+11,335
+
+1.6%
+
+11
+
+Pfizer, Inc.
+
+1
+
+87,049
+
+0.6%
+
+$
+
+11,201
+
+1.6%
+
+81
+
+12
+
+TATA Communications (UK)
+
+2
+
+105,366
+
+0.7%
+
+$
+
+10,370
+
+1.4%
+
+81
+
+13
+
+Yahoo! Inc.
+
+2
+
+110,847
+
+0.8%
+
+$
+
+10,056
+
+1.4%
+
+79
+
+14
+
+BT Americas, Inc.
+
+3
+
+67,685
+
+0.5%
+
+$
+
+9,405
+
+1.3%
+
+74
+
+15
+
+JPMorgan Chase & Co.
+
+2
+
+117,953
+
+0.8%
+
+$
+
+9,274
+
+1.3%
+
+134
+
+16
+
+eircom Limited
+
+1
+
+124,500
+
+0.9%
+
+$
+
+9,195
+
+1.3%
+
+100
+
+17
+
+Sprint Communications Co., LP
+
+6
+
+173,319
+
+1.2%
+
+$
+
+9,159
+
+1.3%
+
+42
+
+18
+
+Microsoft Corporation
+
+3
+
+320,528
+
+2.2%
+
+$
+
+9,002
+
+1.3%
+
+55
+
+19
+
+T-Systems North America, Inc.
+
+2
+
+77,610
+
+0.5%
+
+$
+
+8,377
+
+1.2%
+
+36
+
+20
+
+Amazon
+
+5
+
+281,384
+
+1.9%
+
+$
+
+8,211
+
+1.1%
+
+121
+
+6,843,687
+
+47.0%
+
+$
+
+341,316
+
+47.7%
+
+91
+
+Total/Weighted Average
+
+(1) Occupied square footage is defined as leases that have commenced on or before March 31, 2011. For some of our properties, we calculate occupancy based on factors in
+addition to contractually leased square feet, including available power, required support space and common area.
+(2) Annualized rent represents the monthly contractual rent under existing leases as of March 31, 2011 multiplied by 12. We estimate the total net rentable square feet
+available for lease based on a number of factors in addition to contractually leased square feet, including available power, required support space and common area.
+(3) CenturyLink, Inc. completed its merger with Qwest Communications International, Inc. on April 1, 2011.
+
+Page 23
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Lease Expirations and Lease Distribution
+Lease Expirations
+As of March 31, 2011
+(Dollar amounts in thousands)
+
+Year
+Available
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Thereafter
+Portfolio Total / Weighted
+Average
+
+Number of
+Leases Expiring
+(1)
+
+Square
+Footage of
+Expiring
+Leases (2)
+
+Percentage of Net
+Rentable Square
+Feet (2)
+
+Annualized Rent
+(3)
+
+Percentage of
+Annualized Rent
+
+289
+216
+224
+172
+122
+108
+51
+72
+76
+71
+165
+
+950,692
+884,795
+341,934
+946,521
+1,303,068
+2,103,737
+1,255,234
+892,499
+1,021,000
+1,612,646
+771,009
+2,545,132
+
+6.5%
+6.0%
+2.3%
+6.5%
+8.9%
+14.4%
+8.6%
+6.1%
+7.0%
+11.0%
+5.3%
+17.4%
+
+39,021
+34,869
+69,768
+86,782
+87,482
+61,313
+34,774
+47,537
+96,944
+50,399
+109,272
+
+0.0%
+5.4%
+4.9%
+9.7%
+12.1%
+12.2%
+8.5%
+4.8%
+6.6%
+13.5%
+7.0%
+15.3%
+
+1,566
+
+14,628,267
+
+100.0%
+
+718,161
+
+100.0%
+
+Percentage of
+All Leases
+
+Total Net Rentable
+Square Feet (2)
+
+Percentage of Net
+Rentable Square
+Feet (2)
+
+Annualized Rent
+(3)
+
+Percentage of
+Annualized
+Rent
+
+54,081
+134,905
+145,012
+141,777
+142,860
+99,526
+
+0.0%
+7.5%
+18.8%
+20.2%
+19.7%
+19.9%
+13.9%
+
+718,161
+
+100.0%
+
+$
+
+Annualized
+Rent Per
+Occupied
+Square Foot
+
+Annualized Rent
+Per Occupied
+Square Foot at
+Expiration
+
+Annualized
+Rent at
+Expiration
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+44.10
+101.98
+73.71
+66.60
+41.58
+48.85
+38.96
+46.56
+60.11
+65.37
+42.93
+
+44.18
+104.46
+78.95
+72.19
+45.57
+55.14
+45.99
+58.06
+73.34
+85.34
+64.66
+
+39,093
+35,720
+74,728
+94,072
+95,877
+69,210
+41,047
+59,275
+118,265
+65,798
+164,558
+
+$
+
+52.51
+
+$
+
+62.70
+
+$
+
+857,643
+
+Lease Distribution
+As of March 31, 2011
+(Dollar amounts in thousands)
+
+Square Feet Under Lease
+
+Number of
+Leases (1)
+
+Available
+2,500 or less
+2,501 - 10,000
+10,001 - 20,000
+20,001 - 40,000
+40,001 - 100,000
+Greater than 100,000
+
+1,017
+275
+115
+78
+55
+26
+
+64.9%
+17.6%
+7.3%
+5.0%
+3.5%
+1.7%
+
+950,692
+437,545
+1,558,869
+1,916,291
+2,305,975
+3,616,359
+3,842,535
+
+6.5%
+3.0%
+10.7%
+13.1%
+15.8%
+24.7%
+26.2%
+
+Portfolio Total
+
+1,566
+
+100.0%
+
+14,628,267
+
+100.0%
+
+$
+
+(1) Includes license and similar agreements that upon expiration will be automatically renewed, mostly on a month-to-month basis. Number of leases represents the leased-unit count; a lease could include
+multiple units.
+(2) For some of our properties, we calculate square footage based on factors in addition to contractually leased square feet, including available power, required support space and common area.
+(3) Annualized rent represents the monthly contractual rent under existing leases as of March 31, 2011 multiplied by 12. We estimate the total net rentable square feet available for lease based on a number
+of factors in addition to contractually leased square feet, including available power, required support space and common area.
+
+Page 24
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Lease Expirations - By Product Type
+As of March 31, 2011
+(Dollar amounts in thousands)
+
+TURN-KEY DATACENTER
+
+Year
+
+Available
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Thereafter
+Portfolio Total / Weighted
+Average
+
+Number of
+Leases Expiring
+(1)
+
+Square
+Footage of
+Expiring
+Leases (2)
+
+Percentage of
+Net Rentable
+Square Feet
+(2)
+
+Annualized
+Rent (3)
+
+Percentage of
+Annualized Rent
+
+Annualized Rent
+Per Occupied
+Square Foot
+
+Annualized Rent
+Per Occupied
+Square Foot at
+Expiration
+
+Annualized
+Rent at
+Expiration
+
+171
+135
+139
+80
+31
+47
+12
+30
+26
+24
+53
+
+274,395
+165,805
+183,681
+410,699
+362,639
+184,576
+274,769
+146,289
+232,731
+404,220
+248,358
+486,260
+
+1.9%
+1.1%
+1.3%
+2.8%
+2.5%
+1.3%
+1.9%
+1.0%
+1.6%
+2.8%
+1.7%
+3.3%
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+27,926
+30,010
+54,779
+53,838
+22,603
+31,930
+14,697
+24,213
+57,027
+32,655
+46,162
+
+0.0%
+3.9%
+4.2%
+7.6%
+7.5%
+3.1%
+4.4%
+2.0%
+3.4%
+7.9%
+4.5%
+6.5%
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+168.43
+163.38
+133.38
+148.46
+122.46
+116.21
+100.47
+104.04
+141.08
+131.48
+94.93
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+168.85
+167.42
+143.87
+162.17
+134.70
+131.30
+122.18
+138.52
+174.57
+173.10
+158.26
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+27,997
+30,751
+59,089
+58,809
+24,863
+36,077
+17,874
+32,237
+70,565
+42,991
+76,955
+
+748
+
+3,374,422
+
+23.2%
+
+$
+
+395,840
+
+55.0%
+
+$
+
+127.69
+
+$
+
+154.26
+
+$
+
+478,208
+
+POWERED BASE BUILDING
+
+Year
+
+Number of
+Leases Expiring
+(1)
+
+Square
+Footage of
+Expiring
+Leases (2)
+
+Percentage of
+Net Rentable
+Square Feet
+(2)
+
+Annualized
+Rent (3)
+
+Percentage of
+Annualized Rent
+
+Annualized Rent
+Per Occupied
+Square Foot
+
+Annualized Rent
+Per Occupied
+Square Foot at
+Expiration
+
+Annualized
+Rent at
+Expiration
+
+Available
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Thereafter
+
+51
+36
+44
+47
+54
+32
+11
+10
+21
+27
+65
+
+342,412
+437,035
+68,233
+286,404
+677,488
+1,656,256
+787,319
+156,422
+567,986
+1,133,240
+366,903
+1,811,085
+
+2.3%
+3.0%
+0.5%
+2.0%
+4.6%
+11.3%
+5.4%
+1.1%
+3.9%
+7.7%
+2.5%
+12.3%
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+5,221
+3,279
+9,665
+28,715
+55,210
+26,409
+7,303
+18,575
+38,402
+14,869
+59,870
+
+0.0%
+0.7%
+0.5%
+1.3%
+4.0%
+7.7%
+3.7%
+1.0%
+2.6%
+5.3%
+2.1%
+8.4%
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+11.95
+48.06
+33.75
+42.38
+33.33
+33.54
+46.69
+32.70
+33.89
+40.53
+33.06
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+11.95
+49.39
+34.71
+45.45
+36.90
+37.84
+56.28
+37.73
+40.43
+52.63
+45.65
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+5,221
+3,370
+9,942
+30,795
+61,111
+29,795
+8,803
+21,428
+45,812
+19,311
+82,680
+
+Portfolio Total / Weighted
+Average
+
+398
+
+8,290,783
+
+56.6%
+
+$
+
+267,518
+
+37.3%
+
+$
+
+33.66
+
+$
+
+40.04
+
+$
+
+318,268
+
+NON-TECHNICAL
+
+Year
+Available
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Thereafter
+Portfolio Total / Weighted
+Average
+
+Number of
+Leases Expiring
+(1)
+
+Square
+Footage of
+Expiring
+Leases (2)
+
+Percentage of
+Net Rentable
+Square Feet
+(2)
+
+Annualized
+Rent (3)
+
+Percentage of
+Annualized Rent
+
+Annualized Rent
+Per Occupied
+Square Foot
+
+Annualized Rent
+Per Occupied
+Square Foot at
+Expiration
+
+Annualized
+Rent at
+Expiration
+
+67
+45
+41
+45
+37
+29
+28
+32
+29
+20
+47
+
+333,885
+281,955
+90,020
+249,418
+262,941
+262,905
+193,146
+589,788
+220,283
+75,186
+155,748
+247,787
+
+2.3%
+1.9%
+0.6%
+1.7%
+1.8%
+1.8%
+1.3%
+4.0%
+1.5%
+0.5%
+1.1%
+1.7%
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+5,873
+1,580
+5,324
+4,229
+9,670
+2,975
+12,774
+4,748
+1,515
+2,875
+3,240
+
+0.0%
+0.8%
+0.2%
+0.7%
+0.6%
+1.3%
+0.4%
+1.8%
+0.7%
+0.2%
+0.4%
+0.6%
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+20.83
+17.55
+21.35
+16.08
+36.78
+15.40
+21.66
+21.55
+20.15
+18.46
+13.08
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+20.84
+17.75
+22.84
+17.00
+37.66
+17.28
+24.36
+25.47
+25.12
+22.45
+19.86
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+5,875
+1,598
+5,697
+4,469
+9,902
+3,338
+14,370
+5,610
+1,889
+3,497
+4,922
+
+420
+
+2,963,062
+
+20.2%
+
+$
+
+54,803
+
+7.7%
+
+$
+
+20.84
+
+$
+
+23.26
+
+$
+
+61,167
+
+(1) Includes license and similar agreements that upon expiration will be automatically renewed, mostly on a month-to-month basis. Number of leases represents the leased-unit count;
+a lease could include multiple units.
+(2) For some of our properties, we calculate square footage based on factors in addition to contractually leased square feet, including available power, required support space and
+common area.
+(3) Annualized rent represents the monthly contractual rent under existing leases as of March 31, 2011 multiplied by 12. We estimate the total net rentable square feet available for
+lease based on a number of factors in addition to contractually leased square feet, including available power, required support space and common area.
+
+Page 25
+
+114,308
+187,345
+110,776
+
+56,610
+185,602
+41,840
+
+57,698
+1,743
+68,936
+
+Net Rentable
+Square Feet
+
+-
+
+-
+
+$120.34
+$65.24
+$20.78
+
+$154.20
+$23.86
+$23.23
+
+$177.07
+$23.34
+$25.17
+
+$131.75
+$79.77
+$22.05
+
+Expiring Rental
+Rate per Square New Rental Rate
+Foot
+per Square Foot
+
+-
+
+-
+
+9.49%
+22.27%
+6.09%
+
+Rental Rate %
+Change
+
+Page 26
+
+(3) For some of our properties, we calculate square footage based on factors in addition to contractually leased square feet, including available power,
+required support space and common area.
+
+-
+
+$25.13
+$13.35
+$24.92
+
+$6.45
+$12.76
+
+TI's/Lease
+Commissions
+Per Square Foot
+
+(2) Excludes 20 colocation leases signed for 2,012 rentable square feet at an average GAAP rental rate of $299.26 per square foot and two datacenter
+master leases signed for 34,193 rentable square feet at an average GAAP rental rate of $84.27 per square foot with a weighted average lease
+term of 179.3 months.
+
+(1) Rental rates represent annual estimated cash rent per rentable square foot adjusted for straight-line rents in accordance with GAAP.
+
+Turn-Key Datacenter
+Powered Base Building
+Non-technical
+
+13
+3
+26
+
+7
+2
+18
+
+New Leasess Signed
+Turn-Key Datacenter
+Powered Base Building
+Non-technical
+
+Total Leasing Activity
+
+6
+1
+8
+
+Renewals Signed
+Turn-Key Datacenter
+Powered Base Building
+Non-technical
+
+Leasing Activity
+
+Number of
+Leases
+
+Leases Signed in the Quarter Ended March 31, 2011(1)(2)(3)
+
+Summary of Leasing Activity
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+-
+
+92.6 months
+131.6 months
+99.5 months
+
+43.6 months
+120.0 months
+103.3 months
+
+Weighted Average
+Lease Term
+(months)
+
+13
+0
+21
+
+18
+1
+29
+
+New Leases Commenced
+Turn-Key Datacenter
+Powered Base Building
+Non-technical
+
+Total Leasing Activity
+Turn-Key Datacenter
+Powered Base Building
+Non-technical
+140,440
+1,743
+200,715
+
+97,194
+0
+119,554
+
+43,246
+1,743
+81,161
+
+Net Rentable
+Square Feet
+
+-
+
+-
+
+$140.03
+$65.24
+$20.13
+
+Expiring
+Rental Rate
+per Square
+Foot
+
+$180.72
+$79.77
+$22.61
+
+$196.32
+$0.00
+$22.83
+
+$145.68
+$79.77
+$22.29
+
+New Rental
+Rate per
+Square Foot
+
+-
+
+-
+
+4.04%
+22.27%
+10.71%
+
+Rental Rate %
+Change
+
+Page 27
+
+108.6 months
+0.0 months
+82.9 months
+
+54.2 months
+120.0 months
+108.5 months
+
+Weighted Average
+Lease Term
+(months)
+
+(3) For some of our properties, we calculate square footage based on factors in addition to contractually leased square feet, including available power,
+required support space and common area.
+
+(2) Excludes 17 colocation leases commenced for 1,718 rentable square feet at an average GAAP rental rate of $326.27 per square foot, and one
+datacenter master lease commenced for 4,379 rentable square feet at an average GAAP rental rate of $77.46 per square foot with
+a weighted average lease term of 120.8 months.
+
+-
+
+$29.48
+$0.00
+$14.82
+
+$8.52
+$15.52
+
+TI's/Lease
+Commissions
+Per Square
+Foot
+
+(1) Rental rates represent annual estimated cash rent per rentable square foot adjusted for straight-line rents in accordance with GAAP.
+
+5
+1
+8
+
+Renewals Commenced
+Turn-Key Datacenter
+Powered Base Building
+Non-technical
+
+Leasing Activity
+
+Number of
+Leases
+
+Leases Commenced in the Quarter Ended March 31, 2011(1)(2)(3)
+
+Summary of Leasing Activity
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+-
+
+3,716,000
+
+14,628,267
+
+$ 119,971,000
+
+$
+
+3/31/2011
+
+7,464,000
+
+14,584,914
+
+$ 127,942,000
+
+$
+
+12/31/2010
+
+$
+
+$
+
+14,456,127
+
+81,816,000
+
+3,660,000
+
+$
+
+$
+
+Three Months Ended
+9/30/2010
+
+13,270,035
+
+74,735,000
+
+5,044,000
+
+6/30/2010
+
+$
+
+$
+
+13,211,992
+
+54,743,000
+
+5,180,000
+
+3/31/2010
+
+Page 28
+
+(3) For some of our properties, we calculate square footage based on factors in addition to contractually leased square feet, including available power, required support
+space and common area.
+
+(2) Recent property acquisitions may make a period-over-period comparison difficult. For a list of the acquisition dates of our properties, see page 19.
+
+(1) Recurring capital expenditures represent non-incremental building improvements required to maintain current revenues along with leasing commissions. Recurring
+capital expenditures do not include acquisition capital that was taken into consideration when underwriting the purchase of a building or which are incurred to bring a
+building up to "operating standard".
+
+Total net rentable square feet at period end excluding
+(3)
+redevelopment space
+
+(2)
+
+(1) (2)
+
+Non-recurring capital expenditures
+
+Recurring capital expenditures
+
+Historical Capital Expenditures
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Construction Activity Report
+As of March 31, 2011
+(in square feet unless otherwise noted)
+
+Construction in Progress by Market
+Construction in Progress ("CIP")
+
+Market
+Atlanta
+Austin
+Boston
+Chicago
+Dallas
+Houston
+Los Angeles
+New York
+Northern Virginia
+Philadelphia
+Phoenix
+San Francisco
+Silicon Valley
+St. Louis
+Amsterdam, Netherlands
+Paris, France
+
+Redevelopment
+Inventory Under
+Construction
+14,097
+20,306
+18,736
+7,633
+72,826
+32,962
+24,005
+90,972
+-
+
+Development
+Inventory Under
+Construction
+60,100
+305,138
+226,143
+-
+
+Redevelopment
+Inventory
+Pre-Construction
+20,305
+23,774
+-
+
+Total
+Construction In
+Progress
+14,097
+40,611
+18,736
+7,633
+132,926
+338,100
+226,143
+47,779
+90,972
+-
+
+Space Held for
+Future
+Redevelopment
+1,923
+74,962
+100,826
+4,513
+706,897
+57,694
+224,646
+72,273
+65,988
+33,560
+126,226
+48,000
+19,846
+
+Total Inventory
+1,923
+74,962
+114,923
+4,513
+747,508
+76,430
+7,633
+357,572
+410,373
+65,988
+226,143
+33,560
+174,005
+48,000
+90,972
+19,846
+
+% Leased
+0.0%
+0.0%
+0.0%
+0.0%
+5.4%
+73.5%
+100.0%
+20.4%
+74.4%
+5.3%
+0.0%
+0.0%
+3.4%
+0.0%
+80.3%
+0.0%
+47.2%
+0.0%
+
+London, England
+Singapore
+
+64,853
+-
+
+-
+
+52,929
+
+64,853
+52,929
+
+255,993
+
+64,853
+308,922
+
+Grand Total
+
+346,390
+
+591,381
+
+97,008
+
+1,034,779
+
+1,793,347
+
+2,828,126
+
+Total US Markets
+
+190,565
+
+591,381
+
+44,079
+
+826,025
+
+1,517,508
+
+2,343,533
+
+17.4%
+
+Total Intl Markets
+
+155,825
+
+-
+
+52,929
+
+208,754
+
+275,839
+
+484,593
+
+3.7%
+
+51.6%
+
+20.9%
+
+53.6%
+
+2.3%
+
+21.1%
+
+US
+161,818
+664,207
+826,025
+
+Europe
+73,878
+25,975
+55,972
+155,825
+
+Asia/Pacific
+52,929
+52,929
+
+Total
+288,625
+690,182
+55,972
+1,034,779
+
+% Leased
+36.3%
+57.1%
+100.0%
+53.6%
+
+US
+1,673,946
+234,391
+
+Europe
+183,980
+-
+
+Asia/Pacific
+308,922
+-
+
+Total
+2,166,848
+234,391
+
+% Leased
+
+(146,491)
+(9,694)
+1,752,152
+
+(8,309)
+175,671
+
+308,922
+
+(154,800)
+(9,694)
+2,236,745
+
+% Leased⁽¹⁾
+
+66.1%
+
+-
+
+Construction in Progress by Product Type
+Turn-Key Datacenter®
+Powered Base Building®
+Build-to-Suit
+Total Construction in Progress by Product Type
+
+Redevelopment Activity
+Redevelopment Space as of December 31, 2010
+Acquired Redevelopment Space and New Construction Space
+Converted Redevelopment Space:
+Turn-Key Datacenter®
+Powered Base Building®
+Build-to-Suit
+Remeasurement Adjustments
+Redevelopment Space as of March 31, 2011
+
+(1) Represents leases signed.
+
+Page 29
+
+55.7%
+82.5%
+-
+
+-
+
+Powered Base Building Under Construction as of March 31, 2011 (2)
+
+Base Building Improvements to Current/In Progress Space Under Construction
+
+Base Building Improvements to Operating Portfolio
+
+3,025,437
+
+-
+
+1,649,097
+
+1,034,779
+
+-
+
+-
+
+-
+
+-
+
+690,182
+
+55,972
+
+288,625
+
+Net Rentable
+Square Footage
+
+$
+
+$
+
+165,839
+
+11,940
+
+12,345
+
+20,041
+
+11,457
+
+18,590
+
+14,464
+
+77,002
+
+$
+
+$
+
+(4) Pool account - not job specific.
+
+Page 30
+
+(3) Square footage represents square feet that will be benefited from these base building improvements.
+
+(2) Represents suite-specific projects.
+
+363,527
+
+4,329
+
+26,323
+
+115,932
+
+6,482
+
+62,899
+
+32,116
+
+115,446
+
+$
+
+$
+
+529,366
+
+16,269
+
+38,668
+
+135,973
+
+17,939
+
+81,489
+
+46,580
+
+192,448
+
+$
+
+$
+
+$
+
+$
+
+$
+
+23
+
+99
+
+118
+
+832
+
+667
+
+Direct
+Direct Project Project Cost
+Total
+Per Net
+Estimated
+Direct Project Cost - Direct Project Cost
+Rentable
+Spent To Date
+- To Be Spent
+Cost
+Square Foot
+
+(1) Includes direct project cash disbursements and project accruals; does not include capitalized costs (i.e. interest and general & administrative) or pro-rata acquisition cost.
+
+Notes:
+
+TOTAL
+
+Equipment Pool (4)
+
+(3)
+
+1,376,340
+
+-
+
+Base Building Improvements to Support Future Development (3)
+
+-
+
+Build-to-Suit Under Construction as of March 31, 2011 (2)
+
+Base Building
+Improvement To
+Net Rentable
+Square Footage
+
+Turn-Key Datacenter Under Construction as of March 31, 2011 (2)
+
+Construction Projects In Progress And Total Estimated Direct Cost
+
+(Dollar amounts in thousands)
+
+Construction Projects In Progress And Total Estimated Direct Cost (1)
+For the quarter ended March 31, 2011
+
+First Quarter 2011
+
+DIGITAL REALTY TRUST, INC.
+
+DIGITAL REALTY TRUST, INC.
+First Quarter 2011
+
+Management Statements on Non-GAAP Supplemental Measures
+
+Funds from Operations:
+We calculate funds from operations, or FFO, in accordance with the standards established by the National Association of Real Estate Investment Trusts, or NAREIT. FFO
+represents net income (loss) (computed in accordance with GAAP), excluding gains (or losses) from sales of property, real estate related depreciation and amortization
+(excluding amortization of deferred financing costs) and after adjustments for unconsolidated partnerships and joint ventures. Management uses FFO as a supplemental
+performance measure because, in excluding real estate related depreciation and amortization and gains and losses from property dispositions and after adjustments for
+unconsolidated partnerships and joint ventures, it provides a performance measure that, when compared year over year, captures trends in occupancy rates, rental rates and
+operating costs. We also believe that, as a widely recognized measure of the performance of REITs, FFO will be used by investors as a basis to compare our operating
+performance with that of other REITs. However, because FFO excludes depreciation and amortization and captures neither the changes in the value of our properties that
+result from use or market conditions, nor the level of capital expenditures and capitalized leasing commissions necessary to maintain the operating performance of our
+properties, all of which have real economic effect and could materially impact our financial condition and results from operations, the utility of FFO as a measure of our
+performance is limited. Other REITs may not calculate FFO in accordance with the NAREIT definition and, accordingly, our FFO may not be comparable to such other REITs’
+FFO. Accordingly, FFO should be considered only as a supplement to net income computed in accordance with GAAP as a measure of our performance.
+Adjusted Funds from Operations:
+We present adjusted funds from operations, or AFFO, as a supplemental operating measure because, when compared year over year, it assesses our ability to fund dividend
+and distribution requirements from our operating activities. We also believe that, as a widely recognized measure of the operations of REITs, AFFO will be used by investors as
+a basis to assess our ability to fund dividend payments in comparison to other REITs, including on a per share and unit basis. We calculate AFFO by adding to or subtracting
+from FFO (i) non-real estate depreciation, (ii) amortization of deferred financing costs, (iii) non-cash compensation, (iv) straight line rents, (v) fair value of lease revenue
+amortization, (vi) capitalized leasing payroll, (vii) recurring tenant improvements, (viii) capitalized leasing commissions and (ix) costs of redeeming our preferred stock. Other
+equity REITs may not calculate AFFO in a consistent manner. Accordingly, our AFFO may not be comparable to other REITs’ AFFO. AFFO should be considered only as a
+supplement to net income computed in accordance with GAAP as a measure of our performance.
+EBITDA and Adjusted EBITDA:
+We believe that earnings before interest expense, income taxes, depreciation and amortization, or EBITDA, and Adjusted EBITDA (as defined below), are useful supplemental
+performance measures because they allow investors to view our performance without the impact of non-cash depreciation and amortization or the cost of debt and, with respect
+to Adjusted EBITDA, preferred dividends and noncontrolling interests. Adjusted EBITDA is EBITDA excluding noncontrolling interests, preferred stock dividends and costs of
+redeeming our preferred stock. In addition, we believe EBITDA and Adjusted EBITDA are frequently used by securities analysts, investors and other interested parties in the
+evaluation of REITs. Because EBITDA and Adjusted EBITDA are calculated before recurring cash charges including interest expense and income taxes, exclude capitalized
+costs, such as leasing commissions, and are not adjusted for capital expenditures or other recurring cash requirements of our business, their utility as a measure of our
+performance is limited. Other REITs may calculate EBITDA and Adjusted EBITDA differently than we do; accordingly, our EBITDA and Adjusted EBITDA may not be
+comparable to such other REITs’ EBITDA and Adjusted EBITDA. Accordingly, EBITDA and Adjusted EBITDA should be considered only as supplements to net income
+(computed in accordance with GAAP) as a measure of our financial performance.
+NOI and Run-rate NOI:
+Net Operating Income (NOI)
+NOI represents rental revenue and tenant reimbursement revenue less rental property operating and maintenance expenses, property taxes and insurance expenses (as
+reflected in the statement of operations). NOI is commonly used by stockholders, company management and industry analysts as a measurement of operating performance of
+the company’s rental portfolio. However, because NOI excludes depreciation and amortization and captures neither the changes in the value of our properties that result from
+use or market conditions, nor the level of capital expenditures and capitalized leasing commissions necessary to maintain the operating performance of our properties, all of
+which have real economic effect and could materially impact our results from operations, the utility of NOI as a measure of our performance is limited. Other REITs may not
+calculate NOI in the same manner we do and, accordingly, our NOI may not be comparable to such other REITs’ NOI. Accordingly, NOI should be considered only as a
+supplement to net income computed in accordance with GAAP as a measure of our performance.
+Run-rate NOI:
+Run-rate NOI represents NOI as defined above adjusted for new acquisitions to show an estimate of NOI as if the property had been owned for the entire quarter. Run-rate NOI
+is commonly used by stockholders, company management and industry analysts as a measurement of future operating performance of the company’s rental portfolio. Run-rate
+NOI may not be indicative of future performance. Actual performance is subject to risks, uncertainties and assumptions. See the discussion of forward-looking statements on
+page 3. Other REITs may not calculate Run-rate NOI in the same manner we do and, accordingly, our Run-rate NOI may not be comparable to such other REITs’ Run-rate
+NOI. Accordingly, Run-rate NOI should be considered only as a supplement to net income computed in accordance with GAAP as a measure of our performance.
+
+Page 31
+
+

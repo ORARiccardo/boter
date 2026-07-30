@@ -1,0 +1,5 @@
+original_name: 3941cc59-2ec4-4bcf-a5af-377fb76d042d.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/d3d27ccc-85a6-4837-a936-e9212bd745b4
+pdf_file: pdfs/3941cc59-2ec4-4bcf-a5af-377fb76d042d__dc990a0ee3.pdf
+text_file: extracted/3941cc59-2ec4-4bcf-a5af-377fb76d042d__dc990a0ee3.txt

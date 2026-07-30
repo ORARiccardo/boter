@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Q1-24-Supplemental-Draft-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/5f57ca66-a6fd-415d-96c4-dbfe22b4883c
+pdf_file: pdfs/Digital-Realty-Q1-24-Supplemental-Draft-FINAL__c31093f143.pdf
+text_file: extracted/Digital-Realty-Q1-24-Supplemental-Draft-FINAL__c31093f143.txt

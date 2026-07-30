@@ -1,0 +1,5 @@
+original_name: Digital-Realty-3Q20-Earnings-Presentation-2.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/0a5479b1-2f29-43c1-8aa1-c1ddc2991427
+pdf_file: pdfs/Digital-Realty-3Q20-Earnings-Presentation-2__c19e0a9423.pdf
+text_file: extracted/Digital-Realty-3Q20-Earnings-Presentation-2__c19e0a9423.txt

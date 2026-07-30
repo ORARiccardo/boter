@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Third-Quarter-2020-Results-2020.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/93affbb5-2cb3-4f78-b5c1-0c5846dc4576
+pdf_file: pdfs/Digital-Realty-Reports-Third-Quarter-2020-Results-2020__3d590a0e99.pdf
+text_file: extracted/Digital-Realty-Reports-Third-Quarter-2020-Results-2020__3d590a0e99.txt

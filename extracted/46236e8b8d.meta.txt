@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-First-Quarter-2014-Results.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/3a5dc24f-56e4-4c42-80a8-88d999f29c7b
+pdf_file: pdfs/Digital-Realty-Reports-First-Quarter-2014-Results__46236e8b8d.pdf
+text_file: extracted/Digital-Realty-Reports-First-Quarter-2014-Results__46236e8b8d.txt

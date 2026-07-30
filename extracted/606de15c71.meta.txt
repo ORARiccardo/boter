@@ -1,0 +1,5 @@
+original_name: 4Q18-Financial-Supplemental-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/5671717f-0b89-492a-9068-c1c125164acc
+pdf_file: pdfs/4Q18-Financial-Supplemental-FINAL__606de15c71.pdf
+text_file: extracted/4Q18-Financial-Supplemental-FINAL__606de15c71.txt

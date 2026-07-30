@@ -1,0 +1,5 @@
+original_name: 2Q17-Earnings-Call-Press-Release-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/aa06467e-d224-48d9-bc72-298bc671e243
+pdf_file: pdfs/2Q17-Earnings-Call-Press-Release-FINAL__b773f6feb2.pdf
+text_file: extracted/2Q17-Earnings-Call-Press-Release-FINAL__b773f6feb2.txt

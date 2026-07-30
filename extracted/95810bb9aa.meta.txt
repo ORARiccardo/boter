@@ -1,0 +1,5 @@
+original_name: 1Q23-Earnings-Presentation-FINAL-4-27-23.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/220b5e8e-00c5-4cae-9440-adf5e37d4c5d
+pdf_file: pdfs/1Q23-Earnings-Presentation-FINAL-4-27-23__95810bb9aa.pdf
+text_file: extracted/1Q23-Earnings-Presentation-FINAL-4-27-23__95810bb9aa.txt

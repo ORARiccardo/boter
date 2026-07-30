@@ -1,0 +1,5 @@
+original_name: Digital-Realty-3Q22-Earnings-Press-Release_10.26.22.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/8cc67663-c937-4634-8d06-e9ad914cf7df
+pdf_file: pdfs/Digital-Realty-3Q22-Earnings-Press-Release_10.26.22__1dbc1e0d42.pdf
+text_file: extracted/Digital-Realty-3Q22-Earnings-Press-Release_10.26.22__1dbc1e0d42.txt

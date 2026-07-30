@@ -1,0 +1,5 @@
+original_name: Digital-Realty-3Q21-Earnings-Press-Release.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/1afec0be-49bd-4773-9664-a5f9cc2a2689
+pdf_file: pdfs/Digital-Realty-3Q21-Earnings-Press-Release__3fa6a4562c.pdf
+text_file: extracted/Digital-Realty-3Q21-Earnings-Press-Release__3fa6a4562c.txt

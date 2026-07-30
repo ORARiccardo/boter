@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Third-Quarter-2016-Results.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/b6c4e958-d319-4e70-be60-5a24d24b603a
+pdf_file: pdfs/Digital-Realty-Reports-Third-Quarter-2016-Results__557c0734fc.pdf
+text_file: extracted/Digital-Realty-Reports-Third-Quarter-2016-Results__557c0734fc.txt

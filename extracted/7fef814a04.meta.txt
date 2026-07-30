@@ -1,0 +1,5 @@
+original_name: Digital Realty 1Q26 Earnings Press Release 4.23.2026.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/186019d2-aa98-4bf5-a1c6-15bb5af879ed
+pdf_file: pdfs/Digital_Realty_1Q26_Earnings_Press_Release_4.23.2026__7fef814a04.pdf
+text_file: extracted/Digital_Realty_1Q26_Earnings_Press_Release_4.23.2026__7fef814a04.txt

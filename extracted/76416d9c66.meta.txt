@@ -1,0 +1,5 @@
+original_name: Digital-Realty-2Q21-Earnings-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/d4486758-150b-429d-884e-2e3f5a1ffd13
+pdf_file: pdfs/Digital-Realty-2Q21-Earnings-Presentation__76416d9c66.pdf
+text_file: extracted/Digital-Realty-2Q21-Earnings-Presentation__76416d9c66.txt

@@ -1,0 +1,5 @@
+original_name: 1500068160.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/1c8e92e5-4af8-4cab-8ea4-f140c4e48cfa
+pdf_file: pdfs/1500068160__d2c843225b.pdf
+text_file: extracted/1500068160__d2c843225b.txt

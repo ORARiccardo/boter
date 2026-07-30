@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Second-Quarter-2016-Results.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/705d000d-d664-4d47-bcd4-b96aaa12781e
+pdf_file: pdfs/Digital-Realty-Reports-Second-Quarter-2016-Results__b1a0d3a81d.pdf
+text_file: extracted/Digital-Realty-Reports-Second-Quarter-2016-Results__b1a0d3a81d.txt

@@ -1,0 +1,5 @@
+original_name: 4Q21-Earnings-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/4ff3cb4f-f460-4fef-b365-2071d98d02f6
+pdf_file: pdfs/4Q21-Earnings-Presentation__d3ed3b6d4c.pdf
+text_file: extracted/4Q21-Earnings-Presentation__d3ed3b6d4c.txt

@@ -1,0 +1,5 @@
+original_name: Digital-Realty-2Q22-Earnings-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/9d0c68c8-53ff-41d4-9efe-9f6d6dceac7f
+pdf_file: pdfs/Digital-Realty-2Q22-Earnings-Presentation__0becd5dc27.pdf
+text_file: extracted/Digital-Realty-2Q22-Earnings-Presentation__0becd5dc27.txt

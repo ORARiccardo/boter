@@ -1,0 +1,5 @@
+original_name: Digital-Realty-4Q23-Earnings-Presentation-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/61afb81c-7fe9-4d2b-b94e-70723d0855b2
+pdf_file: pdfs/Digital-Realty-4Q23-Earnings-Presentation-FINAL__c75b016139.pdf
+text_file: extracted/Digital-Realty-4Q23-Earnings-Presentation-FINAL__c75b016139.txt

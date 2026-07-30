@@ -1,0 +1,5 @@
+original_name: 1001194593.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/341fc9f0-7f3c-4258-9084-102f017e40d6
+pdf_file: pdfs/1001194593__06f855a04e.pdf
+text_file: extracted/1001194593__06f855a04e.txt

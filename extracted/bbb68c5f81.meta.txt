@@ -1,0 +1,5 @@
+original_name: Digital-Realty-1Q22-Earnings-Release-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/e4a3e31b-f33d-4b37-832e-5238e6e267c4
+pdf_file: pdfs/Digital-Realty-1Q22-Earnings-Release-FINAL__bbb68c5f81.pdf
+text_file: extracted/Digital-Realty-1Q22-Earnings-Release-FINAL__bbb68c5f81.txt

@@ -1,0 +1,5 @@
+original_name: 4Q20-Earnings-Presentation-FINAL-v2.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/efad4529-5092-46e3-87f7-c41940fdf367
+pdf_file: pdfs/4Q20-Earnings-Presentation-FINAL-v2__19873873fb.pdf
+text_file: extracted/4Q20-Earnings-Presentation-FINAL-v2__19873873fb.txt

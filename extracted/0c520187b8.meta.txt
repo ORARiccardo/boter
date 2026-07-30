@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Second-Quarter-2018-Results.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/29c9f334-c77a-4b75-bca7-fa6c89514b99
+pdf_file: pdfs/Digital-Realty-Reports-Second-Quarter-2018-Results__0c520187b8.pdf
+text_file: extracted/Digital-Realty-Reports-Second-Quarter-2018-Results__0c520187b8.txt

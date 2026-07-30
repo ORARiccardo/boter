@@ -1,0 +1,5 @@
+original_name: Digital-Realty-1Q21-Supplemental.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/fd69a4ef-5ff5-46df-a98f-1e2c0f11c23e
+pdf_file: pdfs/Digital-Realty-1Q21-Supplemental__e5fda8bb7b.pdf
+text_file: extracted/Digital-Realty-1Q21-Supplemental__e5fda8bb7b.txt

@@ -1,0 +1,5 @@
+original_name: 2Q19-Earnings-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/723b5170-1d22-4020-9d5e-47660d674938
+pdf_file: pdfs/2Q19-Earnings-Presentation__66c4a56503.pdf
+text_file: extracted/2Q19-Earnings-Presentation__66c4a56503.txt

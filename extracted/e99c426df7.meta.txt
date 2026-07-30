@@ -1,0 +1,5 @@
+original_name: Digital-Realty-2Q25-Earnings-Supplemental-07-24-2025.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/7689bc64-e5cc-45ae-aa51-f5f9eac71cf0
+pdf_file: pdfs/Digital-Realty-2Q25-Earnings-Supplemental-07-24-2025__e99c426df7.pdf
+text_file: extracted/Digital-Realty-2Q25-Earnings-Supplemental-07-24-2025__e99c426df7.txt

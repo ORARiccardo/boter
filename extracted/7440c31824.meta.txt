@@ -1,0 +1,5 @@
+original_name: 4Q18-Earnings-Press-Release-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/6e6adaa6-603c-48c5-a89c-b2010dfc23da
+pdf_file: pdfs/4Q18-Earnings-Press-Release-FINAL__7440c31824.pdf
+text_file: extracted/4Q18-Earnings-Press-Release-FINAL__7440c31824.txt

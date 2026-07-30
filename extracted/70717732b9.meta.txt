@@ -1,0 +1,5 @@
+original_name: Digital-Realty-2Q23-Earnings-Press-Release-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/d85ab334-bc85-49a5-86c9-ab7e551f4e68
+pdf_file: pdfs/Digital-Realty-2Q23-Earnings-Press-Release-FINAL__70717732b9.pdf
+text_file: extracted/Digital-Realty-2Q23-Earnings-Press-Release-FINAL__70717732b9.txt

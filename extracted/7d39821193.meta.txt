@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Fourth-Quarter-And-Full-Year-2017-Results.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/a02dbbc0-51fd-4b7a-b448-eacd6930a630
+pdf_file: pdfs/Digital-Realty-Reports-Fourth-Quarter-And-Full-Year-2017-Results__7d39821193.pdf
+text_file: extracted/Digital-Realty-Reports-Fourth-Quarter-And-Full-Year-2017-Results__7d39821193.txt

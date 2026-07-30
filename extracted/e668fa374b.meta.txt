@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Fourth-Quarter-2020-Results-2021.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/baf95077-cd06-4aa4-aa2c-aea424b9f266
+pdf_file: pdfs/Digital-Realty-Reports-Fourth-Quarter-2020-Results-2021__e668fa374b.pdf
+text_file: extracted/Digital-Realty-Reports-Fourth-Quarter-2020-Results-2021__e668fa374b.txt

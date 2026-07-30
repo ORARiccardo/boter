@@ -1,0 +1,5 @@
+original_name: Q4'20_Supplemental_FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/d05f4680-9b27-404c-9b4a-e056b83c5f45
+pdf_file: pdfs/Q4_20_Supplemental_FINAL__d2d4a25621.pdf
+text_file: extracted/Q4_20_Supplemental_FINAL__d2d4a25621.txt

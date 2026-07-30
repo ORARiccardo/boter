@@ -1,0 +1,5 @@
+original_name: DLR-1Q16-Earnings-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/8f1afd4e-a77e-4e26-bf94-04aaa7a91253
+pdf_file: pdfs/DLR-1Q16-Earnings-Presentation__366d209608.pdf
+text_file: extracted/DLR-1Q16-Earnings-Presentation__366d209608.txt

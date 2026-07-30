@@ -1,0 +1,5 @@
+original_name: Digital-Realty-1Q18-Earnings-Presentation-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/949d9ea7-8156-4792-a012-2bd84b8a7d45
+pdf_file: pdfs/Digital-Realty-1Q18-Earnings-Presentation-FINAL__9be441e1e1.pdf
+text_file: extracted/Digital-Realty-1Q18-Earnings-Presentation-FINAL__9be441e1e1.txt

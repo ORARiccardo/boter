@@ -1,0 +1,4387 @@
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Supplemental Operating and Financial Data
+September 30, 2005
+
+This Supplemental Operating and Financial Data package is not an offer to sell or solicitation to buy
+securities of Digital Realty Trust, Inc. Any offers to sell or solicitation to buy securities of Digital Realty
+Trust, Inc. shall be made only by means of a prospectus approved for that purpose.
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+
+Table of Contents
+PAGE
+Corporate Data
+Corporate Information……………………………………………………………………………………………………………..
+Investor Information………………………………………………………………………………………………………………..
+Stock Performance………………………………………………………………………………………………………………..
+Ownership Structure………………………………………………………………………………………………………………
+
+3
+4
+5
+6
+
+Consolidated Financial Results
+Properties Acquired………………………………………………………………………………………………………………………
+Key Financial Data………………………………………………………………………………………………………………..
+Consolidated Balance Sheets……………………………………………………………………………………………………
+Consolidated and Combined Statements of Operations………………………………………………………………………………
+Funds From Operations…………………………………………………………………………………………………………..
+Adjusted Funds from Operations…………………………………………………………………………………………………………
+Reconciliation of Earnings Before Interest, Taxes and Depreciation and Amortization……………………………………
+Capital Structure…………………………………………………………………………………………………………………..
+Debt Summary……………………………………………………………………………………………………………………..
+Debt Maturities……………………………………………………………………………………………………………………..
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Portfolio Data
+Occupancy Analysis………………………………………………………………………………………………………………
+Major Tenants………………………………………………………………………………………………………………………
+Lease Expirations………………………………………………………………………………………………………………….
+Lease Distribution………………………………………………………………………………………………………………….
+Leasing Activity…………………………………………………………………………………………………………………….
+Tenant Improvements and Leasing Commissions……………………………………………………………………………..
+Historical Capital Expenditures…………………………………………………………………………………………………..
+Management Statements on Non-GAAP Supplemental Measures………………………………………………………….
+
+This supplemental package contains forward-looking statements within the meaning of the federal securities laws. Such statements are based on management’s beliefs and
+assumptions made based on information currently available to management. Such statements are subject to risks, uncertainties and assumptions and are not guarantees of
+future performance and may be affected by known and unknown risks, trends, uncertainties and factors that are beyond our control. Should one or more of these risks or
+uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those anticipated, estimated or projected. Some of the risks
+and uncertainties that may cause our actual results, performance or achievements to differ materially from those expressed or implied by forward-looking statements include,
+among others, the following: adverse economic or real estate developments in our markets or the technology industry; general and local economic conditions; defaults on or
+non-renewal of leases by tenants; increased interest rates and operating costs; our inability to manage growth effectively; our failure to obtain necessary outside financing;
+decreased rental rates or increased vacancy rates; difficulties in identifying properties to acquire and completing acquisitions; our failure to successfully operate acquired
+properties and operations; our failure to maintain our status as a REIT; possible adverse changes to tax laws; environmental uncertainties and risks related to natural disasters;
+financial market fluctuations; changes in foreign currency exchange rates; and changes in real estate and zoning laws and increases in real property tax rates. The risks
+included here are not exhaustive, and additional factors could adversely affect our business and financial performance. We discussed a number of additional material risks in
+our annual report on Form 10-K for the year ended December 31, 2004 and other filings with the Securities and Exchange Commission. Those risks continue to be relevant to
+our performance and financial condition. Moreover, we operate in a very competitive and rapidly changing environment. New risk factors emerge from time to time and it is not
+possible for management to predict all such risk factors, nor can it assess the impact of all such risk factors on the business or the extent to which any factor, or combination of
+factors, may cause actual results to differ materially from those contained in any forward-looking statements. We expressly disclaim any responsibility to update forward-looking
+statements, whether as a result of new information, future events or otherwise.
+
+2
+
+17
+18
+19
+20
+21
+22
+23
+24
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+
+Corporate Information
+Corporate Profile
+Digital Realty Trust is firmly positioned at the crossroads of real estate and technology and focuses solely on the
+ownership of technology real estate:
+- We own and operate properties that are critical to the operations of our tenants;
+- As of September 30, 2005, our portfolio is primarily located in 15 major metropolitan areas in the United States and
+Amsterdam and London in Europe;
+- We concentrate on areas within the technology industry that we believe have growth potential. As such, we
+emphasize properties that provide the infrastructure for sectors such as corporate enterprise data centers, disaster
+recovery and business continuity, electronic commerce and the security of stored or transmitted electronic data.
+As of September 30, 2005, our 38 property portfolio, totaling 7.9 million square feet excluding space held for
+development, consists mainly of highly improved properties containing specialized facilities that play a critical role in
+our tenants' operations and in the delivery of services to their customers. We maintain a significant focus on Internet
+gateway and data center properties that are located at the junction of major high-speed data networks that deliver
+Internet, data, voice, video, wireless and satellite services.
+Our tenant base includes media, communications and technology-based businesses, Internet enterprises and Fortune
+1000 companies. Our tenants' operations typically require specially designed and engineered facilities that maintain
+sophisticated security systems, robust and redundant power services, backup power systems, redundant air
+conditioning systems and advanced fire suppression systems.
+
+Corporate Headquarters
+560 Mission Street, Suite 2900
+San Francisco, California 94105
+Telephone:
+(415) 738-6500
+Facsimile:
+(415) 738-6501
+Web site:
+www.digitalrealtytrust.com
+
+Senior Management
+Richard A. Magnuson
+Michael F. Foust
+A. William Stein
+Scott E. Peterson
+Christopher J. Crosby
+
+Executive Chairman
+Chief Executive Officer
+Chief Financial Officer and Chief Investment Officer
+Senior Vice President, Acquisitions
+Vice President, Sales
+
+Investor Relations
+To request an Investor Relations package or be added to our e-mail distribution list, please contact us at:
+Web site:
+
+www.digitalrealtytrust.com
+
+(Go to Information Request in the Investor Relations section)
+
+This Supplemental Operating and Financial Data package supplements the information provided in our quarterly and
+annual reports filed with the Securities and Exchange Commission. Additional information about us and our properties
+is also available at our website www.digitalrealtytrust.com.
+
+3
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Investor Information
+Analyst Coverage
+Credit Suisse First Boston
+Andrew Rosivach
+(212) 325-6205
+
+Merrill Lynch
+Brian Legg
+(212) 449-1153
+
+JMP Securities
+William Marks
+(415) 835-8944
+
+RBC Capital Markets
+Jay Leupp
+(415) 633-8558
+
+KeyBanc Capital Markets
+Richard Moore
+(216) 443-2815
+
+SmithBarney Citigroup
+Jonathan Litt
+(212) 816-0231
+
+Quarterly Reporting Schedule
+Quarterly results will be announced according to the following anticipated schedule:
+Third Quarter
+Fourth Quarter and Year End
+
+November 10, 2005
+To be decided.
+
+Stock Listing
+The stock of Digital Realty Trust, Inc. is traded primarily on the New York Stock Exchange
+under the following symbols:
+Common Stock:
+Series A Preferred Stock:
+Series B Preferred Stock:
+
+DLR
+DLRPA
+DLRPB
+
+Note that symbols may vary by stock quote provider.
+
+4
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Stock Performance
+
+The following summarizes recent activity of Digital Realty's common stock (DLR):
+
+High Price *
+Low Price *
+Closing Price, end of period *
+Average daily trading volume *
+Indicated dividend per share **
+Closing dividend yield, end of period
+Closing shares and units outstanding (thousands), end of period
+Closing market value of shares and units outstanding (thousands), end of period
+
+3rd Quarter
+2005
+$
+19.97
+$
+16.80
+$
+18.00
+260,942
+$
+0.975
+5.4%
+58,826
+$
+1,058,870
+
+2nd Quarter
+2005
+$
+17.49
+$
+13.67
+$
+17.38
+94,248
+$
+0.975
+5.6%
+52,943
+$
+920,145
+
+1st Quarter
+2005
+$
+14.81
+$
+12.50
+$
+14.37
+94,884
+$
+0.975
+6.8%
+52,943
+$
+760,787
+
+2nd Quarter
+2005
+$
+26.70
+$
+25.85
+$
+25.97
+$
+2.125
+8.2%
+4,140
+$
+107,516
+
+2/9/05 to
+3/31/05
+$
+26.63
+$
+25.90
+$
+26.00
+$
+2.125
+8.2%
+4,140
+$
+107,640
+
+The following summarizes recent activity of Digital Realty's Series A preferred stock (DLRPA):
+
+High Price *
+Low Price *
+Closing Price, end of period *
+Indicated dividend per share **
+Closing dividend yield, end of period
+Closing shares outstanding (thousands), end of period
+Closing market value of shares outstanding (thousands), end of period
+
+3rd Quarter
+2005
+$
+26.60
+$
+26.10
+$
+26.35
+$
+2.125
+8.1%
+4,140
+$
+109,089
+
+The following summarizes recent activity of Digital Realty's Series B preferred stock (DLRPB):
+
+High Price *
+Low Price *
+Closing Price, end of period *
+Indicated dividend per share **
+Closing dividend yield, end of period
+Closing shares outstanding (thousands), end of period
+Closing market value of shares outstanding (thousands), end of period
+
+* New York Stock Exchange trades only
+** On an annual basis
+
+5
+
+7/26/05 to
+9/30/05
+$
+25.55
+$
+24.95
+$
+24.95
+$
+1.969
+7.9%
+2,530
+$
+63,124
+
+Digital Realty Trust, Inc.
+Ownership Structure
+As of September 30, 2005
+Series A Preferred
+Stockholders
+
+Public
+Stockholders
+
+Series B Preferred
+Stockholders
+
+Digital Realty Trust, Inc.
+(the REIT)
+
+46.4%
+Common
+General
+Partnership
+(1)
+Interest
+
+100% Series
+A/B Preferred
+Partnership
+Interest
+
+GI Partners
+40.3% Limited
+Partnership
+Interest
+
+10.8%
+Limited
+Partnership
+Interest
+
+Digital Realty Trust, L.P.
+(our operating partnership)
+
+Third-Party
+Contributors
+
+100%
+2.5% Limited
+Partnership
+(2)
+Interest
+Digital Services,
+Inc. (taxable REIT
+subsidiary)
+36 Northeast Second Street
+100 Technology Center Drive
+200 Paul Avenue
+833 Chestnut Street
+1100 Space Park Drive
+AboveNet Data Center
+Ameriquest Data Center
+Amsterdam Data Center
+Ardenwood Corporate Park
+ASM Lithography Facility
+AT&T Web Hosting Facility
+Brea Data Center
+Burbank Data Center
+Camperdown House (3)
+Carrier Center
+Charlotte Internet Gateway (4)
+Comverse Technology Building
+eBay Data Center
+
+Granite Tower
+Hudson Corporate Center
+Lakeside Technology Center
+MAPP Building
+Maxtor Manufacturing Facility
+NTT/Verio Premier Data Center
+Printers' Square
+Savvis Data Center 1
+Savvis Data Center 2
+Savvis Data Center 3
+Savvis Data Center 4
+Savvis Data Center 5
+Savvis Office Building
+Siemens Building
+Stanford Place II (5)
+Univision Tower
+VarTec Building
+Webb at LBJ
+
+Partner
+
+# of Units (6)
+
+% Ownership (1)
+
+Digital Realty Trust, Inc.
+
+27,304,691
+
+46.4%
+
+GI Partners, LLC
+
+23,699,359
+
+40.3%
+
+Cambay Tele.com, LLC (7)
+
+5,903,124
+
+10.0%
+
+Wave Exchange, LLC
+
+(7)
+
+Pacific-Bryan Partners, L.P.
+
+(8)
+
+Directors, Executive
+Officers and Others
+
+32,722
+
+0.1%
+
+395,665
+
+0.7%
+
+Directors, Executive Officers and Others
+
+1,490,561
+
+2.5%
+
+Total
+
+58,826,122
+
+100.0%
+
+(1)
+
+Excludes shares issuable with respect to stock options that have been granted but are not yet exercisable.
+
+(2)
+
+Reflects limited partnership interests held by our officers and directors in the form of vested long-term incentive units.
+
+(3)
+
+This property is held through a taxable REIT subsidiary.
+
+(4)
+
+This comprises three properties in Charlotte, North Carolina.
+
+(5)
+
+We indirectly own a 98% interest in a subsidiary that holds the fee simple interest in this property. An unrelated third party holds the remaining 2% interest in
+this subsidiary.
+
+(6)
+
+The total number of units includes 27,304,691 shares of common stock and 31,521,431 common units.
+
+(7)
+
+These third-party contributors received the units (along with cash and the operating partnership assuming debt) in exchange for their interests in 200 Paul
+Avenue, 1100 Space Park Drive, the eXchange colocation business and other specified assets and liabilities.
+(8)
+
+This third-party contributor received the units in exchange for a 10% minority interest in the Univison Tower property.
+
+6
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Properties Acquired
+For the three months ended September 30, 2005
+
+Property
+
+Metropolitan Area
+
+Date Acquired
+
+Purchase
+Price (in
+millions)
+
+Charlotte 1
+
+Charlotte, North Carolina
+
+August 2005
+
+$
+
+7.2
+
+40,879
+
+-
+
+100.0%
+
+Qwest Communications International, Inc.
+
+Charlotte 2
+
+Charlotte, North Carolina
+
+August 2005
+
+$
+
+4.7
+
+18,717
+
+10,501
+
+100.0%
+
+Verizon
+
+Charlotte 3
+
+Charlotte, North Carolina
+
+August 2005
+
+$
+
+5.3
+
+12,151
+
+13,242
+
+85.8%
+
+City of Charlotte
+
+Amsterdam Data Center
+
+Amsterdam, Netherlands
+
+August 2005
+
+$
+
+17.3
+
+112,472
+
+-
+
+62.0%
+
+Global Voice Networks
+
+Chicago, Illinois
+
+September 2005
+
+$
+
+39.0
+
+161,547
+
+-
+
+84.1%
+
+MCI
+
+$
+
+73.5
+
+345,766
+
+23,743
+
+79.7%
+
+Printers' Square
+
+Net Rentable
+Square Footage
+of Property
+
+(1) Excludes space held for redevelopment.
+
+7
+
+Total Square
+Footage Held for
+Redevelopment
+
+Percentage of
+Total Rentable
+Square Footage
+of Property
+Occupied (1)
+
+Major Tenant(s)
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Key Financial Data
+(Dollars in thousands, except per share data)
+
+9/30/2005
+
+6/30/2005
+
+27,304,691
+31,521,431
+58,826,122
+
+21,421,300
+31,521,431
+52,942,731
+
+For the three months ended or as of
+3/31/2005
+12/31/2004
+9/30/2004
+
+6/30/2004
+
+3/31/2004
+
+Shares and Units
+Common Shares Outstanding
+Common Units Outstanding
+Total Shares and Operating Partnership Units
+
+21,421,300
+31,521,431
+52,942,731
+
+21,421,300
+31,521,431
+52,942,731
+
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+
+713,139
+N/A
+519,498
+1,232,637
+
+N/A
+N/A
+551,351
+N/A
+
+N/A
+N/A
+473,896
+N/A
+
+N/A
+N/A
+318,199
+N/A
+
+Market Capitalization
+Market Value of Common Equity (1)
+Stated Value of Preferred Equity
+Total Debt
+Total Market Capitalization
+
+$
+
+$
+
+Total Debt/Total Market Capitalization
+
+1,058,870
+166,750
+686,909
+1,912,529
+
+$
+
+920,145
+103,500
+765,687
+$ 1,789,332
+
+$
+
+760,787
+103,500
+515,701
+$ 1,379,988
+
+$
+
+35.9%
+
+42.8%
+
+37.4%
+
+42.1%
+
+N/A
+
+N/A
+
+N/A
+
+1,173,332
+1,454,222
+792,538
+
+1,099,699
+1,368,256
+856,617
+
+889,803
+1,099,727
+579,393
+
+818,392
+1,013,287
+584,229
+
+675,204
+822,189
+593,699
+
+602,805
+731,237
+509,684
+
+433,123
+513,968
+346,545
+
+56,556
+50,507
+10,724
+4,425
+1,326
+
+49,663
+42,189
+9,289
+4,335
+2,136
+
+39,643
+34,748
+8,121
+2,739
+1,468
+
+36,205
+51,774
+8,657
+(5,359)
+-
+
+29,346
+25,959
+7,926
+3,359
+-
+
+22,800
+19,806
+4,065
+3,096
+-
+
+18,770
+15,263
+3,813
+3,461
+-
+
+29,007
+33,730
+9,947
+3.4
+15,019
+2.2
+
+25,753
+31,091
+8,086
+3.8
+12,266
+2.5
+
+21,732
+25,159
+7,416
+3.4
+10,525
+2.4
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+$
+
+Selected Balance Sheet Data
+Book Value of Real Estate Assets before Depreciation
+Total Assets
+Total Liabilities
+Selected Operating Data
+Revenue
+Expenses (including interest expense)
+Interest Expense
+Net Income (Loss)
+Net Income Available to Common Stockholders
+Financial Ratios
+(2)
+
+EBITDA
+Adjusted EBITDA (2)
+Cash interest expense (2)
+Debt Service Coverage Ratio (2)
+Fixed Charges (3)
+Fixed Charge Coverage Ratio (3)
+EPS, FFO and AFFO
+
+(4)
+
+Basic Net Income per share
+Diluted Net Income per share
+
+$
+$
+
+0.05
+0.05
+
+$
+$
+
+0.10
+0.10
+
+$
+$
+
+0.07
+0.07
+
+$
+$
+
+(0.30)
+(4)
+(0.30)
+
+N/A
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+Diluted FFO per share (5)
+Diluted AFFO per share (5)
+Dividends per share and common unit
+Diluted FFO payout ratio (6)
+
+$
+$
+$
+
+0.35
+0.26
+0.24
+70.1%
+
+$
+$
+$
+
+0.37
+0.31
+0.24
+65.8%
+
+$
+$
+$
+
+0.30
+0.24
+0.24
+81.3%
+
+$
+
+(0.17)
+N/A
+0.16
+N/A
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+
+N/A
+N/A
+N/A
+N/A
+
+24
+5,652,700
+88.4%
+
+20
+4,796,996
+89.4%
+
+18
+4,252,058
+89.3%
+
+14
+2,989,266
+88.8%
+
+$
+
+Portfolio Statistics
+Properties
+Net rentable square feet
+Occupancy at end of quarter
+
+38
+(9)
+7,864,760
+(9)
+93.2%
+
+33
+7,791,110 (7)
+(7)
+93.0%
+
+26
+6,303,226 (8)
+(8)
+88.9%
+
+(1) Assuming 100% conversion of the limited partnership units in the operating partnership into shares of our common stock.
+(2) EBITDA is calculated as earnings before interest, taxes and depreciation. Adjusted EBITDA is EBITDA adjusted for preferred dividends and minority interests. Debt service coverage ratio is calculated
+as adjusted EBITDA divided by cash interest expense. For a definition of cash interest expense, see page 15. For a discussion of Adjusted EBITDA and EBITDA, see page 24. For a quantitative
+reconciliation of the differences between EBITDA and Adjusted EBITDA and net income, see page 13.
+(3) Calculated as Adjusted EBITDA divided by fixed charges. For a definition of fixed charges, see page 15.
+(4) The net loss per common share - basic and diluted is for the period from November 3, 2004 to December 31, 2004. This may not be comparable future net income (loss) per common share since it
+includes the effect of various IPO-related charges.
+(5) For a definition and discussion of FFO and AFFO, see page 24. For a quantitative reconciliation of the differences between FFO and net income, see page 11. For a quantitative reconciliation of the
+differences between FFO and AFFO, see page 12.
+(6) Calculated as dividend declared per common share divided by FFO per common share - diluted.
+(7) Excludes 707,920 square feet of space held for redevelopment. See occupancy analysis on page 17 for a further description.
+(8) Excludes 107,503 square feet of space held for redevelopment.
+(9) Excludes 731,663 square feet of space held for redevelopment.
+Note: The Predecessor is not a legal entity; rather it is a combination of certain of the real estate subsidiaries of Global Innovation Partners, LLC, a Delaware limited liability company (GI Partners)
+along with an allocation of certain assets, liabilities, revenues and expenses of GI Partners related to the real estate held by such subsidiaries. The financial statements presented are the consolidated
+financial statements of the Company. The financial statements presented for periods prior to November 3, 2004 are the combined financial statements of the Predecessor.
+
+8
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Consolidated Balance Sheets
+(in thousands, except share data)
+
+ASSETS
+Investments in real estate
+Land
+Acquired ground lease
+Buildings and improvements
+Tenant improvements
+
+September 30, 2005
+(unaudited)
+
+December 31, 2004
+
+$
+
+$
+
+184,837
+1,477
+867,168
+119,850
+
+129,112
+1,477
+613,058
+74,745
+
+Investments in real estate
+Accumulated depreciation and amortization
+
+1,173,332
+(54,256)
+
+818,392
+(30,980)
+
+Net investments in real estate
+Cash and cash equivalents
+Accounts and other receivables
+Deferred rent
+Acquired above market leases, net
+Acquired in place lease value and deferred leasing costs, net
+Deferred financing costs, net
+Restricted cash
+Other assets
+
+1,119,076
+7,070
+5,994
+20,843
+50,001
+202,758
+8,032
+29,025
+11,423
+
+787,412
+4,557
+3,051
+12,236
+43,947
+136,721
+8,236
+14,207
+2,920
+
+Total Assets
+
+$
+
+1,454,222
+
+$
+
+1,013,287
+
+$
+
+103,755
+561,154
+22,000
+36,900
+58,155
+10,574
+
+$
+
+44,000
+453,498
+22,000
+12,789
+8,276
+37,390
+6,276
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Notes payable under line of credit
+Mortgage loans
+Other secured loans
+Accounts payable and other accrued liabilities
+Accrued dividends and distributions
+Acquired below market leases, net
+Security deposits and prepaid rents
+Total Liabilities
+
+792,538
+
+584,229
+
+-
+
+-
+
+142
+268,846
+
+997
+254,862
+
+Series A Cumulative Redeemable Preferred Stock, 8.50%, $103,500,000
+liquidation preference ($25.00 per share), 4,140,000 issued and outstanding
+
+99,297
+
+-
+
+Series B Cumulative Redeemable Preferred Stock, 7.875%, $63,250,000
+liquidation preference ($25.00 per share), 2,530,000 issued and outstanding
+
+60,517
+
+-
+
+Common Stock; $0.01 par value; 100,000,000 authorized, 27,304,691 and
+21,421,300 shares issued and outstanding as of September 30, 2005 and
+December 31, 2004
+Additional paid-in capital
+Dividends in excess of earnings
+Accumulated other comprehensive income, net
+
+273
+252,416
+(21,688)
+1,881
+
+214
+182,411
+(9,517)
+91
+
+Commitments and contingencies
+Minority interests in consolidated joint ventures
+Minority interests in operating partnership
+Stockholders' equity:
+Preferred Stock; $0.01 par value, 20,000,000 authorized:
+
+Total Stockholders' Equity
+
+392,696
+
+Total Liabilities and Stockholders' Equity
+
+$
+
+9
+
+1,454,222
+
+173,199
+$
+
+1,013,287
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Consolidated and Combined Statements of Operations
+(unaudited and in thousands, except share data)
+
+9/30/2005
+
+6/30/2005
+
+Three Months Ended
+12/31/2004
+9/30/2004
+
+3/31/2005
+
+6/30/2004
+
+3/31/2004
+
+Revenues
+Rental
+Tenant reimbursements
+Other
+
+$
+
+Total Revenues
+
+45,065
+11,040
+451
+
+$
+
+37,604
+8,113
+3,946
+
+$
+
+32,691
+6,520
+432
+
+$
+
+29,981
+6,174
+50
+
+$
+
+24,666
+4,658
+22
+
+$
+
+18,433
+2,669
+1,698
+
+$
+
+16,028
+2,728
+14
+
+56,556
+
+49,663
+
+39,643
+
+36,205
+
+29,346
+
+22,800
+
+18,770
+
+12,385
+6,241
+770
+10,724
+16,957
+3,324
+106
+
+9,718
+4,910
+530
+9,289
+14,328
+2,453
+961
+
+7,145
+3,681
+599
+8,121
+12,143
+2,413
+125
+521
+
+7,349
+3,084
+696
+8,657
+266
+10,576
+20,774
+283
+89
+
+5,336
+2,417
+617
+7,926
+797
+8,604
+86
+176
+
+3,283
+2,115
+321
+4,065
+796
+6,711
+65
+2,450
+
+3,006
+1,718
+241
+3,813
+796
+5,507
+92
+90
+
+Total Expenses
+
+50,507
+
+42,189
+
+34,748
+
+51,774
+
+25,959
+
+19,806
+
+15,263
+
+Income (loss) before minority interests
+
+6,049
+
+7,474
+
+4,895
+
+(15,569)
+
+3,387
+
+2,994
+
+3,507
+
+4
+
+4
+
+3
+
+(4)
+
+(28)
+
+102
+
+(46)
+
+Minority interests in operating partnership
+
+(1,628)
+
+(3,143)
+
+(2,159)
+
+10,214
+
+-
+
+-
+
+-
+
+Net income (loss)
+
+4,425
+
+4,335
+
+2,739
+
+Dividends to preferred stockholders
+
+(3,099)
+
+(2,199)
+
+(1,271)
+
+Expenses
+Rental property operating and maintenance
+Property taxes
+Insurance
+Interest
+Asset management fees to related party
+Depreciation and amortization
+General and administrative
+Net loss from early extinguishment of debt
+Other
+
+Minority interests in consolidated joint ventures
+
+Net income available to common stockholders
+
+Net income (loss) per common share - basic and diluted
+
+$
+
+1,326
+
+$
+
+2,136
+
+$
+
+1,468
+
+$
+
+0.05
+
+$
+
+0.10
+
+$
+
+0.07
+
+$
+
+(5,359)
+
+$
+
+(0.30)
+
+Weighted-average shares outstanding - basic
+
+25,704,721
+
+21,421,300
+
+21,421,300
+
+20,770,875
+
+Weighted-average shares outstanding - diluted
+
+26,004,324
+
+21,584,913
+
+21,535,485
+
+20,770,875
+
+Weighted-average fully diluted shares and units
+
+57,525,755
+
+53,106,344
+
+53,056,916
+
+52,942,731
+
+$
+
+3,359
+
+$
+
+3,096
+
+(1)
+
+(1) The net loss per common share - basic and diluted is for the period from November 3, 2004 to December 31, 2004. This may not be comparable future net income (loss) per
+common share since it includes the effect of various IPO-related charges.
+
+10
+
+$
+
+3,461
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Funds From Operations
+(unaudited and in thousands, except share data)
+
+9/30/2005
+
+6/30/2005
+
+Three Months Ended
+3/31/2005
+12/31/2004
+
+9/30/2004
+
+6/30/2004
+
+3/31/2004
+
+Reconciliation of net income (loss) available to common
+stockholders to funds from operations:
+Net income (loss) available to common stockholders
+
+$
+
+1,326
+
+$
+
+2,136 $
+
+1,468 $
+
+(5,359)
+
+1,628
+16,929
+
+3,143
+14,318
+
+2,159
+12,143
+
+(10,214)
+10,576
+
+$
+
+3,359 $
+
+3,096 $
+
+3,461
+
+8,604
+
+6,711
+
+5,507
+
+11,963 $
+
+9,807 $
+
+8,968
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+N/A
+N/A
+
+Adjustments:
+Minority interests in operating partnership
+Real estate related depreciation and amortization
+Funds from operations available to common stockholders and unitholders (FFO)
+
+$
+
+19,883 $
+
+19,597 $
+
+15,770 $
+
+(4,997)
+
+FFO per share - basic and diluted
+
+$
+
+0.35
+
+0.37 $
+
+0.30 $
+
+(0.17)
+
+Weighted-average shares outstanding - basic
+Weighted-average shares outstanding - diluted
+
+57,226
+57,526
+
+$
+
+52,943
+53,106
+
+52,943
+53,057
+
+52,943
+52,943
+
+$
+(1)
+
+(1) The FFO per share - basic and diluted is for the period from November 3, 2004 to December 31, 2004. This may not be comparable future net income (loss) per common share since it
+includes the effect of various IPO-related charges.
+Note: For a definition and discussion of FFO, see page 24.
+
+11
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Adjusted Funds From Operations
+(unaudited and in thousands)
+Three Months Ended
+9/30/2005
+6/30/2005
+
+3/31/2005
+
+Reconciliation of funds from operations (FFO) to adjusted funds from operations (AFFO):
+Funds from operations available to common stockholders and unitholders (FFO)
+
+$
+
+19,883
+
+$
+
+19,597
+
+$
+
+15,770
+
+Adjustments:
+Non real estate depreciation
+Amortization of deferred financing costs
+Non cash compensation
+Loss from early extinguishment of debt
+Straight line rents
+Above and below market rent amortization
+Capitalized leasing payroll
+Recurring capital expenditures and tenant improvements
+Capitalized leasing commissions
+Adjusted Funds from operations available to common stockholders and unitholders (AFFO)
+
+28
+790
+50
+(3,815)
+(416)
+(549)
+(240)
+(757)
+$
+
+14,974
+
+10
+707
+44
+(2,483)
+(230)
+(127)
+(732)
+(579)
+$
+
+16,207
+
+675
+52
+125
+(2,553)
+(439)
+(519)
+(180)
+$
+
+12,931
+
+Note: For a definition and discussion of AFFO, see page 24. For a reconciliation of net income (loss) available to common stockholders to FFO, see
+page 11.
+
+12
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Reconciliation of Earnings Before Interest Taxes and Depreciation and Amortization
+
+Three Months Ended
+9/30/2005
+6/30/2005
+
+3/31/2005
+
+Reconciliation of net income available to common stockholders to earnings before
+interest, taxes and depreciation and amortization (EBITDA) and Adjusted EBITDA(1)
+Net income available to common stockholders
+
+$
+
+1,326
+
+$
+
+2,136
+
+$
+
+1,468
+
+Add: Interest
+Depreciation and amortization
+
+10,724
+16,957
+
+9,289
+14,328
+
+8,121
+12,143
+
+EBITDA
+
+29,007
+
+25,753
+
+21,732
+
+Minority interests
+Dividends to preferred stockholders
+
+1,624
+3,099
+
+3,139
+2,199
+
+2,156
+1,271
+
+Adjusted EBITDA
+
+$
+
+(1) For the definition and discussion of EBITDA and Adjusted EBITDA, see page 24.
+
+13
+
+33,730
+
+$
+
+31,091
+
+$
+
+25,159
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Capital Structure
+As of September 30, 2005
+
+Consolidated Debt
+(in thousands)
+September 30, 2005
+Mortgage and Other Secured Loans Payable
+
+$
+
+Unsecured Credit Facility
+
+583,154
+103,755
+
+Total Debt
+
+$
+
+686,909
+
+Equity
+(in thousands)
+Shares
+Outstanding
+Preferred Stock
+
+Total Liquidation
+Preference
+6,670
+
+$
+
+Shares & Units
+Outstanding
+Common Stock
+
+27,304.7
+
+Operating Partnership Units
+
+31,521.4
+
+Total Common Equity
+
+58,826.1
+
+Total Market Capitalization
+(1) Value based on September 30, 2005 closing price of $18.00.
+
+14
+
+166,750
+
+Market Value (1)
+$
+
+491,484
+567,386
+
+$
+
+1,058,870
+
+$
+
+1,912,529
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+
+Consolidated Debt Analysis
+(in thousands)
+Principal Balance as
+of September 30,
+2005
+Maturity Date
+
+% of Debt
+
+Interest Rate as of
+September 30,
+2005
+
+Floating Rate Debt
+Carrier Center-Mortgage
+Maxtor Manufacturing Facility-Mortgage
+Ardenwood Corporate Park, NTT/Verio Premier
+Data Center, VarTec Building-Mezzanine
+Unsecured Credit Facility
+
+November 11, 2007
+December 31, 2006
+
+(1)
+
+August 9, 2006
+November 3, 2007
+
+(3)
+
+$
+
+(2)
+
+Total Unhedged Floating Rate Debt
+
+25,633
+17,646
+
+3.7%
+2.6%
+
+8.11%
+5.56%
+
+22,000
+103,755
+
+3.2%
+15.1%
+
+9.61%
+5.49%
+
+169,034
+
+24.6%
+
+153,413
+100,000
+57,463
+45,315
+
+22.3%
+14.6%
+8.4%
+6.6%
+
+5.65%
+6.06% (4)
+6.04%
+6.89% (4)
+
+43,000
+26,000
+24,591
+21,285
+20,000
+9,700
+6,080
+8,775
+
+6.2%
+3.8%
+3.6%
+3.1%
+2.9%
+1.4%
+0.9%
+1.3%
+
+5.45% (4)
+5.14%
+6.85%
+5.27% (4)
+5.77% (4)
+7.62%
+7.82%
+5.92% (4)
+
+515,622
+
+75.1%
+
+Fixed Rate Debt
+Secured Term Debt
+Lakeside Technology Center
+Univision Tower-Mortgage
+200 Paul Avenue-Mortgage
+Ardenwood Corporate Park, NTT/Verio Premier
+Data Center, VarTec Building-Mortgage
+Stanford Place II-Mortgage
+Camperdown House-Mortgage
+Granite Tower-Mortgage
+100 Technology Center Drive-Mortgage
+MAPP Building-Mortgage
+Charlotte Internet Gateway-Mortgage
+AT&T Web Hosting Facility-Mortgage
+
+November 11, 2014
+June 9, 2008
+November 6, 2009
+July 1, 2006
+August 9, 2006
+January 10, 2009
+October 31, 2009
+January 1, 2009
+April 1, 2009
+March 1, 2032
+July 1, 2020
+December 1, 2006
+
+(2)
+
+(2)
+
+(3)
+
+(2)
+
+Total Fixed Rate Debt
+Loan premium---MAPP Building and Charlotte Internet Gateway
+Total Consolidated Debt
+
+$
+
+2,253
+
+0.3%
+
+686,909
+
+100.0%
+
+Weighted average cost of debt (including interest rate swaps)
+(1)
+(2)
+(3)
+(4)
+
+5.99%
+
+A one-year extension option is available.
+Two one-year extensions are available.
+A 13-month extension and a one-year extension are available.
+Mortgage loans subject to interest rate swap agreements. The interest rates on the mortgage loans, adjusted for the interest
+rate swap agreements are as follows:
+Lakeside Technology Center
+200 Paul Avenue-Mortgage
+Ardenwood Corporate Park, NTT/Verio Premier
+Data Center, VarTec Building-Mortgage
+
+6.23%
+6.21%
+4.84%
+4.95%
+5.52%
+5.18%
+
+Granite Tower-Mortgage
+100 Technology Center Drive-Mortgage
+AT&T Web Hosting Facility-Mortgage
+
+Credit Facility
+(in thousands)
+
+Unsecured Credit Facility
+
+Maximum Available
+
+Available as of
+September 30, 2005
+
+$
+
+$
+
+210,000
+
+101,000
+
+Drawn
+$
+
+103,755
+
+Financial Ratios
+
+EBITDA
+Adjusted EBITDA
+Total interest expense per income statement
+Less amortization of deferred financing fees and change in accrued interest
+Cash interest expense (a)
+Debt service coverage ratio based on GAAP interest expense (b)
+Debt service coverage ratio based on cash interest expense (b)
+Scheduled debt principal payments and preferred dividends
+Total fixed charges
+Fixed charge coverage ratio based on GAAP interest expense (c)
+Fixed charge coverage ratio based on cash interest expense (c)
+Debt to total market capitalization (d)
+Debt plus preferred stock to total market capitalization (e)
+Pretax income to interest expense (f)
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+
+29,007
+33,730
+10,724
+777
+9,947
+3.1
+3.4
+5,072
+15,019
+2.1
+2.2
+35.9%
+44.6%
+1.6
+
+Cash interest expense relates to interest less amortized deferred financing fees. We consider cash interest expense to be a useful measure of interest as
+it does not include non-cash based interest expense.
+Adjusted EBITDA divided by interest expense.
+Adjusted EBITDA divided by fixed charges. Fixed charges include interest expense as per a above and scheduled debt principal payments and preferred
+dividends.
+Mortgage debt and other loans divided by mortgage debt and other loans plus the liquidation value of preferred stock and the market value of outstanding
+common stock and operating partnership units, assuming the conversion of operating partnership units into shares of our common stock.
+Same as (d), except numerator includes preferred stock.
+Calculated as income before minority interest and interest divided by interest expense.
+
+15
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+
+Debt Maturities
+(in thousands)
+Remainder of
+2005
+
+Property
+Secured Term Debt
+Lakeside Technology Center
+
+(1)
+(2)
+
+Univision Tower-Mortgage
+200 Paul Avenue-Mortgage
+Ardenwood Corporate Park,
+NTT/Verio Premier Data Center,
+VarTec Building-Mortgage
+
+(2)
+
+Camperdown House-Mortgage
+Ardenwood Corporate Park,
+NTT/Verio Premier Data Center,
+VarTec Building-Mezzanine
+Granite Tower-Mortgage
+100 Technology Center DriveMortgage
+Maxtor Manufacturing FacilityMortgage
+
+2007
+
+2008
+
+2009
+
+Thereafter
+
+Total
+
+496
+
+2,029
+
+2,149
+
+2,252
+
+2,408
+
+144,079
+
+153,413
+
+-
+
+652
+
+1,371
+
+97,977
+
+-
+
+-
+
+100,000
+
+181
+
+703
+
+747
+
+784
+
+55,048
+
+-
+
+57,463
+
+498
+
+44,817
+
+-
+
+-
+
+-
+
+-
+
+45,315
+
+43,000
+
+(3)
+
+Stanford Place II-Mortgage
+Carrier Center-Mortgage
+
+2006
+
+(4)
+
+-
+
+43,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+26,000
+
+-
+
+26,000
+
+110
+
+442
+
+25,081
+
+-
+
+-
+
+-
+
+25,633
+
+500
+
+2,086
+
+2,233
+
+2,389
+
+17,383
+
+-
+
+24,591
+
+(3)
+
+-
+
+22,000
+
+-
+
+-
+
+-
+
+-
+
+22,000
+
+135
+
+540
+
+540
+
+540
+
+19,530
+
+-
+
+21,285
+
+-
+
+-
+
+-
+
+-
+
+20,000
+
+-
+
+20,000
+
+(2)
+
+212
+
+17,434
+
+-
+
+-
+
+-
+
+-
+
+17,646
+
+MAPP Building-Mortgage
+
+26
+
+105
+
+114
+
+121
+
+132
+
+9,202
+
+9,700
+
+Charlotte
+AT&T Web Hosting FacilityMortgage
+
+38
+
+160
+
+174
+
+189
+
+205
+
+5,314
+
+6,080
+
+(2)
+
+Unsecured Credit Facility
+Total
+
+-
+
+8,775
+
+-
+
+-
+
+-
+
+-
+
+8,775
+
+-
+
+-
+
+103,755
+
+-
+
+-
+
+-
+
+103,755
+
+2,196
+
+142,743
+
+136,164
+
+104,252
+
+140,706
+
+158,595
+
+684,656
+
+The debt secured by our properties at September 30, 2005 had a weighted average term to initial maturity of approximately 4.3
+years (approximately 5.2 years assuming exercise of extension options).
+(1) This amount represents six mortgage loans secured by the Company’s interests in 36 Northeast Second Street, Brea Data
+Center, Comverse Technology Building, Hudson Corporate Center, Siemens Building, and Webb at LBJ. Each of these loans are
+cross-collateralized by the six properties.
+(2) Two one-year extensions are available.
+(3) A 13-month extension and a one-year extension are available.
+(4) A one-year extension option is available.
+
+Note: Above amounts assume no exercise of extensions and total excludes $2,253,000 of Loan Premiums.
+
+16
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Occupancy Analysis
+As of September 30, 2005
+
+Occupancy
+Property
+
+Acquisition date
+
+Metropolitan Area
+
+Net Rentable
+Square Feet
+
+Redevelopment
+Space
+
+870,183
+494,608
+457,217
+430,759
+63,233
+82,409
+162,140
+82,911
+40,879
+18,717
+12,151
+161,547
+
+263,208
+37,630
+19,890
+59,319
+85,542
+10,501
+13,242
+-
+
+2,876,754
+
+Annualized
+(1)
+Rent ($000)
+
+As of
+9/30/05
+
+As of
+6/30/05
+
+(2)
+
+As of
+3/31/05
+
+Square Feet as a % of
+Property
+Total
+Type
+Portfolio
+
+Annualized Rent as a % of
+Property
+Total
+Type
+Portfolio
+
+Telecommunications Infrastructure
+Lakeside Technology Center
+200 Paul Avenue
+Univision Tower
+Carrier Center
+Camperdown House
+1100 Space Park Drive
+36 Northeast Second Street
+Burbank Data Center
+Charlotte 1
+Charlotte 2
+Charlotte 3
+Printers' Square
+
+May 2005
+Nov. 2004
+Jan. 2002
+May 2004
+July 2002
+Nov. 2004
+Jan. 2002
+Dec. 2004
+Aug. 2005
+Aug. 2005
+Aug. 2005
+Sept. 2005
+
+Chicago
+San Francisco
+Dallas
+Los Angeles
+London, UK
+Silicon Valley
+Miami
+Los Angeles
+Charlotte
+Charlotte
+Charlotte
+Chicago
+
+82.6 (2) %
+93.7
+83.8
+82.3
+100.0
+94.9
+81.2
+100.0
+N/A
+N/A
+N/A
+N/A
+
+N/A %
+83.4
+79.9
+79.7
+100.0
+46.6
+81.2
+100.0
+N/A
+N/A
+N/A
+N/A
+
+30.2 %
+17.2
+15.9
+15.0
+2.2
+2.9
+5.6
+2.9
+1.4
+0.7
+0.4
+5.6
+
+11.1
+6.3
+5.8
+5.5
+0.8
+1.0
+2.1
+1.1
+0.5
+0.2
+0.2
+2.1
+
+28.8 %
+18.8
+12.9
+11.6
+6.1
+5.5
+4.9
+2.2
+1.6
+0.7
+0.3
+6.6
+
+12.4 %
+8.1
+5.4
+5.0
+2.6
+2.4
+2.1
+0.9
+0.7
+0.3
+0.1
+2.8
+
+88.8
+
+86.1
+
+80.9
+
+100.0
+
+36.7
+
+100.0
+
+42.8
+
+7,187
+6,867
+5,760
+4,734
+4,616
+3,932
+3,028
+2,048
+1,874
+1,625
+1,688
+1,521
+1,480
+1,352
+1,340
+1,228
+1,138
+
+91.3
+87.4
+100.0
+90.5
+98.5
+100.0
+100.0
+100.0
+100.0
+100.0
+62.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+
+93.3
+87.4
+100.0
+90.5
+95.7
+100.0
+100.0
+100.0
+100.0
+100.0
+N/A
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+
+91.5
+87.4
+100.0
+90.6
+96.2
+100.0
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+100.0
+100.0
+100.0
+100.0
+50.5
+
+18.0
+10.5
+10.0
+12.3
+6.3
+4.4
+5.6
+3.8
+3.5
+3.0
+3.8
+2.8
+2.1
+4.5
+2.9
+2.3
+4.2
+
+6.8
+4.0
+3.8
+4.7
+2.4
+1.7
+2.1
+1.4
+1.3
+1.1
+1.4
+1.0
+0.8
+1.7
+1.1
+0.9
+1.6
+
+14.0
+13.3
+11.2
+9.2
+9.0
+7.6
+5.9
+4.0
+3.6
+3.2
+3.3
+3.0
+2.9
+2.6
+2.6
+2.4
+2.2
+
+4.8
+4.6
+3.8
+3.2
+3.1
+2.6
+2.0
+1.4
+1.3
+1.1
+1.1
+1.0
+1.0
+0.9
+0.9
+0.8
+0.8
+
+242,331
+
+51,418
+
+94.4
+
+95.9
+
+89.1
+
+100.0
+
+37.8
+
+100.0
+
+34.4
+
+307,657
+183,050
+113,405
+
+-
+
+7,899
+3,371
+2,549
+
+100.0
+100.0
+100.0
+
+100.0
+100.0
+100.0
+
+100.0
+100.0
+100.0
+
+50.9
+30.3
+18.8
+
+3.9
+2.3
+1.4
+
+57.2
+24.4
+18.4
+
+5.3
+2.3
+1.7
+
+604,112
+
+-
+
+13,819
+
+100.0
+
+100.0
+
+100.0
+
+100.0
+
+7.6
+
+100.0
+
+9.3
+
+386,956
+366,184
+197,000
+240,065
+125,538
+84,383
+
+-
+
+5,989
+3,300
+3,743
+3,437
+2,263
+1,521
+
+100.0
+89.8
+100.0
+94.3
+100.0
+100.0
+
+100.0
+91.9
+100.0
+94.3
+100.0
+100.0
+
+100.0
+88.4
+100.0
+94.6
+100.0
+N/A
+
+27.6
+26.2
+14.1
+17.1
+9.0
+6.0
+
+4.9
+4.7
+2.5
+3.1
+1.6
+1.1
+
+29.6
+16.3
+18.5
+17.0
+11.1
+7.5
+
+4.0
+2.2
+2.5
+2.3
+1.5
+1.0
+
+1,400,126
+
+-
+
+20,253
+
+96.4
+
+96.9
+
+95.8
+
+100.0
+
+17.9
+
+100.0
+
+13.5
+
+7,864,760
+
+731,663
+
+149,699
+
+93.2
+
+88.9 %
+
+100.0 %
+
+100.0 %
+
+100.0 %
+
+100.0 %
+
+$
+
+18,497
+12,112
+8,255
+7,436
+3,929
+3,523
+3,151
+1,414
+1,007
+437
+224
+4,224
+
+92.2
+93.8
+80.9
+83.0
+100.0
+94.9
+81.2
+100.0
+100.0
+100.0
+85.8
+84.1
+
+489,332
+
+64,209
+
+536,318
+311,950
+300,000
+365,648
+187,334
+130,752
+167,932
+113,606
+103,940
+90,139
+112,472
+82,229
+62,957
+135,250
+88,134
+68,807
+126,300
+
+118,440
+123,891
+
+2,983,768
+
+%
+
+Information Technology Infrastructure
+833 Chestnut Street
+Hudson Corporate Center
+Savvis Data Center 1
+Webb at LBJ
+AboveNet Data Center
+NTT/Verio Premier Data Center
+Savvis Data Center 2
+Savvis Data Center 3
+Savvis Data Center 4
+Savvis Data Center 5
+Amsterdam Data Center
+Ameriquest
+eBay Data Center
+VarTec Building
+MAPP Building
+Brea Data Center
+AT&T Web Hosting Facility
+
+March 2005
+Nov. 2002
+May 2004
+Aug. 2004
+Sept. 2004
+Dec. 2002
+June 2005
+June 2005
+June 2005
+June 2005
+Aug. 2005
+June 2005
+Oct. 2004
+Jan. 2003
+March 2005
+Aug. 2003
+June 2003
+
+Philadelphia
+New York
+Silicon Valley
+Dallas
+Silicon Valley
+Silicon Valley
+Silicon Valley
+Los Angeles
+Silicon Valley
+Silicon Valley
+Amsterdam, Netherlands
+Denver
+Sacramento
+Dallas
+Minneapolis/St. Paul
+Los Angeles
+Atlanta
+
+(2)
+
+Technology Manufacturing
+Ardenwood Corporate Park
+Maxtor Manufacturing Facility
+ASM Lithography Training Facility
+
+Jan. 2003
+Sept. 2003
+May 2003
+
+Silicon Valley
+Silicon Valley
+Phoenix
+
+Technology Office/Corporate Headquarters
+Comverse Technology Building
+Stanford Place II
+100 Technology Center Drive
+Granite Tower
+Siemens Building
+Savvis Office Building
+
+Portfolio Total/Weighted Average
+
+June 2004
+Sept. 2003
+Feb. 2004
+Sept. 2003
+April 2004
+June 2005
+
+Boston
+Denver
+Boston
+Dallas
+Dallas
+Silicon Valley
+
+$
+
+%
+
+93.0
+
+%
+
+(1) Annualized rent represents the annualized monthly contractual rent under existing leases as of September 30, 2005. This amount reflects total base rent before any one-time or non-recurring rent abatements, but after annually recurring rent credits and is shown
+on a net basis; thus, for any tenant under a partial gross lease, the expense stop, or under a full gross lease, the current year operating expenses (which may be estimates as of such date), are subtracted from gross rent.
+(2) The September 30, 2005 occupancy excludes the redevelopment space on the column above. At June 30, 2005 the Lakeside Technology Center excluded 263,208 of vacant space held for redevelopment. At June 30, 2005 and March 31, 2005 the 833
+Chestnut property included approximately 118,440 and 107,563 square feet of vacant space held for redevelopment, respectively. We completed a review of space held for development in the quarter ended September 30, 2005. As a result of this review we have
+restated occupancy percentages at June 30, 2005 to reflect the space held for development; prior to the completion of our review, the June 30, 2005 occupancy was previously reported as 89.7%. We have not restated any occupancy statisics for March 31, 2005
+and earlier periods. This will cause occupancy statistics for March 31, 2005 to not be comparable to occupancy statistics for June 30, 2005 and September 30, 2005.
+
+17
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Major Tenants
+As of September 30, 2005
+
+Tenant
+
+Number of
+Locations
+
+Total Occupied
+Square Feet (1)
+
+Percentage of
+Net Rentable
+Square Feet
+
+Annualized
+Rent ($000)
+$
+
+Percentage of
+Annualized
+Rent
+
+Weighted
+Average
+Remaining
+Lease Term
+in Months
+
+1 Savvis Communications
+
+9
+
+1,119,401
+
+14.2%
+
+22,594
+
+15.1%
+
+129
+
+2 Qwest Communications International, Inc.
+
+10
+
+655,494
+
+8.3%
+
+17,271
+
+11.5%
+
+115
+
+(2)
+3 Verio Inc.
+
+2
+
+238,051
+
+3.0%
+
+6,484
+
+4.3%
+
+84
+
+4 Comverse Network Systems
+
+1
+
+367,033
+
+4.7%
+
+5,690
+
+3.8%
+
+65
+
+5 Equinix, Inc.
+
+2
+
+335,318
+
+4.3%
+
+5,340
+
+3.6%
+
+116
+
+6 Abgenix
+
+1
+
+131,386
+
+1.7%
+
+5,114
+
+3.4%
+
+67
+
+7 AboveNet
+
+4
+
+154,215
+
+2.0%
+
+4,306
+
+2.9%
+
+155
+
+(3)
+8 Leslie & Godwin
+
+1
+
+63,233
+
+0.8%
+
+3,929
+
+2.6%
+
+51
+
+9 Stone & Webster, Inc.
+
+1
+
+197,000
+
+2.5%
+
+3,743
+
+2.5%
+
+90
+
+10 Maxtor Corporation
+
+1
+
+183,050
+
+2.3%
+
+3,371
+
+2.3%
+
+72
+
+11 XO Communications, Inc.
+
+6
+
+98,878
+
+1.3%
+
+2,910
+
+1.9%
+
+112
+
+12 SBC Communications
+
+1
+
+141,663
+
+1.8%
+
+2,774
+
+1.9%
+
+62
+
+13 Tycom Networks, Inc.
+
+1
+
+59,289
+
+0.8%
+
+2,721
+
+1.8%
+
+134
+
+14 Thomas Jefferson University
+
+1
+
+179,659
+
+2.3%
+
+2,595
+
+1.7%
+
+60
+
+15 ASML Training Center
+
+1
+
+113,405
+
+1.4%
+
+2,549
+
+1.7%
+
+137
+
+4,037,075
+
+51.3%
+
+91,391
+
+61.0%
+
+105
+
+Total/Weighted Average
+
+(1) Occupied square footage is defined as leases that have started on or before September 30, 2005.
+(2) Verio is a wholly-owned subsidiary of Nippon Telegraph & Telephone.
+(3) Leslie & Godwin is a United Kingdom subsidiary of AON Corporation.
+
+18
+
+$
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Lease Expirations
+As of September 30, 2005
+
+Number of
+Leases Expiring
+
+Square
+Footage of
+Expiring
+Leases
+
+Percentage of
+Net Rentable
+Square Feet
+
+Available
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Thereafter
+
+538,329
+37,546
+207,504
+151,909
+289,067
+499,877
+990,770
+1,156,911
+134,748
+643,239
+546,019
+2,668,841
+
+6.8%
+0.5%
+2.6%
+1.9%
+3.7%
+6.4%
+12.6%
+14.7%
+1.7%
+8.2%
+7.0%
+33.9%
+
+$
+
+22
+43
+38
+51
+70
+65
+42
+11
+19
+22
+64
+
+Portfolio Total / Weighted
+Average
+
+447
+
+7,864,760
+
+100.0%
+
+$
+
+Year
+
+Annualized
+Rent ($000)
+
+19
+
+Percentage of
+Annualized
+Rent
+
+608
+3,175
+3,176
+5,654
+11,645
+21,151
+24,437
+2,655
+10,533
+9,399
+57,266
+
+0.0%
+0.4%
+2.1%
+2.1%
+3.8%
+7.8%
+14.1%
+16.3%
+1.8%
+7.0%
+6.3%
+38.3%
+
+149,699
+
+100.0%
+
+Annualized
+Rent Per
+Occupied
+Square Foot
+
+Annualized
+Rent Per
+Occupied
+Square Foot
+at Expiration
+
+$
+
+16.19
+15.30
+20.91
+19.56
+23.30
+21.35
+21.12
+19.70
+16.37
+17.21
+21.46
+
+$
+
+21.15
+16.30
+23.67
+20.94
+26.03
+20.97
+24.16
+23.01
+18.15
+21.99
+30.78
+
+$
+
+794
+3,383
+3,595
+6,054
+13,010
+20,781
+27,948
+3,100
+11,674
+12,005
+82,158
+
+$
+
+19.03
+
+$
+
+23.46
+
+$
+
+184,502
+
+Annualized
+Rent at
+Expiration
+($000)
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Lease Distribution
+As of September 30, 2005
+
+Square Feet Under Lease
+
+Number of
+Leases
+
+Percentage
+of All Leases
+
+Total Net
+Rentable
+Square Feet
+
+Percentage of
+Net Rentable
+Square Feet
+
+Annualized
+Rent ($000)
+
+Percentage of
+Annualized
+Rent
+
+Available
+2,500 or less
+2,501 - 10,000
+10,001 - 20,000
+20,001 - 40,000
+40,001 - 100,000
+Greater than 100,000
+
+51.9%
+19.0%
+9.8%
+8.3%
+6.5%
+4.5%
+
+538,329
+131,261
+451,843
+646,915
+1,012,419
+1,929,161
+3,154,832
+
+6.8%
+1.7%
+5.8%
+8.2%
+12.9%
+24.5%
+40.1%
+
+$
+
+232
+85
+44
+37
+29
+20
+
+5,794
+10,364
+13,435
+15,494
+44,243
+60,369
+
+0.0%
+3.9%
+6.9%
+9.0%
+10.4%
+29.6%
+40.2%
+
+Portfolio Total
+
+447
+
+100.0%
+
+7,864,760
+
+100.0%
+
+$
+
+149,699
+
+100.0%
+
+20
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+
+Leasing Activity
+As of September 30, 2005
+
+For the Three
+Months Ended
+September 30, 2005
+Occupied Square Feet as of June 30, 2005
+
+% Leased
+
+6,990,457
+
+89.7%
+
+Q3 2005 Acquisitions:
+Charlotte 1
+
+40,879
+
+Charlotte 2
+
+18,717
+
+Charlotte 3
+
+10,428
+
+Amsterdam Data Center
+
+69,685
+
+Printers' Square
+
+135,799
+
+Occupied Square Feet including Q3 2005 Acquisitions
+
+7,265,965
+
+92.4%
+
+Expirations
+
+(15,951)
+
+(0.2%)
+
+New Leases
+
+8,410
+
+0.1%
+
+Renewals
+
+8,109
+
+0.1%
+
+Expansions/Remeasurements (1)
+
+64,074
+
+0.8%
+
+Terminations
+Occupied Square Feet as of September 30, 2005
+
+(4,176)
+
+0.0%
+
+7,326,431
+
+93.2%
+
+Cash Rent Growth (2)
+Expiring Rate per Square Foot
+
+$
+
+New / Renewed Rate per Square Foot
+
+$
+
+Percentage Increase
+
+21.29
+53.74
+152.5%
+
+GAAP Rent Growth (3)
+Expiring Rate per Square Foot
+
+$
+
+New / Renewed Rate per Square Foot
+
+$
+
+Percentage Increase
+
+26.14
+60.64
+132.0%
+
+Weighted Average Lease Term - New (in months)
+
+79
+
+Weighted Average Lease Term - Renewal (in months)
+
+62
+
+(1)
+
+Represents remeasuring of building to BOMA standards.
+
+(3)
+
+Represents the difference between (i) initial contractual rents on new and renewed leases and (ii) the cash rents on
+expiring leases immediately prior to the expiration or termination.
+
+(3)
+
+Represents estimated cash rent growth adjusted for straight-line rents in accordance with GAAP.
+
+21
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Tenant Improvements and Leasing Commissions
+As of September 30, 2005
+Three Months Ended
+9/30/2005
+6/30/2005
+Renewals
+
+3/31/2005
+
+Full Year
+2003
+
+2004
+
+2002
+
+(1)
+
+Number of renewals
+Square Feet
+Tenant improvement costs per square foot
+
+(2)
+
+$
+
+Leasing commission costs per square foot (2)
+Total tenant improvement and leasing
+commission costs per square foot
+
+3
+
+1
+
+3
+
+4
+
+10
+
+5
+
+8,109
+
+4,517
+
+12,295
+
+19,079
+
+78,172
+
+28,418
+
+9.67
+
+$
+
+20.00
+
+2.48
+
+$
+
+12.15
+
+$
+
+6.24
+
+$
+
+26.24
+
+3.93
+
+$
+
+9.11
+
+$
+
+13.04
+
+15.06
+
+$
+
+6.78
+
+$
+
+21.84
+
+1.83
+
+$
+
+6.09
+
+$
+
+7.92
+
+4.12
+5.08
+
+$
+
+9.20
+
+New Leases (3)
+Number of leases
+Square Feet
+Tenant improvement costs per square foot
+
+(2)
+
+Leasing commission costs per square foot
+
+(2)
+
+Total tenant improvement and leasing
+commission costs per square foot
+
+$
+
+23
+
+18
+
+6
+
+34
+
+18
+
+4
+
+8,410
+
+41,967
+
+15,762
+
+220,868
+
+229,211
+
+34,794
+
+32.86
+
+$
+
+5.10
+
+21.38
+
+$
+
+54.24
+
+$
+
+8.58
+
+$
+
+13.68
+
+13.01
+
+$
+
+4.54
+
+$
+
+17.55
+
+14.55
+
+$
+
+10.08
+
+$
+
+24.63
+
+2.27
+
+$
+
+12.55
+
+$
+
+14.82
+
+14.34
+12.37
+
+$
+
+26.71
+
+Total (4)
+Number of leases/renewals
+Square Feet
+Tenant improvement costs per square foot
+
+(2)
+
+Leasing commission costs per square foot
+
+(2)
+
+Total tenant improvement and leasing
+commission costs per square foot
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+$
+
+26
+
+19
+
+9
+
+38
+
+28
+
+9
+
+16,519
+
+46,484
+
+28,057
+
+239,947
+
+307,383
+
+63,212
+
+21.47
+
+$
+
+6.55
+
+12.10
+
+$
+
+33.58
+
+$
+
+8.35
+
+$
+
+14.90
+
+9.03
+
+$
+
+6.54
+
+$
+
+15.57
+
+14.59
+
+$
+
+9.82
+
+$
+
+24.41
+
+2.16
+
+$
+
+10.91
+
+$
+
+13.07
+
+9.75
+9.09
+
+$
+
+18.84
+
+Does not include retained tenants that have relocated to new space or expanded into new space.
+Assumes all tenant improvement and leasing commissions are paid in the calendar year in which the lease commences, which may be different than the year in
+which they are actually paid.
+Includes retained tenants that have relocated to new space or expanded into new space within our portfolio.
+We have acquired several properties in the past which may make a period over period comparison difficult. For a list of the acquisition dates of our properties see
+page 17.
+
+22
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+Historical Capital Expenditures
+As of September 30, 2005
+
+Recurring capital expenditures
+
+(1) (2)
+
+Non-recurring capital expenditures
+
+(2)
+
+Three Months Ended
+9/30/2005
+6/30/2005
+
+3/31/2005
+
+$
+
+240,025
+
+$
+
+91,049
+
+$
+
+266,974
+
+$
+
+711,998
+
+$
+
+388,636
+
+$
+
+208,758
+
+$
+
+1,766,579
+
+$
+
+1,604,007
+
+$
+
+1,352,219
+
+$
+
+2,168,837
+
+$
+
+765,587
+
+$
+
+430,183
+
+Total square feet at period end
+
+(1)
+
+7,864,760
+
+7,791,110
+
+Full Year
+2003
+
+2004
+
+6,303,226
+
+5,652,700
+
+2,792,266
+
+1,145,182
+
+Recurring capital expenditures per square foot
+
+$
+
+0.03
+
+$
+
+0.01
+
+$
+
+0.04
+
+$
+
+0.13
+
+$
+
+0.14
+
+$
+
+0.18
+
+Non-recurring capital expenditures per square foot
+
+$
+
+0.22
+
+$
+
+0.21
+
+$
+
+0.21
+
+$
+
+0.38
+
+$
+
+0.27
+
+$
+
+0.38
+
+Recurring capital expenditures represents non-incremental building improvements required to maintain current revenues. Recurring capital expenditures do not include
+acquisition capital that was taken into consideration when underwriting the purchase of a building or which are incurred to bring a building up to "operating standard".
+
+(2)
+
+2002
+
+We have acquired several properties in the past which may make a period over period comparison difficult. For a list of the acquisition dates of our properties see page 17.
+
+23
+
+Digital Realty Trust, Inc.
+Third Quarter 2005
+
+MANAGEMENT STATEMENTS ON NON-GAAP SUPPLEMENTAL MEASURES
+Funds from Operations:
+We calculate Funds from Operations, or FFO, in accordance with the standards established by the National Association of Real Estate Investment Trusts, or NAREIT. FFO
+represents net income (loss) (computed in accordance with GAAP), excluding gains (or losses) from sales of property, real estate related depreciation and amortization (excluding
+amortization of deferred financing costs) and after adjustments for unconsolidated partnerships and joint ventures. Management uses FFO as a supplemental performance
+measure because, in excluding real estate related depreciation and amortization and gains and losses from property dispositions, it provides a performance measure that, when
+compared year over year, captures trends in occupancy rates, rental rates and operating costs. We also believe that, as a widely recognized measure of the performance of
+REITs, FFO will be used by investors as a basis to compare our operating performance with that of other REITs. However, because FFO excludes depreciation and amortization
+and captures neither the changes in the value of our properties that result from use or market conditions, nor the level of capital expenditures and leasing commissions necessary
+to maintain the operating performance of our properties, all of which have real economic effect and could materially impact our results from operations, the utility of FFO as a
+measure of our performance is limited. Other REITs may not calculate FFO in accordance with the NAREIT definition and, accordingly, our FFO may not be comparable to such
+other REITs’ FFO. Accordingly, FFO should be considered only as a supplement to net income as a measure of our performance.
+Adjusted Funds From Operations:
+We present adjusted funds from operations, or AFFO, as a supplemental operating measure because, when compared year over year, it assesses our ability to fund dividend and
+distribution requirements from our operating activities. We also believe that, as a widely recognized measure of the operations of REITs, AFFO will be used by investors as a basis
+to assess our ability to fund dividend payments in comparison to other REITs. We calculate adjusted funds from operations, or AFFO, by adding to or subtracting from FFO (i) nonreal estate depreciation, (ii) amortization of deferred financing costs (iii) noncash compensation (iv) loss from early extinguishment of debt (v) straight line rents (vi) fair value of
+lease revenue amortization (vii) capitalized leasing payroll (viii) recurring tenant improvements and (ix) capitalized leasing commissions. Other equity REITs may not calculate
+AFFO in a consistent manner. Accordingly, our AFFO may not be comparable to other equity REITs’ AFFO. AFFO should be considered only as a supplement to net income
+computed in accordance with GAAP as a measure of our operations.
+EBITDA and Adjusted EBITDA:
+We believe that earnings before interest, income taxes, depreciation and amortization, or EBITDA and Adjusted EBITDA (as defined below), are useful supplemental performance
+measures because they allows investors to view our performance without the impact or noncash depreciation and amortization or the cost of debt and with respect to Adjusted
+EBITDA preferred dividends and minority interests. Adjusted EBITDA is EBITDA excluding minority interests and preferred stock dividends. In addition, we believe EBITDA and
+adjusted EBITDA are frequently used by securities analysts, investors and other interested parties in the evaluation of REITs. Because EBITDA and adjusted EBITDA are
+calculated before recurring cash charges including interest expense and income taxes, and are not adjusted for capital expenditures or other recurring cash requirements of our
+business, their utility as a measure of our performance is limited. Accordingly, EBITDA and Adjusted EBITDA should be considered only as supplements to net income (computed
+in accordance with GAAP) as a measure of our financial performance. Other equity REITs may calculate EBITDA and Adjusted EBITDA differently than we do; accordingly, our
+EBITDA and Adjusted EBITDA may not comparable to such other REITs’ EBITDA and Adjusted EBITDA.
+
+24
+
+

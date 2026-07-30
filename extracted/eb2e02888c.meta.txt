@@ -1,0 +1,5 @@
+original_name: Digital-Realty-3Q24-Earnings-Supplemental-10-24-2024-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/71a0b063-475e-457f-9191-1efedae35543
+pdf_file: pdfs/Digital-Realty-3Q24-Earnings-Supplemental-10-24-2024-FINAL__eb2e02888c.pdf
+text_file: extracted/Digital-Realty-3Q24-Earnings-Supplemental-10-24-2024-FINAL__eb2e02888c.txt

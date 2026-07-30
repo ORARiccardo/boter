@@ -1,0 +1,5 @@
+original_name: 1Q19-Earnings-Presentation-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/2d07b7f5-f176-49a3-b95b-b9a62e2ba1dc
+pdf_file: pdfs/1Q19-Earnings-Presentation-FINAL__b71a189498.pdf
+text_file: extracted/1Q19-Earnings-Presentation-FINAL__b71a189498.txt

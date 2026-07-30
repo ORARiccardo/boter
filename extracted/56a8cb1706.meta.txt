@@ -1,0 +1,5 @@
+original_name: Digital-Realty-4Q24-Earnings-Press-Release-2-13-25.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/d8065f11-623e-4be8-9417-142ae277253a
+pdf_file: pdfs/Digital-Realty-4Q24-Earnings-Press-Release-2-13-25__56a8cb1706.pdf
+text_file: extracted/Digital-Realty-4Q24-Earnings-Press-Release-2-13-25__56a8cb1706.txt

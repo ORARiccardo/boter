@@ -1,0 +1,5 @@
+original_name: Digital Realty 2Q26 Earnings Presentation 07.23.2026.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/817ac900-41b0-40a9-a548-af093f37dc57
+pdf_file: pdfs/Digital_Realty_2Q26_Earnings_Presentation_07.23.2026__12a062e1f0.pdf
+text_file: extracted/Digital_Realty_2Q26_Earnings_Presentation_07.23.2026__12a062e1f0.txt

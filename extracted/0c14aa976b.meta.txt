@@ -1,0 +1,5 @@
+original_name: Digital-Realty-3Q23-Earnings-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/6d222396-a0b2-4049-b9b8-c85dc7271bc2
+pdf_file: pdfs/Digital-Realty-3Q23-Earnings-Presentation__0c14aa976b.pdf
+text_file: extracted/Digital-Realty-3Q23-Earnings-Presentation__0c14aa976b.txt

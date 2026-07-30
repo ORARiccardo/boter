@@ -1,0 +1,5 @@
+original_name: 2Q19-Financial-Supplemental.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/55944b87-59ae-4817-98c0-88ec56a6f9c5
+pdf_file: pdfs/2Q19-Financial-Supplemental__64d45c4a76.pdf
+text_file: extracted/2Q19-Financial-Supplemental__64d45c4a76.txt

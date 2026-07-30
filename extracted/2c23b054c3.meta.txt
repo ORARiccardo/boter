@@ -1,0 +1,5 @@
+original_name: 2Q24-Digital-Realty-Earnings-Presentation-07-25-24-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/3ab1481f-7c54-4272-b307-b684641dbc7c
+pdf_file: pdfs/2Q24-Digital-Realty-Earnings-Presentation-07-25-24-FINAL__2c23b054c3.pdf
+text_file: extracted/2Q24-Digital-Realty-Earnings-Presentation-07-25-24-FINAL__2c23b054c3.txt

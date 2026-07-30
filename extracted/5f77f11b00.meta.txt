@@ -1,0 +1,5 @@
+original_name: Digital-Realty-s-1Q23-Earnings-Supplemental.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/2338aead-aee8-4fea-8d25-215a17104865
+pdf_file: pdfs/Digital-Realty-s-1Q23-Earnings-Supplemental__5f77f11b00.pdf
+text_file: extracted/Digital-Realty-s-1Q23-Earnings-Supplemental__5f77f11b00.txt

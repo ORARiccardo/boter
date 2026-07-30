@@ -1,0 +1,5 @@
+original_name: Digital-Realty-3Q25-Earnings-Presentation-FINAL-10-23-2025.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/6e2e9f7e-5599-4d0f-98cf-c655cb8544ba
+pdf_file: pdfs/Digital-Realty-3Q25-Earnings-Presentation-FINAL-10-23-2025__95f5d210e2.pdf
+text_file: extracted/Digital-Realty-3Q25-Earnings-Presentation-FINAL-10-23-2025__95f5d210e2.txt

@@ -1,0 +1,5 @@
+original_name: Supplemental-information1209.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/fc179ddd-1231-49be-ae82-e77c4c9fdf03
+pdf_file: pdfs/Supplemental-information1209__e0f88f4575.pdf
+text_file: extracted/Supplemental-information1209__e0f88f4575.txt

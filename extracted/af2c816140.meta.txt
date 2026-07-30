@@ -1,0 +1,5 @@
+original_name: Digital Realty 2Q26 Earnings Supplemental 07.23.2026 FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/678a7e32-514a-41c8-aebc-9492d513bf61
+pdf_file: pdfs/Digital_Realty_2Q26_Earnings_Supplemental_07.23.2026_FINAL__af2c816140.pdf
+text_file: extracted/Digital_Realty_2Q26_Earnings_Supplemental_07.23.2026_FINAL__af2c816140.txt

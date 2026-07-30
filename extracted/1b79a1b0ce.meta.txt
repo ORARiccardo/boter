@@ -1,0 +1,5 @@
+original_name: Digital-Realty-Reports-Fourth-Quarter-And-Full-Year-2015-Results.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/3250a164-30aa-4c27-8fbd-3ad157a75cf3
+pdf_file: pdfs/Digital-Realty-Reports-Fourth-Quarter-And-Full-Year-2015-Results__1b79a1b0ce.pdf
+text_file: extracted/Digital-Realty-Reports-Fourth-Quarter-And-Full-Year-2015-Results__1b79a1b0ce.txt

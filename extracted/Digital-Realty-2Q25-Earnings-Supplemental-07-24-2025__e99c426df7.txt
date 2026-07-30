@@ -1,0 +1,9530 @@
+Financial Supplement
+Table of Contents
+
+Overview
+
+Second Quarter 2025
+
+PAGE
+
+Corporate Information
+
+3
+
+Key Quarterly Financial Data
+
+5
+
+Consolidated Statements of Operations
+Earnings Release
+
+7
+
+2025 Outlook
+
+10
+
+Consolidated Quarterly Statements of Operations
+
+12
+
+Funds From Operations and Core Funds From Operations
+
+13
+
+Adjusted Funds From Operations
+
+14
+
+Balance Sheet Information
+Consolidated Balance Sheets
+
+15
+
+Components of Net Asset Value
+
+16
+
+Debt Maturities
+
+17
+
+Debt Analysis and Covenant Compliance
+
+18
+
+Internal Growth
+Same-Capital Operating Trend Summary
+
+19
+
+Summary of Leasing Activity - Signed
+
+20
+
+Summary of Leasing Activity - Renewed
+
+21
+
+Lease Expirations - By Size
+
+22
+
+Top 20 Customers by Annualized Rent
+
+23
+
+Occupancy Analysis
+
+24
+
+External Growth
+Development Lifecycle
+
+25
+
+Construction Projects in Progress
+
+26
+
+Historical Capital Expenditures and Investments in Real Estate
+
+27
+
+Acquisitions / Dispositions / Joint Ventures
+
+28
+
+Unconsolidated Entities
+
+29
+
+Additional Information
+Reconciliation of Earnings Before Interest, Taxes, Depreciation & Amortization and Financial Ratios
+
+30
+
+Management Statements on Non-GAAP Measures
+
+31
+
+Forward-Looking Statements
+
+33
+
+Financial Supplement
+Corporate Information
+
+Second Quarter 2025
+
+Corporate Profile
+Digital Realty Trust, Inc. (“Digital Realty” or the “company”) owns, acquires, develops, and operates data centers through its operating partnership
+subsidiary, Digital Realty Trust, L.P. (the “operating partnership”). The company is focused on providing data center, colocation, and interconnection
+solutions for domestic and international customers across a variety of industry verticals ranging from cloud and information technology services,
+communications and social networking to financial services, manufacturing, energy, healthcare, and consumer products. As of June 30, 2025, the
+company’s 310 data centers, including 87 data centers held as investments in unconsolidated entities, contain applications and operations critical to the
+day-to-day operations of technology industry and corporate enterprise data center customers. Digital Realty’s portfolio is comprised of approximately
+42.5 million square feet, excluding approximately 9.8 million square feet of space under active development and 4.6 million square feet of space held
+for future development, located throughout North America, Europe, South America, Asia, Australia, and Africa. For additional information, please visit
+the company’s website at digitalrealty.com.
+
+Corporate Headquarters
+2323 Bryan Street, Suite 1800
+Dallas, TX 75201
+Telephone: (214) 231-1350
+Website: digitalrealty.com
+
+Senior Management
+President & Chief Executive Officer: Andrew P. Power
+Chief Financial Officer: Matthew R. Mercier
+Chief Investment Officer: Gregory S. Wright
+Chief Technology Officer: Christopher L. Sharp
+Chief Revenue Officer: Colin M. McLean
+
+Investor Relations
+To request more information or to be added to our e-mail distribution list, please visit the Investor Relations section of our website at
+https://investor.digitalrealty.com.
+Analyst Coverage
+BMO
+Argus Research
+Marie Ferguson
+(212) 425-7500
+
+BofA Securities
+Michael Funk
+(646) 855-5664
+
+Barclays
+Brendan Lynch
+(212) 526-9428
+
+Evercore ISI
+Irvin Liu
+(415) 800-0183
+
+Goldman Sachs
+Jim Schneider
+(212) 357-2929
+
+KeyBanc
+Brandon Nispel
+(503) 821-3871
+Scotiabank
+Maher Yaghi
+(437) 995-5548
+
+BMO Capital
+Markets
+Ari Klein
+(212) 885-4103
+
+BNP Paribas
+Exane
+Nate Crossett
+(646) 725-3716
+
+Citigroup
+Michael Rollins
+(212) 816-1116
+
+Deutsche Bank
+Matthew Niknam
+(212) 250-4711
+
+Green Street Advisors HSBC
+David Guarino
+Phani Kanumuri
+(949) 640-8780
+(240) 709-8135
+
+Jefferies
+Jonathan Petersen
+(212) 284-1705
+
+JMP Securities
+Greg Miller
+(212) 906-3500
+
+J.P. Morgan
+Richard Choe
+(212) 662-6708
+
+Mizuho Group
+Vikram Malhotra
+(212) 282-3827
+
+MoffettNathanson
+Nick Del Deo
+(212) 519-0025
+
+Morningstar
+Samuel Siampaus
+(312) 244-7966
+
+Oppenheimer
+Timothy Horan
+(212) 667-8137
+
+Raymond James
+Frank Louthan
+(404) 442-5867
+
+RBC Capital
+Markets
+Jonathan Atkin
+(415) 633-8589
+
+Stifel
+Erik Rasmussen
+(212) 271-3461
+
+TD Cowen
+Michael Elias
+(646) 562-1358
+
+Truist Securities
+Anthony Hau
+(212) 303-4176
+
+UBS
+John Hodulik
+(212) 713-4226
+
+Wells Fargo
+Eric Luebchow
+(312) 630-2386
+
+Wolfe Research
+Andrew Rosivach
+(646) 582-9250
+
+This Earnings Press Release and Supplemental Information package supplements the information provided in our quarterly and annual reports filed with
+the U.S. Securities and Exchange Commission. Additional information about Digital Realty and our business is also available on our website at
+digitalrealty.com.
+Upcoming Conference Schedule
+August 12, 2025
+September 3, 2025
+September 9, 2025
+September 9, 2025
+September 16 — 17, 2025
+September 17 — 18, 2025
+September 30, 2025
+
+Oppenheimer 28th Technology, Internet & Communications Conference
+Citi’s 2025 Global TMT Conference
+Bank of America 2025 Global Real Estate Conference
+Goldman Sachs Communacopia + Technology Conference
+RBC Global Communications Infrastructure Conference
+EPRA Conference
+Mizuho REIT Conference 2025
+
+Virtual
+New York, NY
+New York, NY
+San Francisco, CA
+Chicago, IL
+Stockholm, Sweden
+Virtual
+
+Webcasts for these events are available through the Digital Realty Investor Relations website when possible. Please check our website for additional information.
+
+3
+
+Financial Supplement
+Corporate Information (Continued)
+
+Second Quarter 2025
+
+Stock Listing Information
+The stock of Digital Realty Trust, Inc. is traded primarily on the New York Stock Exchange under the following symbols:
+Common Stock:
+Series J Preferred Stock:
+Series K Preferred Stock:
+Series L Preferred Stock:
+
+DLR
+DLRPRJ
+DLRPRK
+DLRPRL
+
+Symbols may vary by stock quote provider.
+Credit Ratings
+
+Standard & Poor’s
+Corporate Credit Rating:
+Preferred Stock:
+
+BBB
+BB+
+
+(Stable Outlook)
+
+Moody’s
+Issuer Rating:
+Preferred Stock:
+
+Baa2
+Baa3
+
+(Stable Outlook)
+
+Fitch
+Issuer Default Rating:
+Preferred Stock:
+
+BBB
+BB+
+
+(Stable Outlook)
+
+These credit ratings may not reflect the potential impact of risks relating to the structure or trading of the company’s securities and are provided solely
+for informational purposes. Credit ratings are not recommendations to buy, hold or sell any security, and may be revised or withdrawn at any time by
+the issuing rating agency at its sole discretion. The company does not undertake any obligation to maintain the ratings or to advise of any change in
+ratings. Each agency’s rating should be evaluated independently of any other agency’s rating. An explanation of the significance of the ratings may be
+obtained from each of the rating agencies.
+Common Stock Price Performance
+The following summarizes recent activity of Digital Realty’s common stock (DLR):
+Three Months Ended
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+High price
+Low price
+
+$178.85
+
+$187.74
+
+$198.00
+
+$165.17
+
+$153.25
+
+$129.95
+
+$139.27
+
+$155.16
+
+$141.00
+
+$135.54
+
+Closing price, end of quarter
+
+$174.33
+
+$143.29
+
+$177.33
+
+$161.83
+
+$152.05
+
+Average daily trading volume (1)
+
+2,034
+
+2,529
+
+1,911
+
+1,615
+
+1,863
+
+Indicated dividend per common share (2)
+
+$4.88
+
+$4.88
+
+$4.88
+
+$4.88
+
+$4.88
+
+Closing annual dividend yield, end of quarter
+
+2.8%
+
+3.4%
+
+2.8%
+
+3.0%
+
+3.2%
+
+346,644
+
+343,092
+
+342,772
+
+337,744
+
+332,346
+
+$60,430,449
+
+$49,161,653
+
+$60,783,759
+
+$54,657,112
+
+$50,533,209
+
+Shares and units outstanding, end of quarter (1) (3)
+Closing market value of shares and units outstanding (4)
+(1)
+
+Shares or shares and units in thousands.
+
+(2)
+
+On an annualized basis.
+
+(3)
+
+As of June 30, 2025, the total number of shares and units includes 340,372 shares of common stock, 4,046 common units held by third parties and 2,226 common
+units and vested and unvested long-term incentive units held by directors, officers and others and excludes all shares of common stock potentially issuable upon
+conversion of our series J, series K and series L cumulative redeemable preferred stock upon certain change of control transactions.
+
+(4)
+
+Dollars in thousands as of the end of the quarter.
+
+This Earnings Press Release and Supplemental Information package supplements the information provided in our quarterly and annual reports filed with the U.S. Securities
+and Exchange Commission. Additional information about us and our data centers is also available on our website at digitalrealty.com.
+
+4
+
+Key Quarterly Financial Data
+
+Financial Supplement
+
+Unaudited, Dollars (except per share data) and Square Feet in Thousands
+
+Second Quarter 2025
+
+Shares and Units at End of Quarter
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+Common shares outstanding
+Common partnership units outstanding
+
+340,372
+6,272
+
+336,743
+6,349
+
+336,637
+6,135
+
+331,347
+6,397
+
+325,885
+6,461
+
+Total Shares and Units
+
+346,644
+
+343,092
+
+342,772
+
+337,744
+
+332,346
+
+Enterprise Value
+Market value of common equity (1)
+Liquidation value of preferred equity
+Total debt at balance sheet carrying value
+
+$60,430,449
+755,000
+18,452,148
+
+$49,161,653
+755,000
+17,016,279
+
+$60,783,759
+755,000
+16,714,377
+
+$54,657,112
+755,000
+16,986,546
+
+$50,533,209
+755,000
+16,339,746
+
+Total Enterprise Value
+Total debt / total enterprise value
+Debt-plus-preferred-to-total-enterprise-value
+
+$79,637,597
+23.2%
+24.1%
+
+$66,932,932
+25.4%
+26.6%
+
+$78,253,136
+21.4%
+22.3%
+
+$72,398,658
+23.5%
+24.5%
+
+$67,627,955
+24.2%
+25.3%
+
+Selected Balance Sheet Data
+Investments in real estate (before depreciation)
+Total Assets
+Total Liabilities
+
+$38,613,260
+48,714,995
+23,853,149
+
+$35,693,166
+45,080,562
+21,902,406
+
+$35,401,912
+45,283,616
+22,107,836
+
+$36,463,664
+45,295,392
+22,118,781
+
+$34,573,283
+43,606,883
+21,199,178
+
+Selected Operating Data
+Total operating revenues
+Total operating expenses
+Net income
+Net income / (loss) available to common stockholders
+
+$1,493,150
+1,281,453
+1,046,946
+1,021,975
+
+$1,407,637
+1,211,887
+106,395
+99,793
+
+$1,435,862
+1,291,540
+185,688
+179,388
+
+$1,431,214
+1,262,928
+40,134
+41,012
+
+$1,356,749
+1,346,860
+74,668
+70,039
+
+Financial Ratios
+EBITDA (2)
+Adjusted EBITDA (3)
+Net Debt-to-Adjusted EBITDA (4)
+Interest expense
+Fixed charges (5)
+Interest coverage ratio (6)
+Fixed charge coverage ratio (7)
+
+$1,605,408
+823,319
+5.1x
+109,383
+148,957
+5.0x
+4.7x
+
+$658,400
+791,156
+5.1x
+98,464
+138,739
+5.3x
+4.9x
+
+$746,578
+751,276
+4.8x
+104,742
+149,364
+4.5x
+4.2x
+
+$639,875
+758,296
+5.4x
+123,803
+162,296
+4.3x
+4.1x
+
+$625,130
+726,874
+5.3x
+114,756
+152,529
+4.3x
+4.1x
+
+$3.03
+$2.94
+$1.75
+$1.87
+$1.68
+$1.22
+69.6%
+65.2%
+72.8%
+
+$0.30
+$0.27
+$1.67
+$1.77
+$1.78
+$1.22
+73.2%
+68.8%
+68.6%
+
+$0.54
+$0.51
+$1.61
+$1.73
+$1.36
+$1.22
+75.6%
+70.7%
+89.5%
+
+$0.13
+$0.09
+$1.55
+$1.67
+$1.52
+$1.22
+78.8%
+73.2%
+80.4%
+
+$0.22
+$0.20
+$1.57
+$1.65
+$1.56
+$1.22
+77.9%
+73.9%
+78.1%
+
+330
+310
+229,000
+42,529
+84.8%
+36,073
+9,848
+4,616
+5.1
+83.0%
+
+328
+308
+228,000
+41,778
+84.0%
+35,100
+9,463
+5,062
+4.9
+82.6%
+
+328
+308
+227,000
+41,326
+84.1%
+34,741
+8,904
+4,686
+4.8
+82.8%
+
+331
+312
+225,000
+41,092
+83.9%
+34,479
+9,126
+4,862
+4.8
+83.0%
+
+323
+310
+223,000
+41,220
+82.9%
+34,160
+8,507
+5,130
+4.7
+83.4%
+
+Profitability Measures
+Net income / (loss) per common share - basic
+Net income / (loss) per common share - diluted
+Funds from operations (FFO) / diluted share and unit (8)
+Core funds from operations (Core FFO) / diluted share and unit (8)
+Adjusted funds from operations (AFFO) / diluted share and unit (9)
+Dividends per share and common unit
+Diluted FFO payout ratio (8) (10)
+Diluted Core FFO payout ratio (8) (11)
+Diluted AFFO payout ratio (9) (12)
+Portfolio Statistics
+Buildings (13)
+Data Centers (13)
+Cross-connects (13) (14)
+Net rentable square feet, excluding development space (13)
+Occupancy at end of quarter (15)
+Occupied square footage (13)
+Space under active development (16)
+Space held for development (17)
+Weighted average remaining lease term (years) (18)
+Same-capital occupancy at end of quarter (15) (19)
+
+5
+
+Key Quarterly Financial Data
+
+Financial Supplement
+
+Unaudited, Dollars (except per share data) and Square Feet in Thousands
+
+Second Quarter 2025
+
+(1)
+
+The market value of common equity is based on the closing stock price at the end of the quarter and assumes 100% redemption of the limited partnership units in
+our operating partnership, including common units and vested and unvested long-term incentive units, for shares of our common stock on a one-for-one basis.
+Excludes shares of common stock potentially issuable upon conversion of our series J, series K and series L cumulative redeemable preferred stock upon certain
+change of control transactions, as applicable.
+
+(2)
+
+EBITDA is calculated as earnings before interest expense, loss on debt extinguishment and modifications, tax expense, and depreciation and amortization. For a
+discussion of EBITDA, see page 31. For a reconciliation of net income available to common stockholders to EBITDA, see page 30.
+
+(3)
+
+Adjusted EBITDA is EBITDA excluding (i) unconsolidated entities real estate related depreciation & amortization, (ii) unconsolidated entities interest and tax expense,
+(iii) severance, equity acceleration and legal expenses, (iv) transaction and integration expenses, (v) gain (loss) on sale / deconsolidation, (vi) provision for
+impairment, (vii) other non-core adjustments, net, (viii) noncontrolling interests, (ix) preferred stock dividends, and (x) gain on / issuance costs associated with
+redeemed preferred stock. For a discussion of Adjusted EBITDA, see page 31. For a reconciliation of net income available to common stockholders to Adjusted
+EBITDA, see page 30.
+
+(4)
+
+Net Debt to Adjusted EBITDA is calculated as total debt at balance sheet carrying value (see page 5), plus capital lease obligations, plus our share of unconsolidated
+entities debt at carrying value, less cash and cash equivalents (including our share of unconsolidated entities cash), divided by the product of Adjusted EBITDA
+(including our share of unconsolidated entities EBITDA), multiplied by four.
+
+(5)
+
+Fixed charges consist of GAAP interest expense, capitalized interest, scheduled debt principal payments and preferred stock dividends.
+
+(6)
+
+Interest coverage ratio is Adjusted EBITDA divided by GAAP interest expense plus capitalized interest (including our share of unconsolidated entities interest
+expense).
+
+(7)
+
+Fixed charge coverage ratio is Adjusted EBITDA divided by fixed charges (including our share of unconsolidated entities fixed charges).
+
+(8)
+
+For definitions and discussion of FFO and Core FFO, see page 31. For reconciliations of net income available to common stockholders to FFO and Core FFO, see page
+13.
+
+(9)
+
+For a definition and discussion of AFFO, see page 31. For a reconciliation of Core FFO to AFFO, see page 14.
+
+(10) Diluted FFO payout ratio is dividends declared per common share and unit divided by diluted FFO per share and unit.
+(11) Diluted Core FFO payout ratio is dividends declared per common share and unit divided by diluted Core FFO per share and unit.
+(12) Diluted AFFO payout ratio is dividends declared per common share and unit divided by diluted AFFO per share and unit.
+(13) Includes buildings held as investments in unconsolidated entities. Excludes buildings held for sale and contribution.
+(14) Represents approximate amounts.
+(15) Occupancy and same-capital occupancy exclude space under active development and space held for development. Occupancy represents our consolidated portfolio
+in addition to our managed portfolio of unconsolidated entities and non-managed unconsolidated entities. For some of our buildings, we calculate occupancy based
+on factors in addition to contractually leased square feet, including available power, required support space and common area. Excludes buildings held for sale and
+contribution.
+(16) Space under active development includes current Base Building and Data Centers projects in progress. Excludes buildings held for sale and contribution.
+(17) Space held for development includes space held for future Data Center development and excludes space under active development. Excludes buildings held for sale
+and contribution.
+(18) Weighted average remaining lease term excludes renewal options and is weighted by net rentable square feet.
+(19) Represents buildings owned as of December 31, 2023, with less than 5% of total rentable square feet under development. Excludes buildings that were undergoing,
+or were expected to undergo, development activities in 2024-2025, buildings classified as held for sale and contribution, and buildings sold or contributed to joint
+ventures for all periods presented. Prior period results have been adjusted to reflect current same-capital pool.
+
+6
+
+Digital Realty Trust
+
+Financial Supplement
+
+Earnings Release
+
+Second Quarter 2025
+
+Digital Realty Reports Second Quarter 2025 Results
+Dallas, TX — July 24, 2025 — Digital Realty (NYSE: DLR), the largest global provider of cloud- and carrier-neutral data center, colocation, and
+interconnection solutions, announced today financial results for the second quarter of 2025. All per share results are presented on a fully diluted basis.
+Highlights
+
+▪
+
+Reported net income available to common stockholders of $2.94 per share in 2Q25, compared to $0.20 in 2Q24
+
+▪
+
+Reported FFO per share of $1.75 in 2Q25, compared to $1.57 in 2Q24
+
+▪
+
+Reported Core FFO per share of $1.87 in 2Q25, compared to $1.65 in 2Q24
+
+▪
+
+Reported Constant-Currency Core FFO per share of $1.84 in 2Q25
+
+▪
+
+Reported rental rate increases on renewal leases of 7.3% on a cash basis in 2Q25
+
+▪
+
+Signed total bookings during 2Q25 that are expected to generate $177 million of annualized GAAP rental revenue at 100% share; at Digital
+Realty’s share total bookings were $135 million, including a $90 million contribution from the 0–1 megawatt plus interconnection category
+
+▪
+
+Reported backlog of $826 million of annualized GAAP base rent at the end of 2Q25
+
+▪
+
+Raised 2025 Core FFO per share outlook to $7.15 - $7.25 and 2025 Constant-Currency Core FFO per share outlook to $7.10 - $7.20
+
+Financial Results
+Digital Realty reported revenues of $1.49 billion in the second quarter of 2025, a 6% increase from the previous quarter and a 10% increase from the
+same quarter last year.
+The company delivered net income of $1.05 billion in the second quarter of 2025, as well as net income available to common stockholders of $1.02
+billion and $2.94 per share, compared to $0.27 per share in the previous quarter and $0.20 per share in the same quarter last year.
+Digital Realty generated Adjusted EBITDA of $823 million in the second quarter of 2025, a 4% increase from the previous quarter and a 13% increase
+over the same quarter last year.
+The company reported Funds From Operations (FFO) of $600 million in the second quarter of 2025, or $1.75 per share, compared to $1.67 per share in
+the previous quarter and $1.57 per share in the same quarter last year.
+Excluding certain items that do not represent core expenses or revenue streams, Digital Realty delivered Core FFO per share of $1.87 in the second
+quarter of 2025, compared to $1.77 per share in the previous quarter and $1.65 per share in the same quarter last year. Digital Realty delivered
+Constant-Currency Core FFO per share of $1.84 in the second quarter of 2025 and $3.63 per share for the six-month period ended June 30, 2025.
+“Record bookings in our 0–1 megawatt plus interconnection product set underscore the strength of our full spectrum strategy and the breadth of the
+growing demand for digital infrastructure,” said Digital Realty President and Chief Executive Officer Andy Power. “ Our inaugural U.S. Hyperscale Data
+Center Fund is oversubscribed, providing us the capital necessary to serve our customers’ growing requirements and to extend Digital Realty’s runway
+for growth.”
+
+Leasing Activity
+In the second quarter, Digital Realty signed total bookings that are expected to generate $135 million of annualized GAAP rental revenue at its share,
+including a $73 million contribution from the 0–1 megawatt category and a $17 million contribution from interconnection.
+The weighted-average lag between new leases signed during the second quarter of 2025 and the contractual commencement date was four months.
+The backlog of signed-but-not-commenced leases at quarter-end was $826 million of annualized GAAP base rent at Digital Realty’s share.
+In addition to new leases signed, Digital Realty also signed renewal leases representing $177 million of annualized cash rental revenue during the
+quarter. Rental rates on renewal leases signed during the second quarter of 2025 increased 7.3% on a cash basis and 9.9% on a GAAP basis.
+
+7
+
+Digital Realty Trust
+
+Financial Supplement
+
+Earnings Release
+
+Second Quarter 2025
+
+New leases signed during the second quarter of 2025 are summarized by region and product as follows:
+Annualized GAAP
+Americas
+
+Base Rent
+
+Square Feet
+
+GAAP Base Rent
+
+(in thousands)
+
+(in thousands)
+
+per Square Foot
+
+GAAP Base Rent
+Megawatts
+
+per Kilowatt
+
+0-1 MW
+
+$30,750
+
+128
+
+$240
+
+9.9
+
+$259
+
+> 1 MW
+
+16,261
+
+41
+
+400
+
+10.4
+
+130
+
+Other (1)
+Total
+
+288
+
+6
+
+47
+
+—
+
+—
+
+$47,299
+
+175
+
+$270
+
+20.3
+
+$193
+
+0-1 MW
+
+$31,024
+
+72
+
+$429
+
+8.5
+
+$304
+
+> 1 MW
+
+15,609
+
+54
+
+290
+
+6.6
+
+197
+
+Other (1)
+Total
+
+115
+
+1
+
+138
+
+—
+
+—
+
+$46,747
+
+127
+
+$368
+
+15.1
+
+$257
+
+0-1 MW
+
+$10,744
+
+39
+
+$274
+
+3.3
+
+$268
+
+> 1 MW
+
+13,168
+
+58
+
+228
+
+6.3
+
+174
+
+Other (1)
+
+16
+
+2
+
+9
+
+—
+
+—
+
+Total
+
+$23,927
+
+99
+
+$243
+
+9.6
+
+$207
+
+0-1 MW
+
+$72,517
+
+240
+
+$303
+
+21.7
+
+$278
+
+> 1 MW
+
+45,038
+
+152
+
+296
+
+23.3
+
+161
+
+Other (1)
+Total
+
+419
+
+9
+
+48
+
+—
+
+—
+
+$117,974
+
+401
+
+$294
+
+45.0
+
+$218
+
+Interconnection
+
+$17,346
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Grand Total
+
+$135,320
+
+401
+
+$294
+
+45.0
+
+$218
+
+EMEA (2)
+
+Asia Pacific (2)
+
+All Regions (2)
+
+Note: Totals may not foot due to rounding differences.
+(1)
+
+Other includes Powered Base Building® shell capacity as well as storage and office space within fully improved data center facilities.
+
+(2)
+
+Based on quarterly average exchange rates during the three months ended June 30, 2025.
+
+Investment Activity
+During the second quarter, Digital Realty acquired land parcels in three metros. As previously disclosed, Digital Realty acquired approximately 100 acres
+of land in the Atlanta metro area that is expected to support over 200 megawatts of IT capacity for approximately $120 million. Separately, Digital
+Realty acquired a 167-acre land parcel in the Dallas metro area that is expected to support approximately 480 megawatts of IT capacity for
+approximately $11 million. Lastly, Digital Realty acquired several land parcels as part of an assemblage in the Chicago metro area supporting the
+continued expansion of its Franklin Park campus for approximately $6 million.
+Digital Realty also received additional equity commitments from a broad array of global Limited Partners for its U.S. Hyperscale Data Center Fund (the
+“Fund”), lifting total commitments to more than $3 billion to date. The Fund is now well ahead of its initial target for LP equity commitments and is on
+track for its final close. During the quarter, Digital Realty contributed interests in five operating data centers and two development sites to the Fund.
+Digital Realty received over $900 million of gross proceeds as a result of the contributions.
+Subsequent to quarter end, Digital Realty sold a five megawatt non-core data center in the Atlanta metro area for gross proceeds of $65 million.
+
+8
+
+Digital Realty Trust
+
+Financial Supplement
+
+Earnings Release
+
+Second Quarter 2025
+
+Balance Sheet
+Digital Realty had approximately $18.5 billion of total debt outstanding as of June 30, 2025, comprised of $17.7 billion of unsecured debt and
+approximately $0.8 billion of secured debt and other debt. At the end of the second quarter of 2025, net debt-to-Adjusted EBITDA was 5.1x, debt-pluspreferred-to-total enterprise value was 24.1% and fixed charge coverage was 4.7x.
+
+In June, Digital Realty issued €850 million of 3.875% notes due 2034, for net proceeds of approximately €837 million ($975 million). Subsequent to
+quarter end, the company also repaid €650 million ($754 million) in aggregate principal amount of its 0.625% senior notes.
+
+Since March 31, 2025, the company also sold 4.15 million shares of common stock under its At-The-Market (ATM) equity issuance program at a
+weighted average price of $173.19 per share, for net proceeds of approximately $719 million.
+
+9
+
+Digital Realty Trust
+
+Financial Supplement
+
+Earnings Release
+
+Second Quarter 2025
+
+2025 Outlook
+Digital Realty raised its 2025 Core FFO per share outlook to $7.15 - $7.25 and its 2025 Constant-Currency Core FFO per share outlook to $7.10 - $7.20.
+The assumptions underlying the outlook are summarized in the following table.
+Top-Line and Cost Structure
+Total revenue
+Net non-cash rent adjustments (1)
+Adjusted EBITDA
+G&A
+
+As of
+February 13, 2025
+$5.800 - $5.900 billion
+($45 - $50 million)
+$3.100 - $3.200 billion
+$500 - $510 million
+
+As of
+April 24, 2025
+$5.825 - $5.925 billion
+($50 - $55 million)
+$3.125 - $3.225 billion
+$505 - $515 million
+
+As of
+July 24, 2025
+$5.925 - $6.025 billion
+($65 - $70 million)
+$3.200 - $3.300 billion
+$520 - $530 million
+
+Internal Growth
+Rental rates on renewal leases
+Cash basis
+GAAP basis
+Year-end portfolio occupancy
+"Same-Capital" cash NOI growth (2)
+
+4.0% - 6.0%
+6.0% - 8.0%
++100 - 200 bps
+3.5% - 4.5%
+
+4.0% - 6.0%
+6.0% - 8.0%
++100 - 200 bps
+3.5% - 4.5%
+
+5.0% - 6.0%
+7.0% - 8.0%
++100 - 200 bps
+3.5% - 4.5%
+
+Foreign Exchange Rates
+U.S. Dollar / Pound Sterling
+U.S. Dollar / Euro
+
+$1.20 - $1.25
+$1.00 - $1.05
+
+$1.25 - $1.35
+$1.05 - $1.15
+
+$1.30 - $1.35
+$1.10 - $1.15
+
+$500 - $1,000 million
+0.0% - 10.0%
+
+$500 - $1,000 million
+0.0% - 10.0%
+
+$700 - $1,000 million
+0.0% - 10.0%
+
+$3,000 - $3,500 million
+10.0%+
+$30 - $35 million
+$320 - $335 million
+
+$3,000 - $3,500 million
+10.0%+
+$30 - $35 million
+$320 - $335 million
+
+$3,000 - $3,500 million
+10.0%+
+$30 - $35 million
+$320 - $335 million
+
+$900 - $1,500 million
+5.0% - 5.5%
+Mid-Year
+
+$900 - $1,500 million
+4.0% - 5.5%
+Mid-Year
+
+~$2,000 million
+~4.0%
+Mid-Year
+
+$2.10 - $2.20
+$4.50 - $4.50
+$6.60 - $6.70
+$0.40 - $0.40
+$7.00 - $7.10
+$0.05 - $0.05
+$7.05 - $7.15
+
+$2.15 - $2.25
+$4.50 - $4.50
+$6.65 - $6.75
+$0.40 - $0.40
+$7.05 - $7.15
+$0.00 - $0.00
+$7.05 - $7.15
+
+$3.45 - $3.55
+$3.25 - $3.25
+$6.70 - $6.80
+$0.45 - $0.45
+$7.15 - $7.25
+($0.05) - ( $0.05)
+$7.10 - $7.20
+
+External Growth
+Dispositions / Joint Venture Capital
+Dollar volume
+Cap rate
+Development
+CapEx (Net of Partner Contributions) (3)
+Average stabilized yields
+Enhancements and other non-recurring CapEx (4)
+Recurring CapEx + capitalized leasing costs (5)
+Balance Sheet
+Long-term debt issuance
+Dollar amount
+Pricing
+Timing
+Net income per diluted share
+Real estate depreciation and (gain) / loss on sale
+Funds From Operations / share (NAREIT-Defined)
+Non-core expenses and revenue streams
+Core Funds From Operations / share
+Foreign currency translation adjustments
+Constant-Currency Core Funds From Operations / share
+(1)
+(2)
+
+(3)
+(4)
+(5)
+
+Net non-cash rent adjustments represent the sum of straight-line rental revenue and straight-line rental expense, as well as the amortization of above- and belowmarket leases (i.e., ASC 805 adjustments).
+The “Same-Capital” pool includes properties owned as of December 31, 2023 with less than 5% of total rentable square feet under development. It excludes
+properties that were undergoing, or were expected to undergo, development activities in 2024-2025, properties classified as held for sale and contribution, and
+properties sold or contributed to joint ventures for all periods presented. The 2025 “Same-Capital” cash NOI growth outlook is presented on a constant currency
+basis.
+Excludes land acquisitions and includes Digital Realty’s share of joint venture and fund contributions. Figure is net of joint venture and fund contributions.
+Other non-recurring CapEx represents costs incurred to enhance the capacity or marketability of operating properties, such as network fiber initiatives and software
+development costs.
+Recurring CapEx represents non-incremental improvements required to maintain current revenues, including second-generation tenant improvements and leasing
+commissions.
+
+Note: The company does not provide a reconciliation for non-GAAP estimates on a forward-looking basis, where it is unable to provide a meaningful or accurate calculation
+or estimation of reconciling items, and the information is not available without unreasonable effort. Please see Non-GAAP Financial Measures in this document for further
+discussion.
+
+10
+
+Digital Realty Trust
+
+Financial Supplement
+
+Earnings Release
+
+Second Quarter 2025
+
+Non-GAAP Financial Measures
+This document contains non-GAAP financial measures, including FFO, Core FFO, Constant Currency Core FFO, Adjusted FFO, Net Operating Income
+(NOI), “Same-Capital” Cash NOI and Adjusted EBITDA. A reconciliation from U.S. GAAP net income available to common stockholders to FFO, a
+reconciliation from FFO to Core FFO, a reconciliation from Core FFO to Adjusted FFO, a reconciliation from NOI to Cash NOI, and definitions of FFO, Core
+FFO, Constant Currency Core FFO, Adjusted FFO, NOI and “Same-Capital” Cash NOI are included as an attachment to this document. A reconciliation
+from U.S. GAAP net income available to common stockholders to Adjusted EBITDA, a definition of Adjusted EBITDA and definitions of net debt-toAdjusted EBITDA, debt-plus-preferred-to-total enterprise value, cash NOI, and fixed charge coverage ratio are included as an attachment to this
+document.
+The company does not provide a reconciliation for non-GAAP estimates on a forward-looking basis, where it is unable to provide a meaningful or
+accurate calculation or estimation of reconciling items and the information is not available without unreasonable effort. This is due to the inherent
+difficulty of forecasting the timing and/or amount of various items that would impact net income attributable to common stockholders per diluted
+share, which is the most directly comparable forward-looking GAAP financial measure. This includes, for example, external growth factors, such as
+dispositions, and balance sheet items such as debt issuances, that have not yet occurred, are out of the company's control and/or cannot be reasonably
+predicted. For the same reasons, the company is unable to address the probable significance of the unavailable information. Forward-looking non-GAAP
+financial measures provided without the most directly comparable GAAP financial measures may vary materially from the corresponding GAAP financial
+measures.
+Investor Conference Call
+Prior to Digital Realty’s investor conference call at 5:00 p.m. ET / 4:00 p.m. CT on July 24, 2025, a presentation will be posted to the Investors section of
+the company’s website at https://investor.digitalrealty.com. The presentation is designed to accompany the discussion of the company’s second quarter
+2025 financial results and operating performance. The conference call will feature President & Chief Executive Officer Andy Power and Chief Financial
+Officer Matt Mercier.
+To participate in the live call, investors are invited to dial +1 (888) 317-6003 (for domestic callers) or +1 (412) 317-6061 (for international callers) and
+reference the conference ID# 5545220 at least five minutes prior to start time. A live webcast of the call will be available via the Investors section of
+Digital Realty’s website at https://investor.digitalrealty.com.
+Telephone and webcast replays will be available after the call until August 24, 2025. The telephone replay can be accessed by dialing +1 (877) 344-7529
+(for domestic callers) or +1 (412) 317-0088 (for international callers) and providing the conference ID# 4783857. The webcast replay can be accessed on
+Digital Realty’s website.
+About Digital Realty
+Digital Realty brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions.
+PlatformDIGITAL®, the company’s global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter
+Architecture (PDx®) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial
+intelligence (AI), and efficiently managing Data Gravity challenges. Digital Realty gives its customers access to the connected data communities that matter
+to them with a global data center footprint of 300+ facilities in 50+ metros across 25+ countries on six continents. To learn more about Digital Realty,
+please visit digitalrealty.com or follow us on LinkedIn and X.
+Contact Information
+Matt Mercier
+Chief Financial Officer
+Digital Realty
+(415) 874-2803
+Jordan Sadler / Jim Huseby
+Investor Relations
+Digital Realty
+(415) 275-5344
+
+11
+
+Consolidated Quarterly Statements of Operations
+
+Financial Supplement
+
+Unaudited and in Thousands, Except Per Share Data
+
+Second Quarter 2025
+
+Three Months Ended
+31-Dec-24
+30-Sep-24
+
+30-Jun-24
+
+Six Months Ended
+30-Jun-25
+30-Jun-24
+
+$956,351
+
+$912,994
+
+$1,964,076
+
+$1,807,402
+
+302,664
+
+305,097
+
+274,505
+
+565,692
+
+550,862
+
+38,591
+
+39,624
+
+41,964
+
+79,532
+
+80,398
+
+112,969
+
+112,360
+
+112,655
+
+109,505
+
+234,921
+
+217,576
+
+34,427
+
+20,643
+
+23,316
+
+12,907
+
+15,656
+
+55,070
+
+28,666
+
+1,363
+
+133
+
+40
+
+4,581
+
+2,125
+
+1,496
+
+2,987
+
+$1,493,150
+
+$1,407,637
+
+$1,435,862
+
+$1,431,214
+
+$1,356,749
+
+$2,900,787
+
+$2,687,892
+
+Utilities
+
+$339,288
+
+$313,385
+
+$337,534
+
+$356,063
+
+$315,248
+
+$652,673
+
+$639,818
+
+Rental property operating
+
+267,724
+
+238,600
+
+273,104
+
+249,796
+
+237,653
+
+506,324
+
+462,021
+
+Property taxes
+
+49,570
+
+48,856
+
+46,044
+
+45,633
+
+49,620
+
+98,426
+
+90,776
+
+Insurance
+
+4,946
+
+4,483
+
+6,007
+
+4,869
+
+4,755
+
+9,429
+
+7,449
+
+Depreciation and amortization
+
+461,167
+
+443,009
+
+455,355
+
+459,997
+
+425,343
+
+904,176
+
+856,445
+
+General and administration
+
+30-Jun-25
+
+31-Mar-25
+
+$1,003,550
+
+$960,526
+
+$958,892
+
+Tenant reimbursements - Utilities
+
+294,503
+
+271,189
+
+Tenant reimbursements - Other
+
+37,355
+
+42,177
+
+Interconnection and other
+
+121,952
+
+Fee income
+Other
+
+Rental revenues
+
+Total Operating Revenues
+
+133,755
+
+121,112
+
+124,470
+
+115,120
+
+119,511
+
+254,867
+
+233,931
+
+Severance, equity acceleration and legal expenses
+
+2,262
+
+2,428
+
+2,346
+
+2,481
+
+884
+
+4,690
+
+1,675
+
+Transaction and integration expenses
+
+22,546
+
+39,902
+
+11,797
+
+24,194
+
+26,072
+
+62,448
+
+57,911
+
+—
+
+—
+
+22,881
+
+—
+
+168,303
+
+—
+
+168,303
+
+Provision for impairment
+Other expenses
+
+195
+
+112
+
+12,002
+
+4,774
+
+(529)
+
+307
+
+10,306
+
+$1,281,453
+
+$1,211,887
+
+$1,291,540
+
+$1,262,928
+
+$1,346,860
+
+$2,493,340
+
+$2,528,636
+
+$211,697
+
+$195,750
+
+$144,322
+
+$168,286
+
+$9,889
+
+$407,447
+
+$159,256
+
+Equity in earnings / (loss) of unconsolidated entities
+
+(12,062)
+
+(7,640)
+
+(36,201)
+
+(26,486)
+
+(41,443)
+
+(19,702)
+
+(57,451)
+
+Gain / (loss) on sale of investments
+
+931,830
+
+1,111
+
+144,885
+
+(556)
+
+173,709
+
+932,941
+
+451,496
+
+Total Operating Expenses
+Operating Income
+
+Interest and other income / (expense), net
+
+37,747
+
+32,773
+
+44,517
+
+37,756
+
+62,261
+
+70,520
+
+71,970
+
+Interest (expense)
+
+(109,383)
+
+(98,464)
+
+(104,742)
+
+(123,803)
+
+(114,756)
+
+(207,847)
+
+(224,291)
+
+Income tax benefit / (expense)
+
+(12,883)
+
+(17,135)
+
+(4,928)
+
+(12,427)
+
+(14,992)
+
+(30,018)
+
+(37,405)
+
+—
+
+—
+
+(2,165)
+
+(2,636)
+
+—
+
+—
+
+(1,070)
+
+$1,046,946
+
+$106,395
+
+$185,688
+
+$40,134
+
+$74,668
+
+$1,153,341
+
+$362,505
+
+Loss on debt extinguishment and modifications
+Net Income
+Net (income) / loss attributable to noncontrolling interests
+Net Income Attributable to Digital Realty Trust, Inc.
+Preferred stock dividends
+
+(14,790)
+
+3,579
+
+3,881
+
+11,059
+
+5,552
+
+(11,211)
+
+(777)
+
+$1,032,156
+
+$109,974
+
+$189,569
+
+$51,193
+
+$80,220
+
+$1,142,130
+
+$361,728
+
+(10,181)
+
+(10,181)
+
+(10,181)
+
+(10,181)
+
+(10,181)
+
+(20,362)
+
+(20,362)
+
+$1,021,975
+
+$99,793
+
+$179,388
+
+$41,012
+
+$70,039
+
+$1,121,768
+
+$341,366
+
+Weighted-average shares outstanding - basic
+
+337,589
+
+336,683
+
+333,376
+
+327,977
+
+319,537
+
+337,139
+
+315,915
+
+Weighted-average shares outstanding - diluted
+
+345,734
+
+344,721
+
+340,690
+
+336,249
+
+327,946
+
+345,305
+
+324,451
+
+Weighted-average fully diluted shares and units
+
+351,691
+
+350,632
+
+346,756
+
+342,374
+
+334,186
+
+351,239
+
+330,687
+
+$3.03
+$2.94
+
+$0.30
+$0.27
+
+$0.54
+$0.51
+
+$0.13
+$0.09
+
+$0.22
+$0.20
+
+$3.33
+$3.21
+
+$1.08
+$1.01
+
+Net Income / (Loss) Available to Common Stockholders
+
+Net income / (loss) per share - basic
+Net income / (loss) per share - diluted
+
+12
+
+Funds From Operations and Core Funds From Operations
+
+Financial Supplement
+
+Unaudited and in Thousands, Except Per Share Data
+
+Second Quarter 2025
+
+Three Months Ended
+
+Six Months Ended
+
+Reconciliation of Net Income to Funds From Operations (FFO)
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+30-Jun-25
+
+30-Jun-24
+
+Net Income / (Loss) Available to Common Stockholders
+
+$1,021,975
+
+$99,793
+
+$179,388
+
+$41,012
+
+$70,039
+
+$1,121,768
+
+$341,366
+
+Adjustments:
+Noncontrolling interest in operating partnership
+
+21,000
+
+3,000
+
+4,000
+
+1,000
+
+1,500
+
+24,000
+
+7,700
+
+Real estate related depreciation and amortization (1)
+
+451,050
+
+432,652
+
+445,462
+
+449,086
+
+414,920
+
+883,702
+
+835,511
+
+Reconciling items related to noncontrolling interests
+
+(21,038)
+
+(19,480)
+
+(19,531)
+
+(19,746)
+
+(17,317)
+
+(40,518)
+
+(25,335)
+
+Unconsolidated entities real estate related depreciation and amortization
+
+59,172
+
+55,861
+
+49,463
+
+48,474
+
+47,117
+
+115,033
+
+94,993
+
+(931,830)
+
+(1,111)
+
+(137,047)
+
+556
+
+(173,709)
+
+(932,941)
+
+(460,413)
+
+Provision for impairment
+
+—
+
+—
+
+22,881
+
+—
+
+168,303
+
+—
+
+168,303
+
+Funds From Operations
+
+$600,329
+
+$570,715
+
+$544,616
+
+$520,382
+
+$510,852
+
+$1,171,044
+
+$962,125
+
+Weighted-average shares and units outstanding - basic
+
+343,546
+
+342,594
+
+339,442
+
+334,103
+
+325,777
+
+343,073
+
+322,151
+
+Weighted-average shares and units outstanding - diluted (2) (3)
+
+351,691
+
+350,632
+
+346,756
+
+342,374
+
+334,186
+
+351,239
+
+330,687
+
+Funds From Operations per share - basic
+
+$1.75
+
+$1.67
+
+$1.60
+
+$1.56
+
+$1.57
+
+$3.41
+
+$2.99
+
+Funds From Operations per share - diluted (2) (3)
+
+$1.75
+
+$1.67
+
+$1.61
+
+$1.55
+
+$1.57
+
+$3.42
+
+$2.98
+
+(Gain) / loss on real estate transactions
+
+Three Months Ended
+Reconciliation of FFO to Core FFO
+Funds From Operations
+
+Six Months Ended
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+30-Jun-25
+
+30-Jun-24
+
+$600,329
+
+$570,715
+
+$544,616
+
+$520,382
+
+$510,852
+
+$1,171,044
+
+$962,125
+
+Other non-core revenue adjustments (4)
+
+4,228
+
+(1,925)
+
+4,537
+
+(4,583)
+
+(33,818)
+
+2,303
+
+(30,293)
+
+Transaction and integration expenses
+
+22,546
+
+39,902
+
+11,797
+
+24,194
+
+26,072
+
+62,448
+
+57,911
+
+—
+
+—
+
+2,165
+
+2,636
+
+—
+
+—
+
+1,070
+
+Loss on debt extinguishment and modifications
+Severance, equity acceleration and legal expenses (5)
+
+2,262
+
+2,428
+
+2,346
+
+2,481
+
+884
+
+4,690
+
+1,675
+
+(Gain) / Loss on FX and derivatives revaluation
+
+8,827
+
+(2,064)
+
+7,127
+
+1,513
+
+32,222
+
+6,764
+
+65,824
+
+Other non-core expense adjustments (6)
+Core Funds From Operations
+Weighted-average shares and units outstanding - diluted (2) (3)
+Core Funds From Operations per share - diluted (2)
+
+5,092
+
+(702)
+
+14,229
+
+11,120
+
+2,271
+
+4,390
+
+12,323
+
+$643,284
+
+$608,354
+
+$586,816
+
+$557,744
+
+$538,482
+
+$1,251,639
+
+$1,070,634
+
+343,909
+
+343,050
+
+339,982
+
+334,476
+
+326,181
+
+343,436
+
+322,619
+
+$1.87
+
+$1.77
+
+$1.73
+
+$1.67
+
+$1.65
+
+$3.64
+
+$3.32
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+30-Jun-25
+
+30-Jun-24
+
+$461,167
+
+$443,009
+
+$455,355
+
+$459,997
+
+$425,343
+
+$904,175
+
+$856,445
+
+(10,117)
+
+(10,356)
+
+(9,894)
+
+(10,911)
+
+(10,424)
+
+(20,473)
+
+(20,935)
+
+$451,050
+
+$432,652
+
+$445,462
+
+$449,086
+
+$414,920
+
+$883,702
+
+$835,511
+
+(1)
+
+Three Months Ended
+Real Estate Related Depreciation & Amortization
+
+Depreciation and amortization per income statement
+Non-real estate depreciation
+Real Estate Related Depreciation & Amortization
+(2)
+
+Six Months Ended
+
+Certain of Teraco's minority indirect shareholders have the right to put their shares in an upstream parent company of Teraco to Digital Realty in exchange for cash or the equivalent value
+of shares of Digital Realty common stock, or a combination thereof. U.S. GAAP requires Digital Realty to assume the put right is settled in shares for purposes of calculating diluted EPS. This
+same approach was utilized to calculate FFO/share. The potential future dilutive impact associated with this put right will be excluded from Core FFO and AFFO until settlement occurs –
+causing diluted share count to be higher for FFO than for Core FFO and AFFO. When calculating diluted FFO, Teraco related noncontrolling interest is added back to the FFO numerator as
+the denominator assumes all shares have been put back to Digital Realty.
+Three Months Ended
+30-Jun-25
+
+31-Mar-25
+
+Six Months Ended
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+30-Jun-25
+
+30-Jun-24
+
+Teraco noncontrolling share of FFO
+
+$15,850
+
+$13,286
+
+$14,905
+
+$9,828
+
+$12,453
+
+$29,136
+
+$22,221
+
+Teraco related minority interest
+
+$15,850
+
+$13,286
+
+$14,905
+
+$9,828
+
+$12,453
+
+$29,136
+
+$22,221
+
+(3)
+
+For all periods presented, we have excluded the effect of dilutive series J, series K and series L preferred stock, as applicable, that may be converted into common stock upon the
+occurrence of specified change in control transactions as described in the articles supplementary governing the series J, series K and series L preferred stock, as applicable, which we
+consider highly improbable. See above for calculations of FFO and the share count detail section that follows the reconciliation of Core FFO to AFFO for calculations of weighted average
+common stock and units outstanding. For definitions and discussion of FFO and Core FFO, see the Definitions section.
+
+(4)
+
+Includes deferred rent adjustments related to a customer bankruptcy, development fees included in gains, lease termination fees and gain on sale of equity investment included in other
+income.
+
+(5)
+
+Relates to severance and other charges related to the departure of company executives and integration-related severance.
+
+(6)
+
+Includes write-offs associated with bankrupt or terminated customers, non-recurring legal and insurance expenses and adjustments to reflect our proportionate share of transaction costs
+associated with noncontrolling interests.
+
+13
+
+Adjusted Funds From Operations (AFFO)
+
+Financial Supplement
+
+Unaudited and in Thousands, Except Per Share Data
+
+Second Quarter 2025
+
+Three Months Ended
+Reconciliation of Core FFO to AFFO
+
+Six Months Ended
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+30-Jun-25
+
+30-Jun-24
+
+$643,284
+
+$608,354
+
+$586,816
+
+$557,744
+
+$538,482
+
+$1,251,638
+
+$1,070,634
+
+Non-real estate depreciation
+
+10,117
+
+10,356
+
+9,894
+
+10,911
+
+10,424
+
+20,473
+
+20,935
+
+Amortization of deferred financing costs
+
+6,451
+
+6,548
+
+5,697
+
+4,853
+
+5,072
+
+12,999
+
+10,648
+
+Amortization of debt discount/premium
+
+1,251
+
+1,125
+
+1,324
+
+1,329
+
+1,321
+
+2,377
+
+3,153
+
+Non-cash stock-based compensation expense
+
+18,026
+
+16,700
+
+13,386
+
+15,026
+
+14,464
+
+34,726
+
+27,056
+
+Straight-line rental revenue
+
+(23,698)
+
+(9,692)
+
+(18,242)
+
+(17,581)
+
+334
+
+(33,390)
+
+10,310
+
+Straight-line rental expense
+
+(475)
+
+(160)
+
+(136)
+
+1,690
+
+782
+
+(635)
+
+1,893
+
+Above- and below-market rent amortization
+
+(752)
+
+(706)
+
+(269)
+
+(742)
+
+(1,691)
+
+(1,458)
+
+(2,545)
+(13,420)
+
+Core FFO available to common stockholders and unitholders
+Adjustments:
+
+Deferred tax (benefit) / expense
+
+(30,714)
+
+(517)
+
+(15,048)
+
+(9,366)
+
+(9,982)
+
+(31,232)
+
+Leasing compensation and internal lease commissions
+
+14,721
+
+13,405
+
+10,505
+
+10,918
+
+10,519
+
+28,126
+
+23,809
+
+Recurring capital expenditures (1)
+
+(62,083)
+
+(35,305)
+
+(130,245)
+
+(67,308)
+
+(60,483)
+
+(97,388)
+
+(108,159)
+
+$576,127
+
+$610,108
+
+$463,682
+
+$507,474
+
+$509,241
+
+$1,186,235
+
+$1,044,314
+
+Weighted-average shares and units outstanding - basic
+
+343,546
+
+342,594
+
+339,442
+
+334,103
+
+325,777
+
+343,073
+
+322,151
+
+Weighted-average shares and units outstanding - diluted (3)
+
+343,909
+
+343,050
+
+339,982
+
+334,476
+
+326,181
+
+343,436
+
+322,619
+
+AFFO per share - diluted (3)
+
+$1.68
+
+$1.78
+
+$1.36
+
+$1.52
+
+$1.56
+
+$3.45
+
+$3.24
+
+Dividends per share and common unit
+
+$1.22
+
+$1.22
+
+$1.22
+
+$1.22
+
+$1.22
+
+$2.44
+
+$2.44
+
+Diluted AFFO Payout Ratio
+
+72.8%
+
+68.6%
+
+89.5%
+
+80.4%
+
+78.1%
+
+70.6%
+
+75.4%
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+30-Jun-25
+
+30-Jun-24
+
+343,546
+
+342,594
+
+339,442
+
+334,103
+
+325,777
+
+343,073
+
+322,151
+
+362
+
+456
+
+540
+
+373
+
+404
+
+363
+
+467
+
+343,909
+
+343,050
+
+339,982
+
+334,476
+
+326,181
+
+343,436
+
+322,618
+
+AFFO available to common stockholders and unitholders (2)
+
+Three Months Ended
+Share Count Detail
+Weighted Average Common Stock and Units Outstanding
+Add: Effect of dilutive securities
+Weighted Avg. Common Stock and Units Outstanding - diluted
+
+Six Months Ended
+
+(1)
+
+Recurring capital expenditures represent non-incremental building improvements required to maintain current revenues, including second-generation tenant improvements and external
+leasing commissions. Recurring capital expenditures do not include acquisition costs contemplated when underwriting the purchase of a building, costs which are incurred to bring a building
+up to Digital Realty’s operating standards, or internal leasing commissions.
+
+(2)
+
+For a definition and discussion of AFFO, see the Definitions section. For a reconciliation of net income available to common stockholders to FFO and Core FFO, see above.
+
+(3)
+
+For all periods presented, we have excluded the effect of dilutive series J, series K and series L preferred stock, as applicable, that may be converted into common stock upon the occurrence
+of specified change in control transactions as described in the articles supplementary governing the series J, series K and series L preferred stock, as applicable, which we consider highly
+improbable. See above for calculations of FFO and for calculations of weighted average common stock and units outstanding.
+
+14
+
+Consolidated Balance Sheets
+
+Financial Supplement
+
+Unaudited and in Thousands, Except Per Share Data
+
+Second Quarter 2025
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+Assets
+Investments in real estate:
+Real estate
+Construction in progress
+Land held for future development
+Investments in Real Estate
+Accumulated depreciation and amortization
+Net Investments in Properties
+Investment in unconsolidated entities
+Net Investments in Real Estate
+
+$29,836,218
+5,080,701
+73,665
+$34,990,583
+(9,341,719)
+$25,648,865
+3,622,677
+$29,271,542
+
+$27,947,964
+4,973,266
+69,089
+$32,990,319
+(8,856,535)
+$24,133,784
+2,702,847
+$26,836,631
+
+$27,558,993
+5,164,334
+38,785
+$32,762,112
+(8,641,331)
+$24,120,781
+2,639,800
+$26,760,582
+
+$28,808,770
+5,175,054
+23,392
+$34,007,216
+(8,777,002)
+$25,230,214
+2,456,448
+$27,686,662
+
+$27,470,635
+4,676,012
+93,938
+$32,240,584
+(8,303,070)
+$23,937,514
+2,332,698
+$26,270,212
+
+Operating lease right-of-use assets, net
+Cash and cash equivalents
+Accounts and other receivables, net (1)
+Deferred rent, net
+Goodwill
+Customer relationship value, deferred leasing costs and other intangibles, net
+Assets held for sale and contribution
+Other assets
+Total Assets
+
+$1,180,657
+3,554,126
+1,586,146
+681,375
+9,636,513
+2,171,318
+139,993
+493,325
+$48,714,995
+
+$1,165,924
+2,321,885
+1,373,521
+641,290
+9,174,165
+2,124,989
+953,236
+488,921
+$45,080,562
+
+$1,178,853
+3,870,891
+1,257,464
+642,456
+8,929,431
+2,178,054
+—
+465,885
+$45,283,616
+
+$1,228,507
+2,175,605
+1,274,460
+641,778
+9,395,233
+2,367,467
+—
+525,679
+$45,295,392
+
+$1,211,003
+2,282,062
+1,222,403
+613,749
+9,128,811
+2,315,143
+—
+563,500
+$43,606,883
+
+Liabilities and Equity
+Global unsecured revolving credit facilities, net
+Unsecured term loans, net
+Unsecured senior notes, net of discount
+Secured and other debt, net of discount
+Operating lease liabilities
+Accounts payable and other accrued liabilities
+Deferred tax liabilities
+Accrued dividends and distributions
+Security deposits and prepaid rents
+Obligations associated with assets held for sale and contribution
+Total Liabilities
+
+$567,699
+440,788
+16,641,367
+802,294
+1,298,085
+2,310,882
+1,137,305
+—
+653,640
+1,089
+$23,853,149
+
+$1,096,931
+404,335
+14,744,063
+770,950
+1,281,572
+1,927,611
+1,109,294
+—
+559,768
+7,882
+$21,902,406
+
+$1,611,308
+386,903
+13,962,852
+753,314
+1,294,219
+2,056,215
+1,084,562
+418,661
+539,802
+—
+$22,107,836
+
+$1,786,921
+913,733
+13,528,061
+757,831
+1,343,903
+2,140,764
+1,223,771
+—
+423,797
+—
+$22,118,781
+
+$1,848,167
+1,297,893
+12,507,551
+686,135
+1,336,839
+1,973,798
+1,132,090
+—
+416,705
+—
+$21,199,178
+
+1,505,889
+
+1,459,322
+
+1,433,185
+
+1,465,636
+
+1,399,889
+
+$193,540
+203,264
+334,886
+3,374
+28,720,826
+(5,997,607)
+(543,756)
+$22,914,527
+
+$193,540
+203,264
+334,886
+3,338
+28,091,661
+(6,604,217)
+(926,874)
+$21,295,598
+
+$193,540
+203,264
+334,886
+3,337
+28,079,738
+(6,292,085)
+(1,182,283)
+$21,340,397
+
+$193,540
+203,264
+334,886
+3,285
+27,229,143
+(6,060,642)
+(657,364)
+$21,246,112
+
+$193,540
+203,264
+334,886
+3,231
+26,388,393
+(5,701,096)
+(884,715)
+$20,537,503
+
+$431,000
+10,430
+
+$415,956
+7,280
+
+$396,099
+6,099
+
+$427,930
+36,933
+
+$434,253
+36,060
+
+Redeemable noncontrolling interests
+Equity
+Preferred Stock: $0.01 par value per share, 110,000 shares authorized:
+Series J Cumulative Redeemable Preferred Stock (2)
+Series K Cumulative Redeemable Preferred Stock (3)
+Series L Cumulative Redeemable Preferred Stock (4)
+Common Stock: $0.01 par value per share, 502,000 shares authorized (5)
+Additional paid-in capital
+Dividends in excess of earnings
+Accumulated other comprehensive (loss), net
+Total Stockholders' Equity
+Noncontrolling Interests
+Noncontrolling interest in operating partnership
+Noncontrolling interest in consolidated entities
+Total Noncontrolling Interests
+
+$441,430
+
+$423,236
+
+$402,198
+
+$464,863
+
+$470,313
+
+Total Equity
+
+$23,355,957
+
+$21,718,834
+
+$21,742,595
+
+$21,710,975
+
+$21,007,816
+
+Total Liabilities and Equity
+
+$48,714,995
+
+$45,080,562
+
+$45,283,616
+
+$45,295,392
+
+$43,606,883
+
+(1)
+(2)
+(3)
+(4)
+(5)
+
+Net of allowance for doubtful accounts of $80,832 and $50,609 as of June 30, 2025 and June 30, 2024, respectively.
+Series J Cumulative Redeemable Preferred Stock, 5.250%, $200,000 liquidation preference ($25.00 per share), 8,000 shares issued and outstanding as of June 30, 2025 and June 30, 2024.
+Series K Cumulative Redeemable Preferred Stock, 5.850%, $210,000 liquidation preference ($25.00 per share), 8,400 shares issued and outstanding as of June 30, 2025 and June 30, 2024.
+Series L Cumulative Redeemable Preferred Stock, 5.200%, $345,000 liquidation preference ($25.00 per share), 13,800 shares issued and outstanding as of June 30, 2025 and June 30, 2024.
+Common Stock: 340,372 and 325,885 shares issued and outstanding as of June 30, 2025 and June 30, 2024, respectively.
+
+15
+
+Components of Net Asset Value (NAV) (1)
+
+Financial Supplement
+
+Unaudited and in Thousands
+
+Second Quarter 2025
+
+44
+
+Consolidated Properties Cash Net Operating Income (NOI)(2), Annualized (3)
+Network-Dense
+Campus
+Other (4)
+Total Cash NOI, Annualized
+less: Partners' share of consolidated JVs
+Acquisitions / dispositions / expirations
+FY 2025 backlog cash NOI and 2Q25 carry-over (stabilized) (5)
+Total Consolidated Cash NOI, Annualized
+
+$1,127,306
+1,862,621
+92,449
+$3,082,376
+(76,732)
+(90,734)
+156,528
+$3,071,438
+
+Digital Realty's Pro Rata Share of Unconsolidated Entities Cash NOI (3) (6)
+
+$313,235
+
+Other Income
+Development and Management Fees (net), Annualized
+
+$137,707
+
+Other Assets
+Pre-stabilized inventory, at cost (7)
+Land held for development
+Development CIP (8)
+less: Investment associated with FY25 Backlog NOI (9)
+Cash and cash equivalents
+Accounts and other receivables, net
+Other assets
+less: Partners' share of consolidated entities assets
+Total Other Assets
+
+$267,093
+73,665
+5,080,701
+(639,944)
+3,554,126
+1,586,146
+493,325
+(121,849)
+$10,293,263
+
+Liabilities
+Global unsecured revolving credit facilities
+Unsecured term loans
+Unsecured senior notes
+Secured and other debt
+Accounts payable and other accrued liabilities
+Deferred tax liabilities
+Security deposits and prepaid rents
+Obligations associated with assets held for sale and contribution
+Backlog NOI cost to complete (9)
+Preferred stock
+Digital Realty's share of unconsolidated entities debt
+less: Partners' share of consolidated entities liabilities
+Total Liabilities
+
+$590,690
+442,013
+16,760,675
+810,009
+2,310,882
+1,137,305
+653,640
+1,089
+143,101
+755,000
+2,044,648
+(471,809)
+$25,177,243
+
+(1)
+(2)
+(3)
+
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+Backlog and associated financial line items include activity related to unconsolidated entities properties.
+For definitions and discussion of NOI and cash NOI and a reconciliation of operating income to NOI and cash NOI, see page 32.
+Annualized cash NOI is calculated by multiplying results for the most recent quarter by four. Annualized results may not be indicative of any four-quarter period and
+do not take into account scheduled lease expirations, among other things. Annualized data is presented for illustrative purposes only. Reflects annualized 2Q25 Cash
+NOI of $3.1 billion. NOI is allocated based on management’s estimates derived using contractual ABR and stabilized margins.
+Other includes Powered Base Building shell capacity as well as storage and office space within fully improved data center facilities.
+Estimated cash NOI related to signed leases that are expected to commence through December 31, 2025. Includes Digital Realty’s share of signed leases at
+unconsolidated entities properties.
+For a reconciliation of Digital Realty’s pro rata share of unconsolidated entities operating income to cash NOI, see page 29.
+Excludes Digital Realty’s share of cost at unconsolidated entities properties.
+See page 26 for further details on the breakdown of the construction in progress balance.
+Includes Digital Realty’s share of construction in progress and expected cost to complete at unconsolidated entities properties.
+
+16
+
+Debt Maturities
+
+Financial Supplement
+
+Unaudited and Dollars in thousands
+
+Second Quarter 2025
+
+As of June 30, 2025
+
+Interest
+Rate
+
+Interest
+Rate
+Including
+Swaps
+
+Global Unsecured Revolving Credit Facilities (1)
+Global unsecured revolving credit facility
+Yen revolving credit facility
+Deferred financing costs, net
+Total Global Unsecured Revolving Credit Facilities
+
+3.128%
+1.080%
+—
+2.755%
+
+3.128%
+1.080%
+—
+2.755%
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+$483,073
+107,617
+—
+$590,690
+
+$483,073
+107,617
+(22,991)
+$567,699
+
+Unsecured Term Loans (1)
+Euro term loan facility
+Deferred financing costs, net
+Total Unsecured Term Loans
+
+2.879%
+—
+2.879%
+
+2.879%
+—
+2.879%
+
+—
+—
+—
+
+—
+—
+—
+
+$442,013
+—
+$442,013
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+$442,013
+(1,225)
+$440,788
+
+Senior Notes
+€650 million 0.625% Notes due 2025 (2)
+€1.08 billion 2.500% Notes due 2026
+₣275 million 0.200% Notes due 2026
+₣150 million 1.700% Notes due 2027
+$1.00 billion 3.700% Notes due 2027 (3)
+€500 million 1.125% Notes due 2028
+$900 million 5.550% Notes due 2028 (3)
+$650 million 4.450% Notes due 2028
+₣270 million 0.550% Notes due 2029
+$900 million 3.600% Notes due 2029
+£350 million 3.300% Notes due 2029
+$1.15 billion 1.875% Notes due 2029 (3)
+€750 million 1.500% Notes due 2030
+£550 million 3.750% Notes due 2030
+€500 million 1.250% Notes due 2031
+€1.00 billion 0.625% Notes due 2031
+€750 million 1.000% Notes due 2032
+€750 million 1.375% Notes due 2032
+€850 million 3.875% Notes due 2033
+€850 million 3.875% Notes due 2034
+€850 million 3.875% Notes due 2035
+Unamortized discounts, net
+Deferred financing costs, net
+Total Senior Notes
+
+0.625%
+2.500%
+0.200%
+1.700%
+3.700%
+1.125%
+5.550%
+4.450%
+0.550%
+3.600%
+3.300%
+1.875%
+1.500%
+3.750%
+1.250%
+0.625%
+1.000%
+1.375%
+3.875%
+3.875%
+3.875%
+—
+—
+2.556%
+
+0.625%
+2.500%
+0.200%
+1.700%
+2.485%
+1.125%
+3.996%
+4.450%
+0.550%
+3.600%
+3.300%
+1.263%
+1.500%
+3.750%
+1.250%
+0.625%
+1.000%
+1.375%
+3.875%
+3.875%
+3.875%
+—
+—
+2.358%
+
+$766,155
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+$766,155
+
+—
+$1,267,103
+346,768
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+$1,613,871
+
+—
+—
+—
+$189,146
+1,000,000
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+$1,189,146
+
+—
+—
+—
+—
+—
+$589,350
+900,000
+650,000
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+$2,139,350
+
+—
+—
+—
+—
+—
+—
+—
+—
+$340,463
+900,000
+480,620
+1,150,000
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+$2,871,083
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+$884,025
+755,260
+589,350
+1,178,700
+884,025
+884,025
+1,001,895
+1,001,895
+1,001,895
+—
+—
+$8,181,070
+
+$766,155
+1,267,103
+346,768
+189,146
+1,000,000
+589,350
+900,000
+650,000
+340,463
+900,000
+480,620
+1,150,000
+884,025
+755,260
+589,350
+1,178,700
+884,025
+884,025
+1,001,895
+1,001,895
+1,001,895
+(43,010)
+(76,298)
+$16,641,367
+
+Secured Debt
+ICN10 Facilities
+Westin
+Teraco Loans
+Deferred financing costs, net
+Total Secured Debt
+
+5.000%
+3.290%
+9.554%
+—
+8.324%
+
+3.240%
+3.290%
+9.902%
+—
+8.572%
+
+—
+—
+$419
+—
+$419
+
+—
+—
+$50,760
+—
+$50,760
+
+—
+$135,000
+100,677
+—
+$235,677
+
+—
+—
+$377,985
+—
+$377,985
+
+—
+—
+$12,421
+—
+$12,421
+
+$12,486
+—
+43,889
+—
+$56,375
+
+$12,486
+135,000
+586,151
+(3,823)
+$729,814
+
+Other Debt
+Icolo loans
+Total Other Debt
+
+12.716%
+12.716%
+
+12.716%
+12.716%
+
+—
+—
+
+$6,077
+$6,077
+
+$4,621
+$4,621
+
+$1,103
+$1,103
+
+$5,288
+$5,288
+
+—
+—
+
+$17,089
+$17,089
+
+Mandatorily Redeemable Preferred Shares (Teraco)
+Mandatorily Redeemable Preferred Shares (Teraco)
+Unamortized discounts, net
+Total Redeemable Preferred Shares
+
+9.675%
+—
+9.675%
+
+9.675%
+—
+9.675%
+
+—
+—
+—
+
+$59,283
+—
+$59,283
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+$59,283
+(3,892)
+$55,391
+
+Total unhedged variable rate debt
+Total fixed rate / hedged variable rate debt
+Total Debt
+
+—
+—
+2.829%
+
+—
+—
+2.661%
+
+$80
+766,494
+$766,574
+
+$59,820
+1,670,171
+$1,729,991
+
+$442,926
+1,428,531
+$1,871,457
+
+$6,867
+2,511,571
+$2,518,438
+
+—
+$2,888,792
+$2,888,792
+
+$595,463
+8,232,672
+$8,828,135
+
+$1,105,156
+$17,498,231
+$18,603,387
+
+0.630%
+
+2.538%
+
+2.981%
+
+4.332%
+
+2.304%
+
+2.433%
+
+2.661%
+
+2025
+
+Weighted Average Interest Rate
+
+2026
+
+2027
+
+2028
+
+2029
+
+Thereafter
+
+Total
+
+Summary
+Weighted Average Term to Initial Maturity
+
+4.5 Years
+
+Weighted Average Maturity (assuming exercise of extension options)
+
+4.6 Years
+
+Global Unsecured Revolving Credit Facilities Detail As of June 30, 2025
+Global Unsecured Revolving Credit Facilities
+(1)
+(2)
+(3)
+(4)
+
+Assumes all extensions will be exercised.
+Repaid in full on July 15, 2025.
+Subject to cross-currency swaps.
+Net of letters of credit issued of $93.7 million.
+
+17
+
+Maximum Available
+
+Existing Capacity (4)
+
+Currently Drawn
+
+$4,485,918
+
+$3,801,493
+
+$590,690
+
+Debt Analysis and Covenant Compliance
+
+Financial Supplement
+
+Unaudited
+
+Second Quarter 2025
+
+As of June 30, 2025
+Global Unsecured
+Credit Facilities
+
+Unsecured Senior Notes
+Debt Covenant Ratios (1)
+
+Required
+
+Actual (2)
+
+Actual (3)
+
+Required
+
+Actual
+
+Total outstanding debt / total assets (4)
+
+Less than 60%
+
+44%
+
+37%
+
+Less than 60% (5)
+
+33%
+
+Secured debt / total assets (6)
+
+Less than 40%
+
+5%
+
+1%
+
+Less than 40% (7)
+
+4%
+
+Total unencumbered assets / unsecured debt
+
+Greater than 150%
+
+243%
+
+267%
+
+N/A
+
+N/A
+
+Consolidated EBITDA / interest expense (8)
+
+Greater than 1.50x
+
+4.3x
+
+4.3x
+
+N/A
+
+N/A
+
+Fixed charge coverage
+
+N/A
+
+N/A
+
+Greater than 1.50x
+
+4.6x
+
+Unsecured debt / total unencumbered asset value (9)
+
+N/A
+
+N/A
+
+Less than 60%
+
+35%
+
+Unencumbered assets debt service coverage ratio (9)
+
+N/A
+
+N/A
+
+Greater than 1.50x
+
+5.2x
+
+(1)
+
+For definitions of the terms used in the table above and related footnotes, please refer to the indentures which govern the notes, the Third Amended and Restated Global Senior Credit
+Agreement dated as of September 24, 2024 and the Second Amended and Restated Yen facility Credit Agreement dated as of September 24, 2024, each as amended and which are filed as
+exhibits to our reports filed with the U.S. Securities and Exchange Commission.
+
+(2)
+
+Ratios for the Unsecured Senior Notes listed on page 17 except for the 0.20% notes due 2026, 1.70% notes due 2027, 5.550% notes due 2028, 0.55% notes due 2029, 1.875% notes due
+2029, 1.250% notes due 2031, 0.625% notes due 2031, 1.00% notes due 2032, 1.375% notes due 2032, 3.875% notes due 2033, 3.875% notes due 2034 and 3.875% notes due 2035.
+
+(3)
+
+Ratios for the 0.20% notes due 2026, 1.70% notes due 2027, 5.550% notes due 2028, 0.55% notes due 2029, 1.875% notes due 2029, 1.250% notes due 2031, 0.625% notes due 2031, 1.00%
+notes due 2032, 1.375% notes due 2032, 3.875% notes due 2033, 3.875% notes due 2034 and 3.875% notes due 2035.
+
+(4)
+
+This ratio is referred to as the Leverage Ratio, defined as Consolidated Debt / Total Asset Value, under the global unsecured revolving credit facility and the Yen facility. For the calculation of
+Total Assets, please refer to the indentures which govern the notes, the Third Amended and Restated Global Senior Credit Agreement dated as of September 24, 2024 and the Second
+Amended and Restated Yen facility Credit Agreement dated as of September 24, 2024, each as amended and which are filed as exhibits to our reports filed with the U.S. Securities and
+Exchange Commission.
+
+(5)
+
+The company has the right to maintain a Leverage Ratio of greater than 60.0% but less than or equal to 65.0% for up to four consecutive fiscal quarters during the term of the facility
+following any acquisition of one or more Assets.
+
+(6)
+
+This ratio is referred to as the Secured Debt Leverage Ratio, defined as Secured Debt / Total Asset Value, under the global unsecured revolving credit facility and the Yen facility.
+
+(7)
+
+The company has the right to maintain a Secured Debt Leverage Ratio of greater than 40.0% but less than or equal to 45.0% for up to four consecutive fiscal quarters during the term of the
+facility following any acquisition of one or more Assets.
+
+(8)
+
+Calculated as current quarter annualized consolidated EBITDA to current quarter annualized Interest Expense (including capitalized interest and debt discounts). This ratio no longer applies
+from and after the date that the company achieves a Debt Rating of at least BBB+ / Baa1 and a Total Asset Value of at least $35.0 billion.
+
+(9)
+
+Assets must satisfy certain conditions to qualify for inclusion as an Unencumbered Asset under the global unsecured revolving credit facility and the Yen facility.
+
+18
+
+Same-Capital Operating Trend Summary
+
+Financial Supplement
+
+Unaudited and in Thousands
+
+Second Quarter 2025
+
+Stabilized (“Same-Capital”) Portfolio (1)
+
+30-Jun-25
+
+Three Months Ended
+30-Jun-24
+% Change
+31-Mar-25
+
+Rental revenues
+
+$729,369
+
+$694,419
+
+5.0%
+
+$716,046
+
+1.9%
+
+$1,445,415
+
+$1,380,740
+
+Tenant reimbursements - Utilities
+
+233,051
+
+224,590
+
+3.8%
+
+218,720
+
+6.6%
+
+451,772
+
+451,179
+
+0.1%
+
+Tenant reimbursements - Other
+
+26,643
+
+30,375
+
+(12.3%)
+
+26,659
+
+(0.1%)
+
+53,302
+
+53,876
+
+(1.1%)
+
+Interconnection and other
+
+% Change
+
+30-Jun-25
+
+Six Months Ended
+30-Jun-24
+
+% Change
+4.7%
+
+91,649
+
+80,634
+
+13.7%
+
+85,661
+
+7.0%
+
+177,310
+
+160,060
+
+10.8%
+
+$1,080,712
+
+$1,030,017
+
+4.9%
+
+$1,047,087
+
+3.2%
+
+$2,127,799
+
+$2,045,854
+
+4.0%
+
+Utilities
+
+$258,096
+
+$250,651
+
+3.0%
+
+$250,006
+
+3.2%
+
+$508,102
+
+$511,234
+
+(0.6%)
+
+Rental property operating
+
+194,551
+
+183,449
+
+6.1%
+
+175,754
+
+10.7%
+
+370,305
+
+347,951
+
+6.4%
+
+Property taxes
+
+37,956
+
+40,170
+
+(5.5%)
+
+35,891
+
+5.8%
+
+73,847
+
+72,875
+
+1.3%
+
+Total Revenue
+
+Insurance
+
+5,063
+
+4,267
+
+18.7%
+
+4,638
+
+9.1%
+
+9,701
+
+7,857
+
+23.5%
+
+Total Expenses
+
+$495,666
+
+$478,536
+
+3.6%
+
+$466,289
+
+6.3%
+
+$961,954
+
+$939,918
+
+2.3%
+
+Net Operating Income (2)
+
+$585,047
+
+$551,481
+
+6.1%
+
+$580,798
+
+0.7%
+
+$1,165,845
+
+$1,105,937
+
+5.4%
+
+Less:
+Stabilized straight-line rent
+
+$6,547
+
+($2,883)
+
+(327.0%)
+
+($1,115)
+
+(687.0%)
+
+$5,431
+
+($8,447)
+
+(164.3%)
+
+Above- and below-market rent
+
+902
+
+908
+
+(0.7%)
+
+909
+
+(0.8%)
+
+1,811
+
+1,854
+
+(2.3%)
+
+Cash Net Operating Income (3)
+
+$577,598
+
+$553,457
+
+4.4%
+
+$581,004
+
+(0.6%)
+
+$1,158,603
+
+$1,112,529
+
+4.1%
+
+(8,290)
+
+—
+
+$1,150,313
+
+$1,112,529
+
+3.4%
+
+83.0%
+
+83.4%
+
+(0.5%)
+
+Cash NOI impact of holding '24 Exchange Rates
+Constant (4)
+Constant Currency Cash Net Operating Income
+
+(14,021)
+
+—
+
+$563,577
+
+$553,457
+
+1.8%
+
+Stabilized Portfolio occupancy at period end (5)
+
+83.0%
+
+83.4%
+
+(0.5%)
+
+82.6%
+
+0.3%
+
+(1)
+
+Represents buildings owned as of December 31, 2023 with less than 5% of total rentable square feet under development. Excludes buildings that were undergoing, or were expected to
+undergo, development activities in 2024-2025, buildings classified as held for sale and contribution, and buildings sold or contributed to joint ventures for all periods presented. Prior period
+numbers adjusted to reflect current same-capital pool.
+
+(2)
+
+For a definition and discussion of net operating income and a reconciliation of operating income to NOI, see page 32.
+
+(3)
+
+For a definition and discussion of cash net operating income and a reconciliation of operating income to cash NOI, see page 32.
+
+(4)
+
+Adjustment calculated by holding currency translation rates for 2025 constant with average currency translation rates that were applicable to the same periods in 2024.
+
+(5)
+
+Occupancy excludes space under active development and space held for development. For some of our buildings, we calculate occupancy based on factors in addition to contractually leased
+square feet, including available power, required support space and common areas.
+
+19
+
+Summary of Leasing Activity
+
+Financial Supplement
+
+Leases Signed in the Quarter End June 30, 2025
+
+Second Quarter 2025
+
+0-1 MW
+Leasing Activity - New (1) (2)
+Annualized GAAP Rent (in thousands)
+
+2Q25
+
+Other (3)
+
+> 1 MW
+LTM
+
+2Q25
+
+LTM
+
+2Q25
+
+Total
+LTM
+
+2Q25
+
+LTM
+
+$7,490
+
+$117,974
+
+$935,707
+
+$72,517
+
+$238,733
+
+$45,038
+
+$689,484
+
+$419
+
+21,727
+
+73,572
+
+23,290
+
+270,787
+
+—
+
+—
+
+45,017
+
+344,359
+
+240
+
+805
+
+152
+
+2,061
+
+9
+
+115
+
+401
+
+2,982
+
+Weighted Average Lease Term (years)
+
+5.0
+
+4.3
+
+5.3
+
+12.5
+
+4.0
+
+12.3
+
+5.1
+
+10.3
+
+Initial stabilized cash rent per Kilowatt
+
+$278
+
+$269
+
+$155
+
+$166
+
+—
+
+—
+
+$215
+
+$188
+
+GAAP rent per Kilowatt
+
+$278
+
+$270
+
+$161
+
+$212
+
+—
+
+—
+
+$218
+
+$225
+
+Leasing cost per Kilowatt
+
+$15
+
+$20
+
+—
+
+—
+
+—
+
+—
+
+$7
+
+$5
+
+$226
+
+Kilowatt leased
+NRSF (in thousands)
+
+Net Effective Economics by Kilowatt (4)
+Base rent by Kilowatt
+
+$282
+
+$274
+
+$165
+
+$213
+
+—
+
+—
+
+$221
+
+Rental concessions by Kilowatt
+
+$4
+
+$3
+
+$4
+
+$1
+
+—
+
+—
+
+$4
+
+$1
+
+Estimated operating expense by Kilowatt
+
+$78
+
+$78
+
+$42
+
+$54
+
+—
+
+—
+
+$59
+
+$59
+
+$201
+
+$193
+
+$119
+
+$158
+
+—
+
+—
+
+$158
+
+$166
+
+Net rent per Kilowatt
+Tenant improvements by Kilowatt
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Leasing commissions by Kilowatt
+
+$5
+
+$7
+
+—
+
+—
+
+—
+
+—
+
+$2
+
+$2
+
+Net effective rent per Kilowatt
+
+$196
+
+$186
+
+$119
+
+$158
+
+—
+
+—
+
+$156
+
+$164
+
+Initial stabilized cash rent per NRSF
+
+$303
+
+$295
+
+$285
+
+$262
+
+$47
+
+$51
+
+$290
+
+$263
+
+GAAP rent per NRSF
+
+$303
+
+$297
+
+$296
+
+$334
+
+$48
+
+$65
+
+$294
+
+$314
+
+Leasing cost per NRSF
+
+$16
+
+$22
+
+—
+
+$1
+
+$1
+
+$1
+
+$10
+
+$6
+
+$316
+
+Net Effective Economics by NRSF (4)
+Base rent by NRSF
+
+$307
+
+$300
+
+$303
+
+$336
+
+$48
+
+$65
+
+$300
+
+Rental concessions by NRSF
+
+$4
+
+$4
+
+$7
+
+$1
+
+—
+
+—
+
+$5
+
+$2
+
+Estimated operating expense by NRSF
+
+$84
+
+$85
+
+$78
+
+$86
+
+$8
+
+$8
+
+$80
+
+$83
+
+$218
+
+$211
+
+$218
+
+$248
+
+$40
+
+$57
+
+$214
+
+$231
+
+Net rent per NRSF
+Tenant improvements by NRSF
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+Leasing commissions by NRSF
+
+$5
+
+$8
+
+—
+
+—
+
+$1
+
+$1
+
+$3
+
+$2
+
+$213
+
+$203
+
+$218
+
+$248
+
+$39
+
+$56
+
+$211
+
+$229
+
+Net effective rent per NRSF
+(1)
+
+Excludes short-term, roof, storage, and garage leases.
+
+(2)
+
+Includes leases for new and re-leased space.
+
+(3)
+
+Other includes Powered Base Building shell capacity as well as storage and office space within fully improved data center facilities.
+
+(4)
+
+All dollar amounts are per square foot averaged over lease term. Per Kilowatt amounts are presented in monthly values. Per NRSF amounts are presented in yearly values.
+
+Note: LTM is last twelve months, including current quarter. Weighted average lease term excludes renewal options and is weighted by net rentable square feet.
+
+20
+
+Summary of Leasing Activity
+
+Financial Supplement
+
+Leases Renewed in the Quarter Ended June 30, 2025
+
+Second Quarter 2025
+0-1 MW
+
+Leasing Activity - Renewals (1) (2) (3)
+Leases renewed (Kilowatt)
+
+2Q25
+
+Other (4)
+
+> 1 MW
+LTM
+
+2Q25
+
+LTM
+
+2Q25
+
+Total
+LTM
+
+2Q25
+
+LTM
+
+33,763
+
+141,777
+
+23,645
+
+136,376
+
+—
+
+—
+
+57,408
+
+278,153
+
+Leases renewed (NRSF in thousands)
+
+435
+
+1,990
+
+265
+
+1,540
+
+69
+
+520
+
+769
+
+4,049
+
+Leasing cost per Kilowatt
+
+$2
+
+$1
+
+$1
+
+$1
+
+—
+
+—
+
+$2
+
+$1
+
+Leasing cost per NRSF
+
+$2
+
+$1
+
+$1
+
+$1
+
+$2
+
+$3
+
+$2
+
+$1
+
+Weighted Term (years)
+
+1.3
+
+1.5
+
+4.3
+
+5.2
+
+6.4
+
+4.8
+
+2.8
+
+3.3
+
+Expiring cash rent per Kilowatt
+
+$309
+
+$306
+
+$127
+
+$134
+
+—
+
+—
+
+$234
+
+$222
+
+Renewed cash rent per Kilowatt
+
+$321
+
+$319
+
+$144
+
+$157
+
+—
+
+—
+
+$249
+
+$239
+
+% Change Cash Rent Per Kilowatt
+
+4.2%
+
+4.4%
+
+14.0%
+
+16.5%
+
+—
+
+—
+
+6.4%
+
+8.0%
+
+Expiring cash rent per NRSF
+
+$287
+
+$261
+
+$136
+
+$143
+
+$65
+
+$52
+
+$215
+
+$189
+
+Renewed cash rent per NRSF
+
+$299
+
+$273
+
+$155
+
+$166
+
+$91
+
+$64
+
+$231
+
+$205
+
+% Change Cash Rent Per NRSF
+
+4.2%
+
+4.4%
+
+14.0%
+
+16.5%
+
+40.9%
+
+22.7%
+
+7.3%
+
+8.5%
+
+Expiring GAAP rent per Kilowatt
+
+$307
+
+$304
+
+$120
+
+$125
+
+—
+
+—
+
+$230
+
+$216
+
+Renewed GAAP rent per Kilowatt
+
+$322
+
+$320
+
+$145
+
+$168
+
+—
+
+—
+
+$249
+
+$245
+
+% Change GAAP Rent Per Kilowatt
+
+5.0%
+
+5.2%
+
+20.5%
+
+34.0%
+
+—
+
+—
+
+8.4%
+
+13.4%
+
+Expiring GAAP rent per NRSF
+
+$285
+
+$260
+
+$129
+
+$133
+
+$56
+
+$47
+
+$211
+
+$184
+
+Renewed GAAP rent per NRSF
+
+$300
+
+$273
+
+$155
+
+$179
+
+$97
+
+$65
+
+$232
+
+$211
+
+% Change GAAP Rent Per NRSF
+
+5.0%
+
+5.2%
+
+20.5%
+
+34.0%
+
+73.0%
+
+37.8%
+
+9.9%
+
+14.2%
+
+Retention ratio (5)
+
+76.8%
+
+77.5%
+
+98.9%
+
+82.6%
+
+68.3%
+
+61.7%
+
+82.2%
+
+76.8%
+
+Churn (6)
+
+2.3%
+
+9.5%
+
+0.0%
+
+2.6%
+
+0.7%
+
+7.3%
+
+1.0%
+
+5.7%
+
+Cash Rent
+
+GAAP Rent
+
+(1)
+
+Excludes short-term, roof, storage, and garage leases.
+
+(2)
+
+Rental rates represent annual estimated cash rent per kilowatt and net rentable square feet, adjusted for straight-line rents in accordance with GAAP.
+
+(3)
+
+Per Kilowatt amounts are presented in monthly values. Per NRSF amounts are presented in yearly values.
+
+(4)
+
+Other includes Powered Base Building shell capacity as well as storage and office space within fully improved data center facilities.
+
+(5)
+
+Based on square feet.
+
+(6)
+
+Churn is defined as recurring revenue lost during the period due to leases terminated or not renewed, divided by recurring revenue at the beginning of the period.
+
+Note: LTM is last twelve months, including current quarter. Weighted average lease term excludes renewal options and is weighted by net rentable square feet.
+
+21
+
+Lease Expirations - By Size
+
+Financial Supplement
+
+Dollars and Square Feet in Thousands (except per square foot and per kW data)
+
+Second Quarter 2025
+
+Year
+
+Square Footage of
+Expiring Leases (1)
+
+Annualized
+Rent (2)
+
+% of
+Annualized
+Rent
+
+Annualized Rent Per
+Occupied
+Square Foot
+
+Annualized Rent Per
+Occupied Square
+Foot at Expiration
+
+Annualized Rent
+at Expiration
+
+kW of Expiring
+Leases
+
+Rent per kW
+Per Month
+
+Rent Per kW
+Per Month at
+Expiration
+
+0-1 MW
+Available
+Month to Month (3)
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Thereafter
+
+2,803
+232
+1,221
+1,596
+728
+429
+326
+269
+105
+62
+34
+29
+41
+
+—
+$66,639
+393,556
+494,052
+180,381
+104,362
+70,338
+56,768
+20,608
+13,361
+9,009
+4,176
+5,494
+
+—
+1.7%
+9.8%
+12.3%
+4.5%
+2.6%
+1.8%
+1.4%
+0.5%
+0.3%
+0.2%
+0.1%
+0.1%
+
+—
+$287
+322
+309
+248
+243
+216
+211
+196
+217
+264
+143
+135
+
+—
+$289
+322
+311
+258
+262
+236
+234
+221
+254
+310
+143
+152
+
+—
+$67,133
+393,658
+496,924
+188,131
+112,407
+76,956
+62,929
+23,228
+15,626
+10,571
+4,186
+6,203
+
+—
+14,140
+85,286
+118,187
+56,740
+32,619
+24,290
+17,160
+6,740
+4,978
+2,640
+1,814
+2,708
+
+—
+$393
+385
+348
+265
+267
+241
+276
+255
+224
+284
+192
+169
+
+—
+$396
+385
+350
+276
+287
+264
+306
+287
+262
+334
+192
+191
+
+Total / Wtd. Avg.
+
+7,875
+
+$1,418,745
+
+35.4%
+
+$280
+
+$287
+
+$1,457,951
+
+367,301
+
+$322
+
+$331
+
+> 1 MW
+Available
+Month to Month (3)
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Thereafter
+
+Expiring Leases (1)
+
+Annualized
+
+Annualized Rent Per
+
+Annualized Rent Per
+
+Annualized Rent Per
+
+kW of Expiring
+
+Annualized
+
+Rent Per kW
+
+1,592
+92
+658
+1,823
+1,629
+1,607
+1,951
+1,530
+1,065
+871
+536
+1,254
+2,479
+
+—
+$15,621
+114,012
+275,858
+254,216
+212,507
+296,235
+234,090
+163,169
+125,810
+89,833
+154,302
+429,744
+
+—
+0.4%
+2.8%
+6.9%
+6.3%
+5.3%
+7.4%
+5.8%
+4.1%
+3.1%
+2.2%
+3.8%
+10.7%
+
+—
+$169
+173
+151
+156
+132
+152
+153
+153
+144
+167
+123
+173
+
+—
+$170
+175
+154
+165
+141
+165
+166
+176
+162
+194
+143
+229
+
+—
+$15,696
+115,259
+281,059
+268,210
+225,883
+321,837
+254,533
+187,068
+141,094
+104,091
+178,867
+568,085
+
+—
+10,310
+63,760
+160,925
+153,971
+144,343
+216,639
+161,539
+110,909
+94,066
+56,616
+120,385
+253,757
+
+—
+$126
+149
+143
+138
+123
+114
+121
+123
+111
+132
+107
+141
+
+—
+$127
+151
+146
+145
+130
+124
+131
+141
+125
+153
+124
+187
+
+Total / Wtd. Avg.
+
+17,090
+
+$2,365,397
+
+59.0%
+
+$153
+
+$172
+
+$2,661,682
+
+1,547,221
+
+$127
+
+$143
+
+Other (4)
+Available
+Month to Month (3)
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Thereafter
+
+Expiring Leases (1)
+
+Annualized
+
+Annualized Rent Per
+
+Annualized Rent Per
+
+Annualized Rent Per
+
+kW of Expiring
+
+Annualized
+
+Rent Per kW
+
+1,322
+70
+508
+654
+350
+489
+630
+864
+129
+111
+109
+566
+2,323
+
+—
+$2,253
+11,609
+24,935
+12,480
+14,731
+40,939
+39,756
+3,847
+6,493
+4,210
+20,831
+42,257
+
+—
+0.1%
+0.3%
+0.6%
+0.3%
+0.4%
+1.0%
+1.0%
+0.1%
+0.2%
+0.1%
+0.5%
+1.1%
+
+—
+$32
+23
+38
+36
+30
+65
+46
+30
+59
+39
+37
+18
+
+—
+$32
+23
+39
+37
+32
+72
+61
+36
+65
+45
+45
+24
+
+—
+$2,253
+11,619
+25,672
+12,991
+15,677
+45,314
+52,591
+4,604
+7,164
+4,866
+25,315
+55,375
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+Total / Wtd. Avg.
+
+8,126
+
+$224,341
+
+5.6%
+
+$33
+
+$39
+
+$263,440
+
+—
+
+—
+
+—
+
+Total
+Available
+Month to Month (3)
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Thereafter
+
+Expiring Leases (1)
+
+Annualized Rent Per
+
+Annualized Rent Per
+
+Annualized Rent Per
+
+kW of Expiring
+
+Annualized
+
+Rent Per kW
+
+5,561
+394
+2,386
+4,073
+2,707
+2,526
+2,907
+2,664
+1,299
+1,044
+680
+1,850
+4,843
+
+—
+$84,513
+519,177
+794,845
+447,076
+331,600
+407,512
+330,615
+187,623
+145,664
+103,052
+179,309
+477,496
+
+—
+2.1%
+13.0%
+19.8%
+11.2%
+8.3%
+10.2%
+8.2%
+4.7%
+3.6%
+2.6%
+4.5%
+11.9%
+
+—
+$215
+218
+195
+165
+131
+140
+124
+144
+140
+152
+97
+99
+
+—
+$216
+218
+197
+173
+140
+153
+139
+165
+157
+176
+113
+130
+
+—
+$85,081
+520,536
+803,654
+469,332
+353,967
+444,107
+370,052
+214,900
+163,884
+119,527
+208,368
+629,663
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+Total / Wtd. Avg.
+
+32,934
+
+$4,008,484
+
+100.0%
+
+$146
+
+$160
+
+$4,383,072
+
+—
+
+—
+
+—
+
+Annualized
+
+Annualized
+
+Annualized
+
+Annualized
+
+(1)
+
+For some buildings, we calculate square footage based on factors in addition to contractually leased square feet, including available power, required support space and common areas. We
+estimate the total net rentable square feet available for lease based on a number of factors in addition to contractually leased square feet, including available power, required support space
+and common areas.
+
+(2)
+
+Annualized rent represents the monthly contractual base rent (defined as cash base rent before abatements) under existing leases as of June 30, 2025, multiplied by 12.
+
+(3)
+
+Includes leases, licenses, and similar agreements that upon expiration have been automatically renewed on a month-to-month basis.
+
+(4)
+
+Other includes unimproved building shell capacity as well as storage and office space within fully improved data center facilities.
+
+Note: Represents consolidated portfolio in addition to our managed portfolio of unconsolidated entities based on our ownership percentage.
+
+22
+
+Top 20 Customers by Annualized Rent
+
+Financial Supplement
+
+Dollars in Thousands
+
+Second Quarter 2025
+
+Customer
+
+Annualized
+Recurring
+Revenue (1)
+
+Number of
+Locations
+
+% of Annualized
+Recurring
+Revenue
+
+Weighted
+Average
+Remaining
+Lease Term in
+Years
+
+1
+
+Fortune 50 Software Company
+
+76
+
+$527,166
+
+11.7%
+
+8.7
+
+2
+
+Oracle Corporation
+
+43
+
+368,005
+
+8.2%
+
+10.1
+
+3
+
+Social Content Platform
+
+30
+
+238,383
+
+5.3%
+
+3.2
+
+4
+
+Global Cloud Provider
+
+64
+
+207,199
+
+4.6%
+
+3.7
+
+5
+
+IBM
+
+36
+
+119,445
+
+2.7%
+
+2.6
+
+6
+
+Equinix
+
+16
+
+92,469
+
+2.1%
+
+5.1
+
+7
+
+LinkedIn Corporation
+
+7
+
+80,721
+
+1.8%
+
+2.9
+
+8
+
+Meta Platforms, Inc.
+
+49
+
+70,597
+
+1.6%
+
+3.2
+
+9
+
+Fortune 25 Investment Grade-Rated Company
+
+30
+
+69,489
+
+1.5%
+
+2.3
+
+10
+
+Social Media Platform
+
+4
+
+64,228
+
+1.4%
+
+5.9
+
+11
+
+Specialized Cloud Provider
+
+3
+
+59,552
+
+1.3%
+
+4.2
+
+12
+
+Lumen Technologies, Inc.
+
+113
+
+51,070
+
+1.1%
+
+8.2
+
+13
+
+Fortune 25 Tech Company
+
+55
+
+50,772
+
+1.1%
+
+3.3
+
+14
+
+AT&T
+
+77
+
+46,345
+
+1.0%
+
+2.6
+
+15
+
+Comcast Corporation
+
+45
+
+46,134
+
+1.0%
+
+3.0
+
+16
+
+JPMorgan Chase & Co.
+
+20
+
+41,647
+
+0.9%
+
+3.0
+
+17
+
+Quantitative Research and Investment Firm
+
+2
+
+40,327
+
+0.9%
+
+6.0
+
+18
+
+Rackspace
+
+25
+
+39,733
+
+0.9%
+
+8.4
+
+19
+
+Morgan Stanley
+
+13
+
+39,416
+
+0.9%
+
+4.0
+
+20
+
+Zayo
+
+117
+
+37,310
+
+0.8%
+
+1.4
+
+$2,290,008
+
+50.8%
+
+6.0
+
+Total / Weighted Average
+(1)
+
+Annualized recurring revenue represents the monthly contractual base rent (defined as cash base rent before abatements) and interconnection revenue under existing leases as of June 30,
+2025, multiplied by 12.
+
+Note: Represents consolidated portfolio in addition to our managed portfolio of unconsolidated entities based on ownership percentage. Our direct customers may be the entities named in the
+table above or their subsidiaries or affiliates.
+
+23
+
+Occupancy Analysis
+
+Financial Supplement
+
+Dollars and Square Feet in Thousands
+
+Second Quarter 2025
+
+5
+
+Metropolitan Area
+
+Annualized
+Rent (4)
+
+Occupancy (5)
+30-Jun-25
+31-Mar-25
+
+Net Rentable
+Square Feet (1)
+
+Space Under Active
+Development (2)
+
+Space Held for
+Development (3)
+
+White Space
+IT Load (6)
+
+Data Center
+Count
+
+5,019
+2,262
+3,027
+1,498
+1,147
+1,224
+783
+593
+844
+397
+154
+622
+393
+336
+226
+86
+95
+
+520
+553
+408
+—
+—
+—
+19
+—
+—
+—
+68
+—
+—
+—
+—
+—
+—
+
+252
+48
+97
+98
+—
+—
+—
+135
+—
+—
+314
+—
+14
+51
+—
+—
+—
+
+$691,086
+233,741
+197,220
+191,608
+159,606
+154,576
+75,141
+66,843
+62,232
+55,978
+50,580
+45,371
+19,508
+10,829
+9,385
+7,554
+6,426
+
+94.9%
+92.4%
+81.1%
+72.7%
+99.8%
+84.4%
+75.3%
+96.4%
+56.9%
+68.9%
+79.1%
+79.3%
+69.6%
+40.6%
+84.3%
+59.6%
+94.4%
+
+93.7%
+92.9%
+81.0%
+72.7%
+98.9%
+83.8%
+74.9%
+96.4%
+57.5%
+73.1%
+79.4%
+78.4%
+69.6%
+38.9%
+85.9%
+59.6%
+94.2%
+
+482.1
+81.0
+101.2
+57.5
+123.6
+94.6
+42.5
+55.8
+31.5
+5.9
+11.1
+17.2
+12.0
+13.9
+1.3
+4.3
+1.5
+
+16
+7
+18
+10
+3
+11
+2
+2
+4
+1
+3
+2
+6
+2
+2
+1
+3
+
+18,706
+
+1,569
+
+1,007
+
+$2,037,683
+
+84.7%
+
+84.3%
+
+1,137.0
+
+93
+
+1,402
+1,867
+1,332
+1,147
+1,448
+558
+596
+555
+352
+356
+326
+338
+226
+245
+142
+148
+59
+37
+24
+16
+3
+0
+11
+—
+
+23
+1,305
+222
+115
+760
+237
+—
+—
+56
+133
+402
+—
+—
+—
+—
+61
+—
+—
+10
+75
+—
+37
+—
+144
+
+76
+—
+92
+—
+—
+378
+—
+—
+—
+—
+—
+—
+99
+—
+71
+—
+—
+21
+—
+—
+—
+—
+—
+—
+
+$252,183
+247,646
+204,781
+163,436
+161,663
+83,604
+81,093
+66,311
+55,831
+55,406
+45,508
+41,665
+27,158
+22,747
+21,218
+20,609
+7,104
+4,526
+3,776
+3,573
+487
+199
+69
+—
+
+67.5%
+87.6%
+86.9%
+83.2%
+84.1%
+75.5%
+75.0%
+73.5%
+76.4%
+82.5%
+87.8%
+70.8%
+73.8%
+45.2%
+66.4%
+83.6%
+68.7%
+43.2%
+96.0%
+68.1%
+41.6%
+100.0%
+2.2%
+—
+
+63.8%
+83.7%
+86.2%
+85.7%
+81.8%
+75.5%
+75.0%
+74.0%
+76.5%
+82.5%
+87.5%
+69.6%
+69.6%
+46.9%
+59.8%
+84.4%
+68.3%
+42.9%
+94.6%
+66.3%
+41.6%
+100.0%
+—
+—
+
+96.9
+122.4
+116.3
+111.1
+77.4
+45.2
+42.4
+39.3
+22.6
+25.6
+21.1
+21.5
+12.9
+16.8
+7.7
+9.0
+2.1
+1.9
+0.9
+0.9
+0.2
+0.1
+1.0
+—
+
+13
+24
+13
+12
+5
+4
+3
+9
+4
+3
+2
+3
+3
+6
+3
+4
+1
+2
+1
+1
+1
+1
+1
+—
+
+11,186
+
+3,580
+
+738
+
+$1,570,594
+
+79.2%
+
+77.8%
+
+795.2
+
+119
+
+793
+361
+147
+114
+162
+
+—
+—
+—
+66
+1,025
+
+97
+88
+—
+104
+—
+
+$225,350
+27,119
+18,541
+10,944
+7,960
+
+89.8%
+83.3%
+90.5%
+73.6%
+33.6%
+
+90.5%
+83.2%
+90.5%
+73.7%
+33.6%
+
+72.1
+22.8
+9.6
+7.5
+12.0
+
+3
+4
+2
+1
+1
+
+North America
+Northern Virginia
+Chicago
+Dallas
+New York
+Portland
+Silicon Valley
+Phoenix
+Toronto
+San Francisco
+Seattle
+Atlanta
+Los Angeles
+Houston
+Boston
+Miami
+Austin
+Charlotte
+
+North America Total/Weighted Average
+EMEA
+London
+Frankfurt
+Amsterdam
+Paris
+Johannesburg
+Marseille
+Zurich
+Dublin
+Madrid
+Vienna
+Cape Town
+Brussels
+Copenhagen
+Stockholm
+Dusseldorf
+Athens
+Durban
+Mombasa
+Zagreb
+Nairobi
+Maputo
+Rome
+Crete
+Barcelona
+
+EMEA Total/Weighted Average
+Asia Pacific
+Singapore
+Sydney
+Melbourne
+Hong Kong
+Seoul
+
+Asia Pacific Total/Weighted Average
+Consolidated Portfolio Total/Weighted Average
+Held For Sale (7)
+Managed Unconsolidated entities
+Northern Virginia
+Chicago
+Frankfurt
+Dallas
+Silicon Valley
+Paris
+New York
+Toronto
+Hong Kong
+Los Angeles
+Lagos
+Accra
+
+Managed Unconsolidated Portfolio Total/Weighted Average
+Managed Portfolio Total/Weighted Average
+Digital Realty Share Total/Weighted Average (8)
+Non-Managed Unconsolidated entities
+Sao Paulo
+Tokyo
+Osaka
+Santiago
+Queretaro
+Rio De Janeiro
+Seattle
+Jakarta
+Fortaleza
+Chennai
+Mumbai
+Bogota
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+
+1,577
+
+1,091
+
+289
+
+$289,914
+
+81.4%
+
+81.8%
+
+123.9
+
+11
+
+31,469
+435
+
+6,240
+—
+
+2,034
+—
+
+$3,898,190
+$12,686
+
+82.6%
+82.9%
+
+81.9%
+85.2%
+
+2,056.1
+5.1
+
+223
+2
+
+3,563
+1,118
+551
+463
+442
+181
+144
+104
+186
+197
+8
+—
+
+2,343
+—
+—
+—
+—
+90
+—
+—
+—
+—
+26
+24
+
+—
+—
+—
+10
+400
+—
+—
+—
+—
+—
+—
+—
+
+$321,254
+125,336
+57,249
+39,004
+30,479
+26,156
+20,224
+12,850
+11,205
+10,771
+2,413
+—
+
+97.5%
+98.5%
+85.7%
+99.9%
+100.0%
+80.5%
+100.0%
+80.9%
+44.4%
+83.9%
+58.7%
+—
+
+97.7%
+96.9%
+85.7%
+99.9%
+100.0%
+73.3%
+100.0%
+54.5%
+44.2%
+82.1%
+99.5%
+—
+
+254.1
+94.2
+46.1
+26.0
+10.9
+20.0
+7.2
+6.8
+11.0
+4.6
+0.7
+—
+
+15
+3
+5
+3
+4
+1
+1
+1
+1
+2
+2
+—
+
+6,958
+38,427
+32,934
+
+2,483
+8,723
+6,513
+
+409
+2,443
+2,377
+
+$656,943
+$4,555,133
+$4,008,484
+
+94.5%
+84.8%
+83.1%
+
+93.9%
+84.0%
+82.8%
+
+481.3
+2,537.4
+2,152.5
+
+38
+261
+—
+
+1,490
+1,238
+615
+119
+105
+112
+51
+222
+94
+55
+—
+—
+
+37
+360
+84
+142
+—
+—
+—
+—
+—
+—
+501
+—
+
+1,161
+—
+80
+47
+583
+—
+—
+—
+—
+104
+—
+197
+
+$187,375
+117,454
+82,609
+14,815
+12,439
+11,359
+7,770
+3,181
+2,114
+348
+—
+—
+
+98.1%
+78.5%
+85.1%
+100.0%
+100.0%
+100.0%
+100.0%
+64.4%
+12.6%
+2.7%
+—
+—
+
+93.2%
+77.2%
+83.8%
+90.6%
+100.0%
+100.0%
+100.0%
+—
+16.7%
+2.7%
+—
+—
+
+123.6
+79.9
+61.9
+10.2
+8.0
+8.0
+9.0
+6.5
+6.2
+7.2
+—
+—
+
+25
+5
+4
+3
+3
+2
+1
+2
+1
+1
+—
+2
+
+Non-Managed Portfolio Total/Weighted Average
+4,102
+1,124
+2,173
+$439,464
+85.3%
+83.9%
+320.4
+49
+Portfolio Total/Weighted Average
+42,529
+9,848
+4,616
+$4,994,597
+84.8%
+84.0%
+2,857.8
+310
+We estimate the total net rentable square feet available for lease based on a number of factors in addition to contractually leased square feet, including available power, required support space and common areas.
+Space under active development includes current Base Building and Data Center projects in progress.
+Space held for development includes space held for future Data Center development and excludes space under active development.
+Annualized base rent represents the monthly contractual base rent (defined as cash base rent before abatements) under existing leases as of June 30, 2025, multiplied by 12.
+Occupancy excludes space under active development and space held for development. For some of our buildings, we calculate occupancy based on factors in addition to contractually leased square feet, including available
+power, required support space and common areas.
+White Space IT Load represents UPS-backed utility power dedicated to Digital Realty’s operated data center space.
+Held for Sale represents the assets targeted to be sold in 3Q25.
+Represents consolidated portfolio plus our managed portfolio of unconsolidated entities based on our ownership percentage.
+
+24
+
+Development Lifecycle (1)
+
+Financial Supplement
+
+Dollars in Thousands
+
+Second Quarter 2025
+
+Future Development Capacity
+IT Capacity (100% Share)
+
+(2)
+
+Total Investment
+
+100% Share
+Region
+Northern Virginia
+
+Data Center Construction
+
+Land (MW)
+
+Shell (MW)
+
+(4)
+
+900
+
+70
+
+$1,389,780
+
+(3)
+
+Project Summary
+
+(4)
+
+100% Share (4)
+
+DLR Share (5)
+
+Under
+Construction
+(MW)
+
+% Leased
+
+Average
+Expected
+Completion
+
+$842,073
+
+344
+
+72%
+
+2Q26
+
+$991,990
+
+$2,880,999
+
+$3,872,988
+
+$423,337
+
+$1,136,283
+
+$1,559,620
+
+DLR Share
+(5)
+
+Current
+Investment
+
+Future
+Investment
+
+Total
+Investment
+
+Current
+Investment
+
+Future
+Investment
+
+Total
+Investment
+
+Yields
+
+(6)
+
+(7)
+
+(8)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+Chicago
+
+40
+
+—
+
+78,392
+
+78,392
+
+54
+
+89%
+
+4Q26
+
+140,116
+
+517,765
+
+657,881
+
+140,116
+
+517,765
+
+657,881
+
+Dallas
+
+680
+
+50
+
+497,447
+
+148,306
+
+56
+
+100%
+
+4Q26
+
+63,232
+
+570,553
+
+633,785
+
+63,072
+
+477,287
+
+540,359
+
+Other
+
+930
+
+160
+
+1,306,482
+
+1,209,401
+
+10
+
+96%
+
+1Q26
+
+127,024
+
+13,728
+
+140,752
+
+69,617
+
+9,916
+
+79,533
+
+2,550
+
+280
+
+$3,272,102
+
+$2,278,173
+
+464
+
+78%
+
+$1,322,362
+
+$3,983,045
+
+$5,305,406
+
+$696,142
+
+$2,141,250
+
+$2,837,392
+
+90
+
+90
+
+$1,060,818
+
+$881,160
+
+35
+
+41%
+
+4Q25
+
+$652,451
+
+$61,849
+
+$714,300
+
+$652,451
+
+$61,849
+
+$714,300
+
+Amsterdam
+
+40
+
+10
+
+83,472
+
+83,472
+
+27
+
+24%
+
+1Q26
+
+306,093
+
+155,313
+
+461,406
+
+306,093
+
+155,313
+
+461,406
+
+Paris
+
+220
+
+—
+
+149,478
+
+98,935
+
+23
+
+35%
+
+4Q25
+
+321,428
+
+54,624
+
+376,051
+
+242,535
+
+18,672
+
+261,207
+
+Other
+
+520
+
+100
+
+774,067
+
+742,334
+
+132
+
+21%
+
+3Q26
+
+647,587
+
+866,643
+
+1,514,230
+
+514,575
+
+776,259
+
+1,290,834
+
+870
+
+200
+
+$2,067,835
+
+$1,805,900
+
+216
+
+26%
+
+$1,927,558
+
+$1,138,429
+
+$3,065,987
+
+$1,715,654
+
+$1,012,093
+
+$2,727,747
+
+Tokyo
+
+30
+
+10
+
+$111,201
+
+$55,601
+
+21
+
+56%
+
+1Q26
+
+$134,365
+
+$121,120
+
+$255,485
+
+$67,182
+
+$60,560
+
+$127,743
+
+Hong Kong
+
+—
+
+—
+
+26,066
+
+26,066
+
+6
+
+100%
+
+3Q25
+
+72,071
+
+10,446
+
+82,518
+
+72,071
+
+10,446
+
+82,518
+
+Sydney
+
+—
+
+10
+
+43,605
+
+43,605
+
+7
+
+100%
+
+2Q26
+
+3,538
+
+68,745
+
+72,283
+
+3,538
+
+68,745
+
+72,283
+
+Other
+
+200
+
+110
+
+748,910
+
+580,731
+
+19
+
+16%
+
+2Q26
+
+55,783
+
+82,415
+
+138,198
+
+25,729
+
+35,776
+
+61,505
+
+APAC
+
+230
+
+130
+
+$929,782
+
+$706,003
+
+53
+
+52%
+
+$265,757
+
+$282,727
+
+$548,484
+
+$168,520
+
+$175,528
+
+$344,048
+
+9.6%
+
+3,650
+
+610
+
+$6,269,719
+
+$4,790,075
+
+734
+
+61%
+
+$3,515,677
+
+$5,404,201
+
+$8,919,877
+
+$2,580,315
+
+$3,328,872
+
+$5,909,187
+
+12.2%
+
+Americas
+Frankfurt
+
+EMEA
+
+Total
+
+13.5%
+
+11.3%
+
+(1)
+
+Includes development projects in consolidated and unconsolidated entities.
+
+(2)
+
+Represents the expected megawatt capacity to be developed based on our current plans and estimates; actual megawatt capacity developed may differ. Includes land and space held or actively under construction in preparation for future data center
+fit-out.
+
+(3)
+
+Represents cost incurred through June 30, 2025, plus remaining cost to complete on approved phases in preparation for future data center fit-out, including pro-rata share of acquisition, shell, and infrastructure costs.
+
+(4)
+
+Includes Digital Realty's and partners' shares in development joint ventures projects.
+
+(5)
+
+Includes only Digital Realty's share in development joint ventures projects.
+
+(6)
+
+Represents cost incurred through June 30, 2025.
+
+(7)
+
+Represents estimated cost to complete scope of work pursuant to approved development budget.
+
+(8)
+
+Represents total cost to develop a data center, including pro-rata share of acquisition, infrastructure, and shell space, plus the direct investment in the data center fit-out.
+
+(9)
+
+Represents pre-tax estimated stabilized cash yields, which are based on total expected investment amounts and anticipated net operating income from leases signed or other assumptions based on market conditions.
+
+25
+
+Construction Projects in Progress (1)
+
+Financial Supplement
+
+Dollars in Thousands
+
+Second Quarter 2025
+
+Construction Projects in Progress
+Future Development Capacity (7)
+Data Center Construction
+Equipment Pool & Other Inventory (8)
+Campus, Tenant Improvements & Other (9)
+Total Land Held and Development CIP
+Enhancement & Other
+Recurring
+Total Land Held and Construction in Progress
+
+100% Share (2)
+Current
+Future
+Investment (4) (10) Investment (5)
+$3,522,070
+$2,747,649
+3,515,677
+5,404,201
+282,595
+—
+294,520
+147,972
+$7,614,862
+$8,299,822
+$14,057
+27,217
+$7,656,136
+
+$5,900
+46,116
+$8,351,838
+
+DLR Share (3)
+Total
+Current
+Future
+Investment Investment (4) (6) (10) Investment (5)
+$6,269,719
+$2,939,947
+$1,850,128
+8,919,878
+2,580,315
+3,328,872
+282,595
+282,595
+—
+442,492
+294,520
+147,972
+$15,914,684
+$6,097,377
+$5,326,972
+
+Total
+Investment
+$4,790,075
+5,909,187
+282,595
+442,492
+$11,424,349
+
+$19,957
+73,333
+$16,007,974
+
+$19,957
+73,333
+$11,517,639
+
+$14,057
+27,217
+$6,138,651
+
+$5,900
+46,116
+$5,378,988
+
+(1)
+
+Includes development projects in consolidated and unconsolidated entities.
+
+(2)
+
+Includes Digital Realty's and partners' shares in development joint ventures projects.
+
+(3)
+
+Includes only Digital Realty's share in development joint ventures projects.
+
+(4)
+
+Represents cost incurred through June 30, 2025.
+
+(5)
+
+Represents estimated cost to complete scope of work pursuant to approved development budget.
+
+(6)
+
+Excludes $121.8 million representing our partners' shares in consolidated entities included in Construction in Progress or Land Held for Future Development in our Consolidated Balance
+Sheet; includes $990 million representing Digital Realty's share in development projects classified as Investments in Unconsolidated entities in our Consolidated Balance Sheet.
+
+(7)
+
+Includes land and space held or actively under construction in preparation for future data center fit-out.
+
+(8)
+
+Represents long-lead equipment and materials required for timely deployment and delivery of data center fit-out.
+
+(9)
+
+Represents improvements in progress as of June 30, 2025, which benefit space recently converted to our operating portfolio and is composed primarily of shared infrastructure projects and
+first-generation tenant improvements. Includes $2.8 million included in our Consolidated Balance Sheet related to fair value adjustments on Teraco portfolio projects that were partially
+constructed as of August 1, 2022.
+
+(10) Includes $74.3 million classified as assets held for sale and contribution in our Consolidated Balance Sheet related to development projects that are expected to be contributed to an
+unconsolidated entity and our U.S. Hyperscale Data Center Fund in the fourth quarter.
+
+26
+
+Historical Capital Expenditures and Investments in Real Estate
+
+Financial Supplement
+
+Dollars and Square Feet in Thousands
+
+Second Quarter 2025
+Three Months Ended
+
+Six Months Ended
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+30-Jun-25
+
+30-Jun-24
+
+$565,168
+
+$686,622
+
+$528,356
+
+$650,912
+
+$531,903
+
+$1,251,790
+
+$1,081,425
+
+10,234
+
+5,588
+
+13,384
+
+7,070
+
+7,051
+
+15,822
+
+14,789
+
+Total Non-Recurring Capital Expenditures
+
+$575,402
+
+$692,210
+
+$541,740
+
+$657,982
+
+$538,953
+
+$1,267,612
+
+$1,096,214
+
+Recurring Capital Expenditures (3)
+
+$62,083
+
+$35,305
+
+$130,245
+
+$67,308
+
+$60,483
+
+$97,388
+
+$108,159
+
+Total Direct Capital Expenditures
+
+$637,485
+
+$727,515
+
+$671,985
+
+$725,290
+
+$599,436
+
+$1,365,000
+
+$1,204,373
+
+Capitalized Interest
+
+$29,393
+
+$30,095
+
+$34,442
+
+$28,312
+
+$27,592
+
+$59,488
+
+$56,114
+
+Capitalized Overhead
+
+37,445
+
+29,693
+
+28,983
+
+27,929
+
+28,457
+
+67,138
+
+54,314
+
+Total Indirect Capital Expenditures
+
+$66,838
+
+$59,788
+
+$63,425
+
+$56,241
+
+$56,049
+
+$126,626
+
+$110,428
+
+Total Improvements to and Advances for Investment
+in Real Estate
+
+$704,323
+
+$787,303
+
+$735,410
+
+$781,530
+
+$655,485
+
+$1,491,626
+
+$1,314,801
+
+Non-Recurring Capital Expenditures (1)
+Development (2)
+Enhancements and Other Non-Recurring
+
+Indirect Capital Expenditures
+
+(1)
+
+Non-recurring capital expenditures are primarily for development of space and land, excluding acquisition costs.
+
+(2)
+
+Amount reflects the total capital expenditures on consolidated development projects during the quarter. The total includes 100% of spending on projects contributed to joint ventures prior
+to their contribution.
+
+(3)
+
+Recurring capital expenditures represent non-incremental building improvements required to maintain current revenues, including second-generation tenant improvements and external
+leasing commissions. Recurring capital expenditures do not include acquisition costs contemplated when underwriting the purchase of a building, costs which are incurred to bring a building
+up to Digital Realty’s operating standards, or internal leasing commissions.
+
+27
+
+Acquisitions / Dispositions/ Joint Ventures
+
+Financial Supplement
+
+Dollars and Square Feet in Thousands
+
+Second Quarter 2025
+
+Closed Acquisitions:
+
+Property
+Fort Gillem
+Midlothian
+Franklin Park
+Total
+
+Acquisition
+Type
+Land
+Land
+Land
+
+Metropolitan
+Area
+Atlanta, GA
+Dallas, TX
+Chicago, IL
+
+Date
+Acquired
+4/2/2025
+6/27/2025
+Various
+
+Purchase
+Price (1)
+$120,000
+11,050
+5,675
+$136,725
+
+Cap
+Rate (2)
+NA
+NA
+NA
+—
+
+Net
+Rentable Square Feet Square Feet
+% of Total Net
+Square
+Under
+Held For
+Rentable Square
+Feet (3) Development Development Feet Occupied (4)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+Cap
+Rate (2)
+—
+—
+
+Net
+Rentable Square Feet Square Feet % of Total Net
+Square
+Under
+Held For
+Rentable Square
+Feet (3)
+Development Development Feet Occupied (4)
+—
+—
+—
+—
+—
+—
+—
+—
+
+Closed Dispositions:
+
+Property
+Total
+
+Disposition
+Type
+—
+—
+
+Metropolitan
+Area
+—
+—
+
+Date
+Disposed
+—
+—
+
+Sale
+Price (1)
+—
+—
+
+Closed Joint Venture / Fund Contributions:
+
+Property
+U.S. Hyperscale Data Center Fund
+Total
+
+Metropolitan
+Area
+Various
+—
+
+Date
+5/15/2025
+—
+
+Contribution
+Price
+$1,600,000
+$1,600,000
+
+Cap
+Rate (2) (5)
+5.8%
+—
+
+Net
+Rentable
+Square
+Feet (3)
+—
+—
+
+Square Feet
+Square Feet
+% of Total Net
+Under
+Held For
+Rentable Square
+Development Development Feet Occupied (4)
+—
+—
+—
+—
+—
+—
+
+(1)
+
+Represents the purchase price or sale price, as applicable before contractual price adjustments, transaction expenses, taxes, and potential currency fluctuations. All prices were converted to
+USD based on FX rate as of June 30, 2025.
+
+(2)
+
+We calculate the cash capitalization rate on acquisitions, dispositions, and joint venture and fund contributions by dividing anticipated annual net operating income by the
+purchase/sale/contribution price, including assumed debt and related pre-payment penalties. Net operating income represents rental revenue and tenant reimbursement revenue from inplace leases, less rental property operating and maintenance expenses, property taxes and insurance expenses, and is not a financial measure calculated in accordance with GAAP. We
+caution you not to place undue reliance on our cash capitalization rates because they are based solely on data made available to us in the diligence process in connection with the relevant
+acquisitions and are calculated on a non-GAAP basis. Our calculation of the cash capitalization rate on acquisitions may change, based on our experience operating the data centers
+subsequent to closing of the acquisitions. In addition, the actual cash capitalization rates may differ from our expectations based on numerous other factors, including the results of our final
+purchase price allocation, difficulties collecting anticipated rental revenues, tenant bankruptcies, property tax reassessments and unanticipated expenses at the data centers that we cannot
+pass on to tenants.
+
+(3)
+
+We estimate the total net rentable square feet available for lease based on a number of factors in addition to contractually leased square feet, including available power, required support
+space and common area.
+
+(4)
+
+Occupancy excludes space under active development and space held for development.
+
+(5)
+
+Cap Rate reflects the valuation of the stabilized assets contributed to the U.S. Hyperscale Data Center Fund, excluding the value of the development sites.
+
+28
+
+Unconsolidated Entities
+
+Financial Supplement
+
+Dollars in Thousands
+
+Second Quarter 2025
+
+Summary Balance Sheet at the JV's 100% Share
+
+Americas (1)
+
+APAC (2)
+
+Gross cost of operating real estate
+
+$8,900,235
+
+$2,364,308
+
+Accumulated depreciation and amortization
+
+(1,134,113)
+
+(337,453)
+
+Net Book Value of Operating Real Estate
+
+$7,766,122
+
+$2,026,855
+
+Cash
+
+As of June 30, 2025
+EMEA (3)
+
+Global (4)
+
+Total
+
+$870,261
+
+$1,795,276
+
+$13,930,079
+
+(13,630)
+
+(139,858)
+
+(1,625,054)
+
+$856,631
+
+$1,655,418
+
+$12,305,026
+
+451,517
+
+398,299
+
+80,253
+
+60,718
+
+990,787
+
+Other assets
+
+1,911,981
+
+228,553
+
+214,033
+
+404,045
+
+2,758,612
+
+Total Assets
+
+$10,129,620
+
+$2,653,707
+
+$1,150,917
+
+$2,120,181
+
+$16,054,425
+
+Debt
+
+3,579,730
+
+953,221
+
+376,103
+
+673,657
+
+5,582,711
+
+Other liabilities
+
+1,012,414
+
+204,867
+
+416,687
+
+522,554
+
+2,156,522
+
+Equity / (deficit)
+
+5,537,476
+
+1,495,618
+
+358,127
+
+923,970
+
+8,315,192
+
+Total Liabilities and Equity
+
+$10,129,620
+
+$2,653,707
+
+$1,150,917
+
+$2,120,181
+
+$16,054,425
+
+Digital Realty's Pro Rata Share of Unconsolidated entities Debt
+
+$1,287,961
+
+$466,300
+
+$75,221
+
+$215,166
+
+$2,044,648
+
+Summary Statement of Operations at the JV's 100% Share
+
+Three Months Ended June 30, 2025
+Americas (1)
+
+APAC (2)
+
+EMEA (3)
+
+Global (4)
+
+Total
+
+Total revenues
+
+$256,175
+
+$86,253
+
+$13,862
+
+$48,378
+
+Operating expenses
+
+(110,689)
+
+(41,952)
+
+(4,317)
+
+(20,544)
+
+(177,502)
+
+$145,486
+
+$44,301
+
+$9,545
+
+$27,834
+
+$227,166
+
+(4,344)
+
+(4,485)
+
+(2,196)
+
+(636)
+
+(11,661)
+
+Net Operating Income (NOI)
+Straight-line rent
+Above and below market rent
+
+$404,668
+
+(1,227)
+
+—
+
+(916)
+
+(3,633)
+
+(5,776)
+
+$139,915
+
+$39,816
+
+$6,433
+
+$23,565
+
+$209,729
+
+Interest expense
+
+($55,833)
+
+($2,934)
+
+($4,124)
+
+($10,251)
+
+($73,141)
+
+Depreciation and amortization
+
+(112,031)
+
+(25,305)
+
+(5,014)
+
+(24,476)
+
+(166,826)
+
+Other income / (expense)
+
+(17,672)
+
+75
+
+(1,343)
+
+432
+
+(18,508)
+
+FX remeasurement on USD debt
+
+7,400
+
+—
+
+11,046
+
+(35,187)
+
+(16,740)
+
+Total Non-Operating Expenses
+
+($178,136)
+
+($28,164)
+
+$565
+
+($69,482)
+
+($275,215)
+
+Net Income / (Loss)
+
+($32,650)
+
+$16,137
+
+$10,110
+
+($41,648)
+
+($48,050)
+
+Digital Realty's Pro Rata Share of Unconsolidated entities NOI
+
+$48,386
+
+$22,163
+
+$2,086
+
+$12,859
+
+$85,494
+
+Digital Realty's Pro Rata Share of Unconsolidated entities Cash NOI
+
+$46,211
+
+$19,921
+
+$1,463
+
+$10,714
+
+$78,309
+
+Digital Realty's Earnings (loss) income from unconsolidated entities
+
+($11,436)
+
+$6,407
+
+$6,128
+
+($13,161)
+
+($12,062)
+
+Digital Realty's Pro Rata Share of Core FFO (5)
+
+$21,821
+
+$19,059
+
+$512
+
+$10,793
+
+$52,184
+
+Digital Realty's Fee Income from Unconsolidated entities
+
+$16,410
+
+$323
+
+$1,470
+
+$4,206
+
+$22,409
+
+Cash Net Operating Income (NOI)
+
+(1)
+
+Includes Ascenty, Blackstone NoVa, Clise, GI Partners, Mapletree, Menlo, Mitsubishi, Realty Income, TPG Real Estate, U.S. Hyperscale Data Center Fund and Walsh.
+
+(2)
+
+Includes Digital Realty Bersama, Digital Connexion, Lumen, and MC Digital Realty.
+
+(3)
+
+Includes Blackstone Frankfurt, Blackstone Paris, Medallion, and Mivne.
+
+(4)
+
+Includes Digital Core REIT.
+
+(5)
+
+For a definition of Core FFO, see page 31.
+
+Note: Digital Realty’s ownership percentages in the unconsolidated entities vary.
+
+29
+
+Reconciliation of Earnings Before Interest, Taxes, Depreciation &
+Amortization and Financial Ratios
+
+Financial Supplement
+
+Unaudited and Dollars in Thousands
+
+Second Quarter 2025
+
+Three Months Ended
+Reconciliation of Earnings Before Interest, Taxes, Depreciation & Amortization
+(EBITDA) (1)
+
+30-Jun-25
+
+31-Mar-25
+
+31-Dec-24
+
+30-Sep-24
+
+30-Jun-24
+
+Net Income / (Loss) Available to Common Stockholders
+Interest
+Loss on debt extinguishment and modifications
+Income tax expense (benefit)
+Depreciation and amortization
+EBITDA
+Unconsolidated JV real estate related depreciation and amortization
+Unconsolidated JV interest expense and tax expense
+Severance, equity acceleration and legal expenses
+Transaction and integration expenses
+(Gain) / loss on sale of investments
+Provision for impairment
+Other non-core adjustments, net (2)
+Noncontrolling interests
+Preferred stock dividends
+Adjusted EBITDA
+
+$1,021,975
+109,383
+—
+12,883
+461,167
+$1,605,408
+59,172
+31,243
+2,262
+22,546
+(931,830)
+—
+9,545
+14,790
+10,181
+$823,319
+
+$99,793
+98,464
+—
+17,135
+443,009
+$658,400
+55,861
+33,390
+2,428
+39,902
+(1,111)
+—
+(4,316)
+(3,579)
+10,181
+$791,156
+
+$179,388
+104,742
+2,165
+4,928
+455,355
+$746,578
+49,463
+32,255
+2,346
+11,797
+(144,885)
+22,881
+24,539
+(3,881)
+10,181
+$751,276
+
+$41,012
+123,803
+2,636
+12,427
+459,997
+$639,875
+48,474
+34,951
+2,481
+24,194
+556
+—
+8,642
+(11,059)
+10,181
+$758,296
+
+$70,039
+114,756
+—
+14,992
+425,343
+$625,130
+47,117
+27,704
+884
+26,072
+(173,709)
+168,303
+743
+(5,552)
+10,181
+$726,874
+
+(1)
+
+For definitions and discussion of EBITDA and Adjusted EBITDA, see the Definitions section.
+
+(2)
+
+Includes foreign exchange net unrealized gains/losses attributable to remeasurement, deferred rent adjustments related to a customer bankruptcy, write offs associated with bankrupt or
+terminated customers, non-recurring legal and insurance expenses, gain on sale of land option and lease termination fees.
+
+Financial Ratios
+
+30-Jun-25
+
+Three Months Ended
+31-Mar-25
+31-Dec-24
+30-Sep-24
+
+30-Jun-24
+
+Total GAAP interest expense
+Capitalized interest
+Change in accrued interest and other non-cash amounts
+Cash Interest Expense (3)
+
+$109,383
+29,393
+(92,065)
+$46,711
+
+$98,464
+30,095
+45,416
+$173,975
+
+$104,742
+34,442
+(58,137)
+$81,046
+
+$123,803
+28,312
+43,720
+$195,835
+
+$114,756
+27,592
+(55,605)
+$86,743
+
+Preferred stock dividends
+Total Fixed Charges (4)
+
+10,181
+$148,957
+
+10,181
+$138,739
+
+10,181
+$149,364
+
+10,181
+$162,296
+
+10,181
+$152,529
+
+Coverage
+Interest coverage ratio (5)
+Cash interest coverage ratio (6)
+Fixed charge coverage ratio (7)
+Cash fixed charge coverage ratio (8)
+
+5.0x
+11.2x
+4.7x
+9.9x
+
+5.3x
+4.1x
+4.9x
+3.9x
+
+4.5x
+6.9x
+4.2x
+6.3x
+
+4.3x
+3.4x
+4.1x
+3.3x
+
+4.3x
+6.4x
+4.1x
+5.9x
+
+Leverage
+Debt to total enterprise value (9)(10)
+Debt-plus-preferred-stock-to-total-enterprise-value (10)(11)
+Pre-tax income to interest expense (12)
+Net Debt-to-Adjusted EBITDA (13)
+
+23.2%
+24.1%
+10.6x
+5.1x
+
+25.4%
+26.6%
+2.1x
+5.1x
+
+21.4%
+22.3%
+2.8x
+4.8x
+
+23.5%
+24.5%
+1.3x
+5.4x
+
+24.2%
+25.3%
+1.7x
+5.3x
+
+(3)
+
+Cash interest expense is interest expense less amortization of debt discount and deferred financing fees and includes interest that we capitalized. We consider cash interest expense to be a
+useful measure of interest as it excludes non-cash-based interest expense.
+
+(4)
+
+Fixed charges consist of GAAP interest expense, capitalized interest, and preferred stock dividends.
+
+(5)
+
+Adjusted EBITDA divided by GAAP interest expense plus capitalized interest (including our pro rata share of unconsolidated entities interest expense).
+
+(6)
+
+Adjusted EBITDA divided by cash interest expense (including our pro rata share of unconsolidated entities interest expense).
+
+(7)
+
+Adjusted EBITDA divided by fixed charges (including our pro rata share of unconsolidated entities fixed charges).
+
+(8)
+
+Adjusted EBITDA divided by the sum of cash interest expense and preferred stock dividends (including our pro rata share of unconsolidated entities cash fixed charges).
+
+(9)
+
+Total debt divided by market value of common equity plus debt plus preferred stock.
+
+(10) Total enterprise value defined as market value of common equity plus debt plus preferred stock.
+(11) Same as (9), except numerator includes preferred stock.
+(12) Calculated as net income plus interest expense divided by GAAP interest expense.
+(13) Calculated as total debt at balance sheet carrying value, plus capital lease obligations, plus Digital Realty’s pro rata share of unconsolidated entities debt, less cash and cash equivalents
+(including Digital Realty’s pro rata share of unconsolidated entities cash) divided by the product of Adjusted EBITDA (including Digital Realty’s pro rata share of unconsolidated entities
+EBITDA), multiplied by four.
+
+30
+
+Management Statements on Non-GAAP Measures
+
+Financial Supplement
+
+Unaudited
+
+Second Quarter 2025
+
+Definitions
+
+Funds From Operations (FFO):
+We calculate funds from operations, or FFO, in accordance with the standards established by the National Association of Real Estate Investment Trusts
+(Nareit) in the Nareit Funds From Operations White Paper - 2018 Restatement. FFO is a non-GAAP financial measure and represents net income (loss)
+(computed in accordance with GAAP), excluding gain (loss) from the disposition of real estate assets, provision for impairment, real estate related
+depreciation and amortization (excluding amortization of deferred financing costs), our share of unconsolidated JV real estate related depreciation &
+amortization, net income attributable to noncontrolling interests in operating partnership and reconciling items related to noncontrolling interests.
+Management uses FFO as a supplemental performance measure because, in excluding real estate related depreciation and amortization and gains and
+losses from property dispositions and after adjustments for unconsolidated partnerships and joint ventures, it provides a performance measure that,
+when compared year over year, captures trends in occupancy rates, rental rates and operating costs. We also believe that, as a widely recognized
+measure of the performance of REITs, FFO will be used by investors as a basis to compare our operating performance with that of other REITs. However,
+because FFO excludes depreciation and amortization and captures neither the changes in the value of our data centers that result from use or market
+conditions, nor the level of capital expenditures and capitalized leasing commissions necessary to maintain the operating performance of our data
+centers, all of which have real economic effect and could materially impact our financial condition and results from operations, the utility of FFO as a
+measure of our performance is limited. Other REITs may not calculate FFO in accordance with the Nareit definition and, accordingly, our FFO may not be
+comparable to other REITs’ FFO. FFO should be considered only as a supplement to net income computed in accordance with GAAP as a measure of our
+performance.
+Core Funds from Operations (Core FFO):
+We present core funds from operations, or Core FFO, as a supplemental operating measure because, in excluding certain items that do not reflect core
+revenue or expense streams, it provides a performance measure that, when compared year over year, captures trends in our core business operating
+performance. We calculate Core FFO by adding to or subtracting from FFO (i) other non-core revenue adjustments, (ii) transaction and integration
+expenses, (iii) loss on debt extinguishment and modifications, (iv) gain on / issuance costs associated with redeemed preferred stock, (v) severance,
+equity acceleration and legal expenses, (vi) gain/loss on FX and derivatives revaluation, and (vii) other non-core expense adjustments. Because certain
+of these adjustments have a real economic impact on our financial condition and results from operations, the utility of Core FFO as a measure of our
+performance is limited. Other REITs may calculate Core FFO differently than we do and accordingly, our Core FFO may not be comparable to other
+REITs’ Core FFO. Core FFO should be considered only as a supplement to net income computed in accordance with GAAP as a measure of our
+performance.
+Adjusted Funds from Operations (AFFO):
+We present adjusted funds from operations, or AFFO, as a supplemental operating measure because, when compared year over year, it assesses our
+ability to fund dividend and distribution requirements from our operating activities. We also believe that, as a widely recognized measure of the
+operations of REITs, AFFO will be used by investors as a basis to assess our ability to fund dividend payments in comparison to other REITs, including on
+a per share and unit basis. We calculate AFFO by adding to or subtracting from Core FFO (i) non-real estate depreciation, (ii) amortization of deferred
+financing costs, (iii) amortization of debt discount/premium, (iv) non-cash stock-based compensation expense, (v) straight-line rental revenue,
+(vi) straight-line rental expense, (vii) above- and below-market rent amortization, (viii) deferred tax expense / (benefit), (ix) leasing compensation and
+internal lease commissions, and (x) recurring capital expenditures. Other REITs may calculate AFFO differently than we do and, accordingly, our AFFO
+may not be comparable to other REITs’ AFFO. AFFO should be considered only as a supplement to net income computed in accordance with GAAP as a
+measure of our performance.
+EBITDA and Adjusted EBITDA:
+We believe that earnings before interest, loss on debt extinguishment and modifications, income taxes, and depreciation and amortization, or EBITDA,
+and Adjusted EBITDA (as defined below), are useful supplemental performance measures because they allow investors to view our performance
+without the impact of non-cash depreciation and amortization or the cost of debt and, with respect to Adjusted EBITDA, (i) unconsolidated entities real
+estate related depreciation & amortization, (ii) unconsolidated entities interest expense and tax, (iii) severance, equity acceleration and legal expenses,
+(iv) transaction and integration expenses, (v) gain (loss) on sale / deconsolidation, (vi) provision for impairment, (vii) other non-core adjustments, net,
+(viii) noncontrolling interests, (ix) preferred stock dividends, and (x) gain on / issuance costs associated with redeemed preferred stock. Adjusted EBITDA
+is EBITDA excluding (i) unconsolidated entities real estate related depreciation & amortization, (ii) unconsolidated entities interest expense and tax, (iii)
+severance, equity acceleration and legal expenses, (iv) transaction and integration expenses, (v) gain (loss) on sale / deconsolidation, (vi) provision for
+impairment, (vii) other non-core adjustments, net, (viii) noncontrolling interests, (ix) preferred stock dividends, and (x) gain on / issuance costs
+associated with redeemed preferred stock. In addition, we believe EBITDA and Adjusted EBITDA are frequently used by securities analysts, investors,
+and other interested parties in the evaluation of REITs. Because EBITDA and Adjusted EBITDA are calculated before recurring cash charges including
+interest expense and income taxes, exclude capitalized costs, such as leasing commissions, and are not adjusted for capital expenditures or other
+recurring cash requirements of our business, their utility as a measure of our performance is limited. Other REITs may calculate EBITDA and Adjusted
+EBITDA differently than we do and, accordingly, our EBITDA and Adjusted EBITDA may not be comparable to other REITs’ EBITDA and Adjusted EBITDA.
+Accordingly, EBITDA and Adjusted EBITDA should be considered only as supplements to net income computed in accordance with GAAP as a measure of
+our financial performance.
+
+31
+
+Management Statements on Non-GAAP Measures
+
+Financial Supplement
+
+Unaudited
+
+Second Quarter 2025
+
+Net Operating Income (NOI) and Cash NOI:
+Net operating income, or NOI, represents rental revenue, tenant reimbursement revenue and interconnection revenue less utilities expense, rental property operating
+expenses, property taxes and insurance expenses (as reflected in the statement of operations). NOI is commonly used by stockholders, company management and industry
+analysts as a measurement of operating performance of the company’s rental portfolio. Cash NOI is NOI less straight-line rents and above- and below-market rent
+amortization. Cash NOI is commonly used by stockholders, company management and industry analysts as a measure of property operating performance on a cash basis.
+Same-Capital Cash NOI represents buildings owned as of December 31, 2023 of the prior year with less than 5% of total rentable square feet under development and
+excludes buildings that were undergoing, or were expected to undergo, development activities in 2024-2025, buildings classified as held for sale and contribution, and
+buildings sold or contributed to joint ventures for all periods presented (prior period numbers adjusted to reflect current same-capital pool). However, because NOI and
+cash NOI exclude depreciation and amortization and capture neither the changes in the value of our data centers that result from use or market conditions, nor the level of
+capital expenditures and capitalized leasing commissions necessary to maintain the operating performance of our data centers, all of which have real economic effect and
+could materially impact our results from operations, the utility of NOI and cash NOI as measures of our performance is limited. Other REITs may calculate NOI and cash NOI
+differently than we do and, accordingly, our NOI and cash NOI may not be comparable to other REITs’ NOI and cash NOI. NOI and cash NOI should be considered only as
+supplements to net income computed in accordance with GAAP as measures of our performance.
+
+Additional Definitions
+GAAP refers to United States generally accepted accounting principles.
+Net debt-to-Adjusted EBITDA ratio is calculated as total debt at balance sheet carrying value, plus capital lease obligations, plus Digital Realty’s pro rata share of
+unconsolidated entities debt, less cash and cash equivalents (including Digital Realty’s pro rata share of unconsolidated entities cash) divided by the product of Adjusted
+EBITDA (including Digital Realty’s pro rata share of unconsolidated entities EBITDA), multiplied by four.
+Debt-plus-preferred-to-total enterprise value is total debt plus preferred stock divided by total debt plus the liquidation value of preferred stock and the market value of
+outstanding Digital Realty Trust, Inc. common stock and Digital Realty Trust, L.P. units, assuming the redemption of Digital Realty Trust, L.P. units for shares of Digital Realty
+Trust, Inc. common stock.
+Fixed charge coverage ratio is Adjusted EBITDA divided by the sum of GAAP interest expense, capitalized interest and preferred stock dividends. For the quarter ended
+June 30, 2025, GAAP interest expense was $109 million, capitalized interest was $29 million and preferred stock dividends was $10 million.
+Reconciliation of Net Operating Income (NOI)
+(in thousands)
+Operating income
+Fee income
+Other income
+
+30-Jun-25
+
+Three Months Ended
+31-Mar-25
+
+30-Jun-24
+
+Six Months Ended
+30-Jun-25
+30-Jun-24
+
+$211,697
+
+$195,750
+
+$9,889
+
+$407,447
+
+$159,256
+
+(34,427)
+
+(20,643)
+
+(15,656)
+
+(55,070)
+
+(28,666)
+
+(1,363)
+
+(133)
+
+(2,125)
+
+(1,496)
+
+(2,987)
+
+Depreciation and amortization
+
+461,167
+
+443,009
+
+425,343
+
+904,176
+
+856,445
+
+General and administrative
+
+133,755
+
+121,112
+
+119,511
+
+254,867
+
+233,931
+
+Severance, equity acceleration and legal expenses
+
+2,262
+
+2,428
+
+884
+
+4,690
+
+1,675
+
+Transaction and integration expenses
+
+22,546
+
+39,902
+
+26,072
+
+62,448
+
+57,911
+
+Provision for impairment
+
+—
+
+—
+
+168,303
+
+—
+
+168,303
+
+Other expenses
+
+195
+
+112
+
+(529)
+
+307
+
+10,306
+
+$795,832
+
+$781,536
+
+$731,692
+
+$1,577,369
+
+$1,456,175
+
+Net Operating Income
+
+$795,832
+
+$781,536
+
+$731,692
+
+$1,577,369
+
+$1,456,175
+
+Straight-line rental revenue
+
+(24,015)
+
+(9,693)
+
+(2,873)
+
+(33,708)
+
+(5,395)
+
+Straight-line rental expense
+
+(469)
+
+24
+
+959
+
+(445)
+
+2,328
+
+Above- and below-market rent amortization
+
+(752)
+
+(706)
+
+(1,691)
+
+(1,458)
+
+(2,545)
+
+$770,596
+
+$771,162
+
+$728,088
+
+$1,541,758
+
+$1,450,563
+
+Net Operating Income
+Cash Net Operating Income (Cash NOI)
+
+Cash Net Operating Income
+Constant Currency CFFO Reconciliation
+(in thousands, except per share data)
+
+Three Months Ended
+30-Jun-25
+
+30-Jun-24
+
+Six Months Ended
+30-Jun-25
+30-Jun-24
+
+Core FFO (1)
+Core FFO impact of holding '24 Exchange Rates Constant (2)
+
+$643,284
+(11,688)
+
+$538,482
+—
+
+$1,251,639
+(5,989)
+
+$1,070,634
+—
+
+Constant Currency Core FFO
+Weighted-average shares and units outstanding - diluted
+Constant Currency CFFO Per Share
+
+$631,596
+343,909
+$1.84
+
+$538,482
+326,181
+$1.65
+
+$1,245,650
+343,436
+$3.63
+
+$1,070,634
+322,619
+$3.32
+
+1)
+
+As reconciled to net income above.
+
+2)
+
+Adjustment calculated by holding currency translation rates for 2025 constant with average currency translation rates that were applicable to the same periods in 2024.
+
+32
+
+Forward-Looking Statements
+
+Financial Supplement
+Second Quarter 2025
+
+This document contains forward-looking statements within the meaning of the federal securities laws, which are based on current expectations, forecasts and assumptions that involve risks and
+uncertainties that could cause actual outcomes and results to differ materially. Such forward-looking statements include statements relating to: our economic outlook, our expected investment
+and expansion activity, anticipated continued demand for our products and service, our liquidity, our joint ventures, supply and demand for data center and colocation space, our acquisition and
+disposition activity, pricing and net effective leasing economics, market dynamics and data center fundamentals, our strategic priorities, our product offerings, available inventory, rent from leases
+that have been signed but have not yet commenced and other contracted rent to be received in future periods, rental rates on future leases, lag between signing and commencement, cap rates
+and yields, investment activity, the company’s FFO, Core FFO, constant currency Core FFO, adjusted FFO, and net income, 2025 outlook and underlying assumptions, information related to trends,
+our strategy and plans, leasing expectations, weighted average lease terms, the exercise of lease extensions, lease expirations, debt maturities, annualized rent at expiration of leases, the effect
+new leases and increases in rental rates will have on our rental revenue, our credit ratings, construction and development activity and plans, projected construction costs, estimated yields on
+investment, expected occupancy, expected square footage and IT load capacity upon completion of development projects, backlog NOI, NAV components, and other forward-looking financial
+data. Such statements are based on management’s beliefs and assumptions made based on information currently available to management. Such statements are subject to risks, uncertainties and
+assumptions and are not guarantees of future performance and may be affected by known and unknown risks, trends, uncertainties, and factors that are beyond our control. Should one or more
+of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those anticipated, estimated, or projected. Some of the risks
+and uncertainties that may cause our actual results, performance, or achievements to differ materially from those expressed or implied by forward-looking statements include, among others, the
+following:
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+reduced demand for data centers or decreases in information technology spending;
+decreased rental rates, increased operating costs or increased vacancy rates;
+increased competition or available supply of data center space;
+the suitability of our data centers and data center infrastructure, delays or disruptions in connectivity or availability of power, or failures or breaches of our physical and information
+security infrastructure or services;
+breaches of our obligations or restrictions under our contracts with our customers;
+our inability to successfully develop and lease new properties and development space, and delays or unexpected costs in development of properties;
+the impact of current global and local economic, credit and market conditions;
+increased tariffs, global supply chain or procurement disruptions, or increased supply chain costs;
+the impact from periods of heightened inflation on our costs, such as operating and general and administrative expenses, interest expense and real estate acquisition and construction
+costs;
+the impact on our customers’ and our suppliers’ operations during an epidemic, pandemic, or other global events;
+our dependence upon significant customers, bankruptcy or insolvency of a major customer or a significant number of smaller customers, or defaults on or non-renewal of leases by
+customers;
+changes in political conditions, geopolitical turmoil, political instability, civil disturbances, restrictive governmental actions or nationalization in the countries in which we operate;
+our inability to retain data center space that we lease or sublease from third parties;
+information security and data privacy breaches;
+difficulties managing an international business and acquiring or operating properties in foreign jurisdictions and unfamiliar metropolitan areas;
+our failure to realize the intended benefits from, or disruptions to our plans and operations or unknown or contingent liabilities related to, our recent and future acquisitions;
+our failure to successfully integrate and operate acquired or developed properties or businesses;
+difficulties in identifying properties to acquire and completing acquisitions;
+risks related to joint venture investments, including as a result of our lack of control of such investments;
+risks associated with using debt to fund our business activities, including re-financing and interest rate risks, our failure to repay debt when due, adverse changes in our credit ratings
+or our breach of covenants or other terms contained in our loan facilities and agreements;
+our failure to obtain necessary debt and equity financing, and our dependence on external sources of capital;
+financial market fluctuations and changes in foreign currency exchange rates;
+adverse economic or real estate developments in our industry or the industry sectors that we sell to, including risks relating to decreasing real estate valuations and impairment
+charges and goodwill and other intangible asset impairment charges;
+our inability to manage our growth effectively;
+losses in excess of our insurance coverage;
+our inability to attract and retain talent;
+environmental liabilities, risks related to natural disasters and our inability to achieve our sustainability goals;
+the expected operating performance of anticipated near-term acquisitions and descriptions relating to these expectations;
+our inability to comply with rules and regulations applicable to our company;
+Digital Realty Trust, Inc.’s failure to maintain its status as a REIT for U.S. federal income tax purposes;
+Digital Realty Trust, L.P.’s failure to qualify as a partnership for U.S. federal income tax purposes;
+restrictions on our ability to engage in certain business activities;
+changes in local, state, federal and international laws, and regulations, including related to taxation, real estate, and zoning laws, and increases in real property tax rates; and
+the impact of any financial, accounting, legal or regulatory issues or litigation that may affect us.
+
+The risks included here are not exhaustive, and additional factors could adversely affect our business and financial performance. Several additional material risks are discussed in our annual report
+on Form 10-K for the year ended December 31, 2024, and other filings with the U.S. Securities and Exchange Commission. Those risks continue to be relevant to our performance and financial
+condition. Moreover, we operate in a competitive and rapidly changing environment. New risk factors emerge from time to time and it is not possible for management to predict all such risk
+factors, nor can it assess the impact of all such risk factors on the business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those
+contained in any forward-looking statements. We expressly disclaim any responsibility to update forward-looking statements, whether as a result of new information, future events or otherwise.
+Digital Realty, Digital Realty Trust, the Digital Realty logo, Interxion, Turn-Key Flex, Powered Base Building, ServiceFabric, AnyScale Colo, Pervasive Data Center Architecture, PlatformDIGITAL, PDx,
+Data Gravity Index and Data Gravity Index DGx are registered trademarks and service marks of Digital Realty Trust, Inc. in the United States and/or other countries. All other names, trademarks
+and service marks are the property of their respective owners.
+
+33
+
+

@@ -1,0 +1,1910 @@
+Digital Realty Reports Third Quarter Results
+Company Release - 10/29/2013 17:05
+
+SAN FRANCISCO, Oct. 29, 2013 /PRNewswire/ -- Digital Realty Trust, Inc. (NYSE: DLR), a leading global provider of data center
+solutions, announced today financial results for the third quarter of 2013. All per share results are shown on a diluted share and
+unit basis.
+Highlights
+●
+●
+●
+●
+
+●
+●
+●
+
+Reported FFO per share of $1.10 in 3Q13, vs. $1.13 in 3Q12;
+3Q13 results include a $10 million ($0.07 per share) non-cash straight-line rent expense adjustment;
+Reported core FFO per share of $1.16 in 3Q13, vs. $1.13 in 3Q12;
+Signed leases during 3Q13 expected to generate $47.3 million in annualized GAAP rental revenue, which is the thirdhighest quarter in the company's history;
+Closed previously announced $369 million joint venture at a 6.7% cap rate;
+Announced a $500 million share repurchase authorization; and
+Revised 2013 FFO per share outlook to $4.60-$4.62 vs. $4.73-$4.82 previously, and revised 2013 core FFO per share
+outlook to $4.65-$4.67 vs. $4.74-$4.83 previously.
+
+Funds From Operations
+Funds from operations ("FFO"), on a diluted basis, was $151.4 million in the third quarter of 2013, or $1.10 per share, compared
+to $1.22 per share in the second quarter of 2013 and $1.13 per share in the third quarter of 2012. Excluding certain items that do
+not represent core expenses or revenue streams, third quarter 2013 core FFO was $1.16 per share, compared to $1.19 per share
+in the second quarter of 2013 and $1.13 per share in the third quarter of 2012.
+Third quarter 2013 results include a $10 million ($0.07 per share) non-cash straight-line rent expense adjustment related to the
+company's leasehold interest at 111 8th Avenue in New York. In September 2010, Digital Realty executed an extension and
+modification of this leasehold interest, which had been previously scheduled to expire in June 2014, and extended the expiration
+of the leasehold for another 10 years to June 2024. The company has determined that it should have adjusted the straight-line
+rent expense recorded on this leasehold interest when the modification was executed in September 2010. The $10 million
+adjustment recorded during the third quarter of 2013 represents a catch-up of the non-cash straight-line rent that should have
+been recorded from the fourth quarter of 2010 through the third quarter of 2013 at a run-rate of approximately $830,000 per
+quarter. The entire prior period adjustment has been included in FFO, whereas only the current period portion of $830,000 has
+been included in core FFO for the third quarter of 2013.
+Leasing Activity
+"We signed new leases totaling $47 million of annualized GAAP rental revenue during the third quarter, including nearly $28
+million since the second quarter earnings call in late July. This represents the third-highest quarter in the company's history, and
+the dollar volume of leases signed year-to-date has already exceeded the full-year activity in 2012," said Michael F. Foust, Digital
+Realty's Chief Executive Officer.
+"We are disappointed with the third quarter financial results, but the robust leasing velocity gives us confidence in the underlying
+health of the business as well as customer demand for Digital Realty's data center solutions. While lease commencements
+have lagged our initial expectations, the solid backlog of leases signed-but-not-yet-commenced represents contractual
+obligations for future rental revenue, and sets the stage for healthy growth in cash flows over the intermediate term."
+In addition to the new leases signed, Digital Realty also signed renewal leases totaling approximately $45 million of annualized
+GAAP rental revenue during the third quarter, notably including 480,000 square feet of Powered Base Building® data centers.
+Rental rates on renewal leases signed during the third quarter of 2013 rolled up 2.2% on a cash basis and 24.2% on a GAAP
+basis.
+New leases signed during the third quarter of 2013 by region and product type are summarized as follows:
+
+North America
+
+Annualized GAAP Rent (in thousands)
+
+Square Feet
+
+GAAP Rent / Sq. Ft.
+
+MW
+
+GAAP Rent / kW
+
+Turn-Key Flex
+
+$27,393
+
+202,653
+
+$135
+
+14.6
+
+$156
+
+Custom Solutions
+
+4,029
+
+23,322
+
+173
+
+2.0
+
+168
+
+Colocation
+
+2,517
+
+16,154
+
+156
+
+1.0
+
+220
+
+682
+
+29,992
+
+23
+
+-
+
+-
+
+$34,621
+
+272,121
+
+$127
+
+17.6
+
+$162
+
+$5,016
+
+30,468
+
+$165
+
+2.5
+
+$168
+
+Custom Solutions
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Colocation
+
+-
+
+-
+
+-
+
+-
+
+-
+
+33
+
+773
+
+43
+
+-
+
+-
+
+$5,049
+
+31,241
+
+$162
+
+2.5
+
+$168
+
+$6,695
+
+32,206
+
+$208
+
+2.0
+
+$279
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Colocation
+
+934
+
+4,741
+
+197
+
+0.3
+
+247
+
+Non-Technical
+
+11
+
+250
+
+43
+
+-
+
+-
+
+$7,640
+
+37,197
+
+$205
+
+2.3
+
+$275
+
+$47,309
+
+340,559
+
+$139
+
+22.4
+
+$173
+
+Non-Technical
+Total
+
+Europe(1)
+Turn-Key Flex
+
+Non-Technical
+Total
+
+Asia Pac(1)
+Turn-Key Flex
+Custom Solutions
+
+Total
+Grand Total
+(1)
+
+Based on quarterly average exchange rates during the three months ended September 30, 2013.
+
+Investment Activity
+Digital Realty did not acquire any income-producing properties during the third quarter of 2013.
+In August 2013, the company entered the Japan market with the acquisition of a 3.7 acre land site in Osaka for a purchase price
+of $9.6 million. Digital Realty expects to commence development of a new data center in the fourth quarter of 2013, which will be
+scheduled to open in the fourth quarter of 2014 and deliver 4.0 megawatts of IT capacity.
+In September 2013, the company also acquired one land parcel in London and one in Amsterdam for a total purchase price of
+$25.9 million. The 11.4 acre land site in London was acquired for a previously contracted build-to-suit project. The first stage of
+this multi-phased development project of a two-building data center campus is expected to deliver a four-pod building with 12
+megawatts of IT load. The 5.4 acre land site in Amsterdam is a multi-phased development project that is expected to support a
+six-pod building with 11.5 megawatts of IT load.
+In September 2013, the company formed a $369 million joint venture with an investment fund managed by Prudential Real Estate
+Investors ("PREI"). Digital Realty contributed to the joint venture nine Powered Base Building® data centers totaling 1.06 million
+square feet and valued at approximately $345 per square foot. The properties are expected to generate cash net operating
+income of approximately $24.5 million in 2013, representing a 6.7% cap rate. The properties are 100% leased, with an average
+remaining lease term of approximately nine years. The PREI®-managed fund took an 80% interest in the joint venture and Digital
+Realty retained a 20% interest.
+Balance Sheet
+Digital Realty had $4.8 billion of total debt outstanding as of September 30, 2013, comprised of $4.1 billion of unsecured debt
+and $0.7 billion of secured debt. At the end of the third quarter, debt-to-adjusted EBITDA was 5.4x, debt-plus-preferred-to-totalenterprise-value was 44.1% and fixed charge coverage was 3.5x.
+In August 2013, Digital Realty completed the refinancing of its global revolving credit facility and multi-currency term loan. In the
+process, the line of credit was upsized from $1.8 billion to $2.0 billion and the term loan was upsized from $750 million to $1.0
+billion. All-in pricing for the line of credit was reduced from 150 basis points to 130 basis points, and all-in pricing for the term
+loan was reduced from 145 basis points to 120 basis points. The maturity date for the line of credit was extended by two years to
+November 2017, not including two six month extension options. The maturity date on the term loan is unchanged and remains
+April 2017, with two six-month extension options added.
+
+In October 2013, Digital Realty's board of directors approved a $500 million share repurchase program, which the company may
+use to opportunistically reacquire shares based on the then-current share price and capital allocation alternatives.
+Revised 2013 Outlook
+"With improved visibility on the range of outcomes for full-year results, we are revising our 2013 FFO per share outlook to $4.60$4.62 down from $4.73-$4.82 previously, and revising our 2013 core FFO per share outlook to $4.65-$4.67 down from the prior
+range of $4.74-$4.83," said A. William Stein, Digital Realty's CFO and Chief Investment Officer.
+"The primary drivers behind our revised outlook include: the non-cash straight-line rent expense adjustment; the near-term
+reinvestment drag until proceeds from the joint venture with PREI can be accretively redeployed; lower-than-expected acquisitions
+of income-producing properties; and delayed lease commencements, reflecting the needs of strategic customers for phased
+delivery of custom-built space for large-scale requirements on long lease terms."
+The 2013 guidance provided by Digital Realty in this press release is based on the following assumptions as of October 29,
+2013:
+●
+●
+●
+●
+●
+●
+●
+●
+
+Data center space delivered representing approximately $800 million generating ROI of 10%-12%;
+Digital Design Services revenue of $3 million;
+Acquisitions of income-producing properties totaling $85-$140 million at an average cap rate of 8.5%-9.5%;
+Development capital expenditures of $1.05-$1.125 billion;
+Recurring capital expenditures and capitalized leasing costs of $70-$75 million;
+Total G&A expense of $67 million;
+Transaction expenses of $4-$5 million; and
+FX rates (USD per currency): Euro = 1.33; Pound = 1.56; SGD = 0.79; and AUS = 0.92.
+
+Preliminary 2014 Outlook
+Digital Realty is providing its preliminary 2014 outlook in this press release, based on the following assumptions as of October
+29, 2013:
+Internal Growth
+●
+●
+
+●
+
+Rental rates on renewal leases are expected to be roughly flat on a cash basis, and modestly positive on a GAAP basis
+Operating margin is expected to be approximately 25-75 basis points lower than the historical run-rate, reflecting a higher
+mix of gross leases on Turn-Key Flex data centers, and a reduced exposure to triple-net leases on Powered Base
+Building® product as a result of our contribution of nine Powered Base Buildings® to our joint venture with PREI
+Overhead load is expected to trend in line with the historical average, with G&A at approximately 75-85 basis points on
+total assets
+
+External Growth
+●
+
+●
+●
+●
+
+Acquisitions of income-producing properties projected to be in the range of $0-$400 million at an average cap rate of
+7.5%-8.5%
+Potential joint ventures in the range of $0-$400 million at an average cap rate of 6.75%-7.25%
+Development capital expenditures of $600-$800 million at 10%-12% stabilized yields
+Recurring capital expenditures and capitalized leasing costs of $75-$80 million
+
+Balance Sheet
+●
+●
+●
+
+$100-$250 million preferred equity offering at a 7.5%-8.0% coupon in late 2013 or early 2014
+$700-$900 million 10-year USD and/or Sterling bond offerings at 4.75%-5.25% in late 2013 or early 2014
+Financing charges are expected to be higher in 2014, reflecting lower capitalized interest on development, front-loading
+the issuance of long-term capital towards the beginning of the year, as well as a rising interest rate environment
+
+Funds from Operations
+●
+
+Mid-single-digit FFO per share growth
+
+Non-GAAP Financial Measures
+This press release contains non-GAAP financial measures, including FFO and Adjusted EBITDA. A reconciliation from U.S. GAAP
+net income available to common stockholders to FFO, a definition of FFO, a reconciliation from FFO to core FFO, and a definition
+of core FFO are included as an attachment to this press release. A reconciliation from U.S. GAAP net income available to
+common stockholders to Adjusted EBITDA, a definition of Adjusted EBITDA, a definition of debt plus preferred to total enterprise
+value, and a definition of fixed charge coverage ratio are included as an attachment to this press release.
+
+Investor Conference Call
+Before the market opens on Wednesday, October 30, 2013, Digital Realty will post a presentation to the Investors section of the
+company's website at http://investor.digitalrealty.com. The presentation is designed to accompany the conference call Digital
+Realty will host at 1:00 p.m. EDT / 10:00 a.m. PDT on Wednesday, October 30, 2013 to discuss its third quarter 2013 financial
+results and operating performance. The conference call will feature Michael F. Foust, Chief Executive Officer, A. William Stein,
+Chief Financial Officer and Chief Investment Officer as well as Matt Miszewski, Senior Vice President, Sales. To participate in the
+live call, investors are invited to dial +1 (888) 701-6680 (for domestic callers) or +1 (706) 634-5758 (for international callers) and
+provide the conference ID # 73325593 at least five minutes prior to start time. A live webcast of the call will be available via the
+Investors section of Digital Realty's website at http://investor.digitalrealty.com.
+Telephone and webcast replays will be available until 11:59 p.m. EDT on Friday, November 29, 2013. The telephone replay can
+be accessed two hours after the call by dialing +1 (855) 859-2056 (for domestic callers) or +1 (404) 537-3406 (for international
+callers) and providing the conference ID # 73325593. The webcast replay can be accessed on Digital Realty's website
+immediately after the live call has concluded.
+About Digital Realty
+Digital Realty Trust, Inc. focuses on delivering customer-driven data center solutions by providing secure, reliable and costeffective facilities that meet each customer's unique data center needs. Digital Realty's customers include domestic and
+international companies across multiple industry verticals ranging from financial services, cloud and information technology
+services, to manufacturing, energy, health care and consumer products. Digital Realty's 130 properties, including twelve
+properties held as investments in unconsolidated joint ventures, comprise approximately 23.8 million square feet as of
+September 30, 2013, including 2.8 million square feet of space held for development. Digital Realty's portfolio is located in 33
+markets throughout North America, Europe, Asia and Australia. Additional information about Digital Realty is included in the
+Company Overview, which is available on the Investors page of Digital Realty's website at http://www.digitalrealty.com.
+Safe Harbor Statement
+This press release contains forward-looking statements which are based on current expectations, forecasts and assumptions
+that involve risks and uncertainties that could cause actual outcomes and results to differ materially, including statements related
+to supply and demand for data center space; leasing volume and pipeline; rent from leases that have been signed but have not
+yet commenced and other contracted rent to be received in future periods; rental rates on future leases; our joint venture with
+PREI, expected cash net operating income from these properties and strategy of accessing capital; development plans and
+expected timing, size and IT capacity of development projects; expectations regarding the company's future growth, financial
+resources and success; the company's revised 2013 FFO, core FFO and net income outlook and underlying assumptions; and
+the company's 2014 preliminary outlook, FFO guidance and underlying assumptions. These risks and uncertainties include,
+among others, the following: the impact of the recent deterioration in global economic, credit and market conditions, including the
+downgrade of the U.S. government's credit rating; current local economic conditions in our geographic markets; decreases in
+information technology spending, including as a result of economic slowdowns or recession; adverse economic or real estate
+developments in our industry or the industry sectors that we sell to (including risks relating to decreasing real estate valuations
+and impairment charges); our dependence upon significant tenants; bankruptcy or insolvency of a major tenant or a significant
+number of smaller tenants; defaults on or non-renewal of leases by tenants; our failure to obtain necessary debt and equity
+financing; increased interest rates and operating costs; risks associated with using debt to fund our business activities, including
+re-financing and interest rate risks, our failure to repay debt when due, adverse changes in our credit ratings or our breach of
+covenants or other terms contained in our loan facilities and agreements; financial market fluctuations; changes in foreign
+currency exchange rates; our inability to manage our growth effectively; difficulty acquiring or operating properties in foreign
+jurisdictions; our failure to successfully integrate and operate acquired or developed properties or businesses; the suitability of
+our properties and data center infrastructure, delays or disruptions in connectivity, failure of our physical infrastructure or services
+or availability of power; risks related to joint venture investments, including as a result of our lack of control of such investments;
+delays or unexpected costs in development of properties; decreased rental rates or increased vacancy rates; increased
+competition or available supply of data center space; our inability to successfully develop and lease new properties and space
+held for development; difficulties in identifying properties to acquire and completing acquisitions; our inability to acquire off-market
+properties; our inability to comply with the rules and regulations applicable to reporting companies; our failure to maintain our
+status as a REIT; possible adverse changes to tax laws; restrictions on our ability to engage in certain business activities;
+environmental uncertainties and risks related to natural disasters; losses in excess of our insurance coverage; changes in
+foreign laws and regulations, including those related to taxation and real estate ownership and operation; and changes in local,
+state and federal regulatory requirements, including changes in real estate and zoning laws and increases in real property tax
+rates. For a further list and description of such risks and uncertainties, see the reports and other filings by the company with the
+U.S. Securities and Exchange Commission, including the company's Annual Report on Form 10-K for the year ended December
+31, 2012 and Quarterly Reports on Form 10-Q for the quarters ended March 31, 2013 and June 30, 2013. The company
+disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information,
+future events or otherwise.
+
+For Additional Information:
+
+A. William Stein
+
+John J. Stewart
+
+Chief Financial Officer and
+
+Senior Vice President
+
+Chief Investment Officer
+
+Investor Relations
+
+Digital Realty Trust, Inc
+
+Digital Realty Trust, Inc.
+
++1 (415) 738-6500
+
++1 (415) 738-6500
+
+Digital Realty Trust, Inc. and Subsidiaries
+Condensed Consolidated Income Statements
+(in thousands, except share and per share data)
+(unaudited)
+
+Three Months Ended
+September 30,
+2013
+
+Nine Months Ended
+September 30,
+2013
+
+September 30, 2012
+
+September 30, 2012
+
+Operating Revenues:
+
+Rental
+
+$
+
+290,712
+
+$
+
+260,052
+
+$
+
+858,064
+
+$
+
+717,809
+
+Tenant reimbursements
+
+88,059
+
+78,878
+
+240,657
+
+197,162
+
+Construction management
+
+671
+
+2,497
+
+2,205
+
+6,903
+
+Other
+
+14
+
+1,052
+
+402
+
+7,457
+
+379,456
+
+342,479
+
+1,101,328
+
+929,331
+
+Rental property operating and
+maintenance
+
+128,291
+
+106,660
+
+341,407
+
+274,081
+
+Property taxes
+
+26,074
+
+17,982
+
+66,490
+
+49,793
+
+Insurance
+
+2,144
+
+2,463
+
+6,587
+
+6,953
+
+51
+
+623
+
+729
+
+1,412
+
+Depreciation and amortization
+
+121,198
+
+101,840
+
+348,688
+
+274,835
+
+General and administrative
+
+16,275
+
+14,409
+
+50,117
+
+43,768
+
+243
+
+504
+
+3,497
+
+5,789
+
+3
+
+923
+
+56
+
+1,260
+
+Total operating expenses
+
+294,279
+
+245,404
+
+817,571
+
+657,891
+
+Operating income
+
+85,177
+
+97,075
+
+283,757
+
+271,440
+
+Equity in earnings of
+unconsolidated joint ventures
+
+2,174
+
+1,520
+
+6,839
+
+6,402
+
+Gain on insurance settlement
+
+-
+
+-
+
+5,597
+
+-
+
+115,054
+
+-
+
+115,054
+
+-
+
+(127)
+
+83
+
+(92)
+
+2,008
+
+(47,742)
+
+(41,047)
+
+(143,403)
+
+(116,758)
+
+Tax expense
+
+(352)
+
+(710)
+
+(1,765)
+
+(2,637)
+
+Loss from early extinguishment
+of debt
+
+(704)
+
+-
+
+(1,205)
+
+(303)
+
+Total operating revenues
+
+Operating Expenses:
+
+Construction management
+
+Transactions
+Other
+
+Other Income (Expenses):
+
+Gain on contribution of properties
+to unconsolidated joint venture
+Interest and other income
+Interest expense
+
+Net Income
+
+153,480
+
+56,921
+
+264,782
+
+160,152
+
+Net income attributable to
+noncontrolling interests
+
+(2,882)
+
+(1,529)
+
+(4,997)
+
+(4,384)
+
+Net Income Attributable to
+Digital Realty Trust, Inc.
+
+150,598
+
+55,392
+
+259,785
+
+155,768
+
+Preferred stock dividends
+
+(11,726)
+
+(9,777)
+
+(31,179)
+
+(28,921)
+
+Net Income Available to
+Common Stockholders
+
+$
+
+138,872
+
+$
+
+45,615
+
+$
+
+228,606
+
+$
+
+126,847
+
+Basic
+
+$
+
+1.08
+
+$
+
+0.37
+
+$
+
+1.79
+
+$
+
+1.12
+
+Diluted
+
+$
+
+1.06
+
+$
+
+0.37
+
+$
+
+1.79
+
+$
+
+1.12
+
+Net income per share available to
+common stockholders:
+
+Weighted average shares
+outstanding:
+Basic
+
+128,427,444
+
+122,026,421
+
+127,771,419
+
+112,995,512
+
+Diluted
+
+135,301,765
+
+122,353,511
+
+127,955,769
+
+113,275,221
+
+Digital Realty Trust, Inc. and Subsidiaries
+Condensed Consolidated Balance Sheets
+(in thousands)
+
+September 30, 2013
+ASSETS
+
+December 31, 2012
+
+(unaudited)
+
+Investments in real estate
+Properties:
+Land
+Acquired ground leases
+
+$
+
+684,644
+
+$
+
+661,058
+
+14,355
+
+13,658
+
+8,357,786
+
+7,662,973
+
+466,616
+
+404,830
+
+Total investments in properties
+
+9,523,401
+
+8,742,519
+
+Accumulated depreciation and amortization
+
+(1,459,055)
+
+(1,206,017)
+
+Net investments in properties
+
+8,064,346
+
+7,536,502
+
+Land held for sale
+
+11,015
+
+-
+
+Investment in unconsolidated joint ventures
+
+53,066
+
+66,634
+
+Net investments in real estate
+
+8,128,427
+
+7,603,136
+
+Cash and cash equivalents
+
+55,118
+
+56,281
+
+Accounts and other receivables, net
+
+191,715
+
+168,286
+
+Deferred rent
+
+369,979
+
+321,715
+
+Acquired above market leases, net
+
+54,446
+
+65,055
+
+Acquired in place lease value and deferred leasing costs, net
+
+484,445
+
+495,205
+
+Buildings and improvements
+Tenant improvements
+
+Deferred financing costs, net
+
+39,132
+
+30,621
+
+Restricted cash
+
+42,457
+
+44,050
+
+Other assets
+
+60,322
+
+34,865
+
+Total Assets
+
+$
+
+9,426,041
+
+$
+
+8,819,214
+
+$
+
+498,082
+
+$
+
+723,729
+
+LIABILITIES AND EQUITY
+
+Global revolving credit facility
+Unsecured term loan
+
+950,205
+
+757,839
+
+2,382,059
+
+1,738,221
+
+Exchangeable senior debentures
+
+266,400
+
+266,400
+
+Mortgage loans, net of premiums
+
+683,651
+
+792,376
+
+Accounts payable and other accrued liabilities
+
+652,720
+
+646,427
+
+Accrued dividends and distributions
+
+-
+
+93,434
+
+Acquired below market leases, net
+
+133,625
+
+148,233
+
+Security deposits and prepaid rents
+
+178,730
+
+154,171
+
+5,745,472
+
+5,320,830
+
+3,643,482
+
+3,468,305
+
+37,087
+
+30,079
+
+3,680,569
+
+3,498,384
+
+Unsecured senior notes, net of discount
+
+Total Liabilities
+
+Equity:
+Stockholders' equity
+Noncontrolling interests
+Total Equity
+
+$
+
+Total Liabilities and Equity
+
+9,426,041
+
+$
+
+8,819,214
+
+Digital Realty Trust, Inc. and Subsidiaries
+Reconciliation of Net Income Available to Common Stockholders to Funds From Operations (FFO)
+(in thousands, except per share and unit data)
+(unaudited)
+
+Three Months Ended
+
+Net income
+available to
+common
+stockholders
+
+Nine Months Ended
+
+September 30, 2013
+
+June 30, 2013
+
+September 30, 2012
+
+September 30, 2013
+
+September 30, 2012
+
+$
+
+$
+
+$
+
+$
+
+$
+
+138,872
+
+47,077
+
+45,615
+
+228,606
+
+126,847
+
+Adjustments:
+Noncontrolling
+interests in
+operating
+partnership
+
+2,757
+
+936
+
+1,574
+
+4,517
+
+4,821
+
+Real estate
+related
+depreciation and
+amortization (1)
+
+120,006
+
+114,913
+
+100,994
+
+345,609
+
+272,173
+
+Real estate
+related
+depreciation and
+
+amortization
+related to
+investment
+in unconsolidated
+joint ventures
+
+788
+
+797
+
+710
+
+2,418
+
+2,481
+
+Gain on
+contribution of
+properties to
+unconsolidated
+joint venture
+
+(115,054)
+
+-
+
+-
+
+(115,054)
+
+-
+
+Gain on sale of
+assets held in
+unconsolidated
+joint venture
+
+-
+
+-
+
+-
+
+-
+
+(2,325)
+
+FFO available to
+common
+stockholders and
+unitholders (2)
+
+$
+
+147,369
+
+$
+
+163,723
+
+$
+
+148,893
+
+$
+
+466,096
+
+$
+
+403,997
+
+Basic FFO per
+share and unit
+
+$
+
+1.13
+
+$
+
+1.25
+
+$
+
+1.18
+
+$
+
+3.58
+
+$
+
+3.44
+
+Diluted FFO per
+share and unit (2)
+
+$
+
+1.10
+
+$
+
+1.22
+
+$
+
+1.13
+
+$
+
+3.47
+
+$
+
+3.28
+
+Weighted average
+common stock and
+units outstanding
+Basic
+
+130,977
+
+130,974
+
+126,243
+
+130,287
+
+117,291
+
+Diluted (2)
+
+137,851
+
+137,787
+
+137,304
+
+137,728
+
+129,439
+
+Depreciation and
+amortization per
+income statement
+
+121,198
+
+115,867
+
+101,840
+
+348,688
+
+274,835
+
+Non-real estate
+depreciation
+
+(1,192)
+
+(954)
+
+(846)
+
+(3,079)
+
+(2,662)
+
+(1) Real estate
+related
+depreciation and
+amortization was
+computed as
+follows:
+
+$
+
+120,006
+
+$
+
+114,913
+
+$
+
+100,994
+
+$
+
+345,609
+
+(2) At September 30, 2013, we had 0 series D convertible preferred shares outstanding, as a result of the
+conversion of all remaining shares on February 26, 2013, which calculates into 629 common shares on a weighted
+average basis for the nine months ended September 30, 2013. At September 30, 2012, we had 5,098 series D
+convertible preferred shares outstanding that were convertible into 4,219 common shares on a weighted average
+basis for the three months ended September 30, 2012. At September 30, 2012, we had 0 series C convertible
+preferred shares (as a result of the conversion of all remaining shares on April 17, 2012) and 5,098 series D
+convertible preferred shares outstanding that were convertible into 1,087 common shares and 4,310 common
+shares on a weighted average basis for the nine months ended September 30, 2012, respectively. For the three
+months ended September 30, 2013, June 30, 2013 and September 30, 2012, we have excluded the effect of dilutive
+series E, series F and series G preferred stock, as applicable, that may be converted upon the occurrence of
+specified change in control transactions as described in the articles supplementary governing the series E, series F
+and series G preferred stock, as applicable, which we consider highly improbable; if included, the dilutive effect for
+the three months ended September 30, 2013, June 30, 2013 and September 30, 2012 would be 12,734, 11,949 and
+6,784 shares, respectively. For the nine months ended September 30, 2013 and September 30, 2012, we have
+excluded the effect of dilutive series E, series F and series G preferred stock, as applicable, that may be converted
+upon the occurrence of specified change in control transactions as described in the articles supplementary
+governing the series E, series F and series G preferred stock, as applicable, which we consider highly improbable;
+if included, the dilutive effect for the nine months ended September 30, 2013 and September 30, 2012 would be
+10,851 and 5,289 shares, respectively. In addition, we had a balance of $266,400 of 5.50% exchangeable senior
+debentures due 2029 that were exchangeable for 6,684, 6,610 and 6,515 common shares on a weighted average
+basis for the three months ended September 30, 2013, June 30, 2013 and September 30, 2012, respectively, and
+
+$
+
+272,173
+
+were exchangeable for 6,628 and 6,471 common shares on a weighted average basis for the nine months ended
+September 30, 2013 and September 30, 2012, respectively. See below for calculations of diluted FFO available to
+common stockholders and unitholders and weighted average common stock and units outstanding.
+
+Three Months Ended
+
+FFO available to
+common
+stockholders and
+unitholders
+
+Nine Months Ended
+
+September 30, 2013
+
+June 30, 2013
+
+September 30, 2012
+
+September 30, 2013
+
+September 30, 2012
+
+$
+
+$
+
+$
+
+$
+
+$
+
+147,369
+
+163,723
+
+148,893
+
+466,096
+
+403,997
+
+Add: Series C
+convertible
+preferred
+dividends
+
+-
+
+-
+
+-
+
+-
+
+1,402
+
+Add: Series D
+convertible
+preferred
+dividends
+
+-
+
+-
+
+1,723
+
+-
+
+6,515
+
+4,050
+
+4,050
+
+4,050
+
+12,150
+
+12,150
+
+Add: 5.50%
+exchangeable
+senior debentures
+interest expense
+
+FFO available to
+common
+stockholders and
+unitholders -diluted
+
+$
+
+151,419
+
+$
+
+167,773
+
+$
+
+154,666
+
+$
+
+478,246
+
+$
+
+424,064
+
+Weighted average
+common stock and
+units outstanding
+
+130,977
+
+130,974
+
+126,243
+
+130,287
+
+117,291
+
+Add: Effect of
+dilutive securities
+(excluding series
+C and D
+convertible
+preferred
+stock and 5.50%
+exchangeable
+senior
+debentures)
+
+190
+
+203
+
+327
+
+184
+
+280
+
+Add: Effect of
+dilutive series C
+convertible
+preferred stock
+
+-
+
+-
+
+-
+
+-
+
+1,087
+
+Add: Effect of
+dilutive series D
+convertible
+preferred stock
+
+-
+
+-
+
+4,219
+
+629
+
+4,310
+
+Add: Effect of
+dilutive 5.50%
+exchangeable
+senior debentures
+
+6,684
+
+6,610
+
+6,515
+
+6,628
+
+6,471
+
+Weighted average
+common stock and
+units outstanding - diluted
+
+137,851
+
+137,787
+
+137,304
+
+137,728
+
+129,439
+
+Digital Realty Trust, Inc. and Subsidiaries
+Reconciliation of Funds From Operations (FFO) to Core Funds From Operations (CFFO)
+
+(in thousands, except per share and unit data)
+(unaudited)
+
+Three Months Ended
+
+FFO available to
+common
+stockholders and
+unitholders -diluted
+
+Nine Months Ended
+
+September 30, 2013
+
+June 30, 2013
+
+September 30, 2012
+
+September 30, 2013
+
+September 30, 2012
+
+$
+
+$
+
+$
+
+$
+
+$
+
+151,419
+
+167,773
+
+154,666
+
+478,246
+
+424,064
+
+Termination fees
+and other noncore revenues
+(3)
+
+(14)
+
+(140)
+
+(1,052)
+
+(402)
+
+(8,876)
+
+Gain on
+insurance
+settlement
+
+-
+
+(5,597)
+
+-
+
+(5,597)
+
+-
+
+Significant
+transaction
+expenses
+
+243
+
+1,491
+
+504
+
+3,497
+
+5,789
+
+Loss from early
+extinguishment
+of debt
+
+704
+
+501
+
+-
+
+1,205
+
+303
+
+9,155
+
+-
+
+-
+
+7,489
+
+-
+
+(943)
+
+(370)
+
+-
+
+(13)
+
+-
+
+3
+
+17
+
+923
+
+56
+
+1,260
+
+Straight-line rent
+expense
+adjustment
+attributable to
+prior periods (4)
+
+Change in fair
+value of
+contingent
+consideration (5)
+Other non-core
+expense
+adjustments (6)
+
+CFFO available to
+common
+stockholders and
+unitholders -diluted
+
+$
+
+160,567
+
+$
+
+163,675
+
+$
+
+155,041
+
+$
+
+484,481
+
+$
+
+422,540
+
+Diluted CFFO per
+share and unit
+
+$
+
+1.16
+
+$
+
+1.19
+
+$
+
+1.13
+
+$
+
+3.52
+
+$
+
+3.26
+
+(3) Includes one-time fees, proceeds and certain other adjustments that are not core to our business.
+(4) Impact for the three months ended June 30, 2013 and September 30, 2012 and the nine months ended September 30, 2012 would have
+resulted in additional expense of $833, $833 and $2,499, respectively. CFFO per share and unit, as adjusted, would have been $1.18, $1.12
+and $3.25 for the above periods, respectively.
+(5) Relates to earn-out contingency in connection with Sentrum Portfolio acquisition.
+(6) Includes reversal of accruals and certain other adjustments that are not core to our business.
+
+Digital Realty Trust, Inc. and Subsidiaries
+Reconciliation of Net Income Available to Common Stockholders to Earnings Before Interest, Taxes, Depreciation and Amortization (EBITDA) and
+Adjusted EBITDA
+(in thousands)
+
+(unaudited)
+
+Three Months
+Ended
+September 30, 2013
+Net income
+available to
+common
+stockholders
+
+$
+
+Interest
+
+138,872
+
+47,742
+
+Loss from early
+extinguishment of
+debt
+
+704
+
+Taxes
+
+352
+
+Depreciation and
+amortization
+
+121,198
+
+EBITDA
+
+308,868
+
+Straight-line rent
+expense
+adjustment
+attributable to prior
+periods
+
+9,155
+
+Gain on
+contribution of
+properties to
+unconsolidated
+joint venture
+
+(115,054)
+
+Noncontrolling
+interests
+
+2,882
+
+Preferred stock
+dividends
+
+11,726
+
+Adjusted EBITDA
+
+$
+
+217,577
+
+A reconciliation of the range of 2013 projected net income to projected FFO and core FFO follows:
+
+Low - High
+Net income available to common stockholders per diluted share
+
+$2.02 – 2.04
+
+Add:
+Real estate depreciation and amortization
+
+$3.62
+
+Less:
+Dilutive impact of convertible stock
+
+($0.15)
+
+Less:
+Gain from change in control of investment properties
+
+Projected FFO per diluted share
+
+Adjustments for items that do not represent core expenses and revenue streams
+
+Projected core FFO per diluted share
+
+($0.89)
+
+$4.60– 4.62
+
+$0.05
+
+$4.65– 4.67
+
+Funds From Operations
+Digital Realty calculates Funds from Operations, or FFO, in accordance with the standards established by the National
+Association of Real Estate Investment Trusts, or NAREIT. FFO represents net income (loss) available to common stockholders
+and unitholders (computed in accordance with U.S. GAAP), excluding gains (or losses) from sales of property, impairment
+charges, real estate related depreciation and amortization (excluding amortization of deferred financing costs) and after
+adjustments for unconsolidated partnerships and joint ventures. Management uses FFO as a supplemental performance
+measure because, in excluding real estate related depreciation and amortization and gains and losses from property
+dispositions, it provides a performance measure that, when compared year over year, captures trends in occupancy rates, rental
+rates and operating costs. Digital Realty also believes that, as a widely recognized measure of the performance of REITs, FFO
+will be used by investors as a basis to compare our operating performance with that of other REITs. However, because FFO
+excludes depreciation and amortization and captures neither the changes in the value of our properties that result from use or
+market conditions, nor the level of capital expenditures and leasing commissions necessary to maintain the operating
+performance of our properties, all of which have real economic effect and could materially impact our financial condition and
+results from operations, the utility of FFO as a measure of our performance is limited. Other REITs may not calculate FFO in
+accordance with the NAREIT definition and, accordingly, our FFO may not be comparable to such other REITs' FFO. Accordingly,
+FFO should be considered only as a supplement to net income as a measure of our performance.
+Core Funds from Operations
+We present core funds from operations, or CFFO, as a supplemental operating measure because, in excluding certain items that
+do not reflect core revenue or expense streams, it provides a performance measure that, when compared year over year,
+captures trends in our core business operating performance. We calculate CFFO by adding to or subtracting from FFO
+(i) termination fees and other non-core revenues, (ii) significant transaction expenses, (iii) loss from early extinguishment of debt,
+(iv) costs on redemption of preferred stock, (v) significant property tax adjustments, net and (vi) other non-core expense
+adjustments. Because certain of these adjustments have a real economic impact on our financial condition and results from
+operations, the utility of CFFO as a measure of our performance is limited. Other REITs may not calculate CFFO in a consistent
+manner. Accordingly, our CFFO may not be comparable to other REITs' CFFO. CFFO should be considered only as a
+supplement to net income computed in accordance with GAAP as a measure of our performance.
+EBITDA and Adjusted EBITDA
+We believe that earnings before interest expense, income taxes, depreciation and amortization, or EBITDA, and Adjusted EBITDA
+(as defined below), are useful supplemental performance measures because they allow investors to view our performance
+without the impact of non-cash depreciation and amortization or the cost of debt and, with respect to Adjusted EBITDA, straightline rent expense adjustment attributable to prior periods, gain from change in control of investment properties, noncontrolling
+interests, and preferred stock dividends. Adjusted EBITDA is EBITDA excluding straight-line rent expense adjustment attributable
+to prior periods, gain from change in control of investment properties, noncontrolling interests, and preferred stock dividends. In
+addition, we believe EBITDA and Adjusted EBITDA are frequently used by securities analysts, investors and other interested
+parties in the evaluation of REITs. Because EBITDA and Adjusted EBITDA are calculated before recurring cash charges including
+interest expense and income taxes, exclude capitalized costs, such as leasing commissions, and are not adjusted for capital
+expenditures or other recurring cash requirements of our business, their utility as a measure of our performance is limited. Other
+REITs may calculate EBITDA and Adjusted EBITDA differently than we do; accordingly, our EBITDA and Adjusted EBITDA may not
+be comparable to such other REITs' EBITDA and Adjusted EBITDA. Accordingly, EBITDA and Adjusted EBITDA should be
+considered only as supplements to net income computed in accordance with GAAP as a measure of our financial performance.
+Additional Definitions
+Debt-to-Adjusted EBITDA ratio is calculated using total debt at balance sheet carrying value less unrestricted cash and cash
+equivalents divided by the product of Adjusted EBITDA multiplied by four.
+Debt plus preferred to total enterprise value is mortgage debt and other loans plus preferred stock divided by mortgage debt and
+other loans plus the liquidation value of preferred stock and the market value of outstanding Digital Realty Trust, Inc. common
+stock and Digital Realty Trust, L.P. units, assuming the redemption of Digital Realty Trust, L.P. units for shares of Digital Realty
+Trust, Inc. common stock.
+Fixed charge coverage ratio is Adjusted EBITDA divided by the sum of GAAP interest expense, scheduled debt principal payments
+and preferred dividends. For the quarter ended September 30, 2013, GAAP interest expense was $47.7 million and scheduled
+debt principal payments and preferred dividends was $14.9 million.
+SOURCE Digital Realty Trust, Inc.
+
+

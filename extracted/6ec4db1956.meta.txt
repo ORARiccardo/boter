@@ -1,0 +1,5 @@
+original_name: DLR 1Q26 Earnings Supplemental 5.1.2026.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/953419cb-91ee-4485-8017-26ee0b29bb2a
+pdf_file: pdfs/DLR_1Q26_Earnings_Supplemental_5.1.2026__6ec4db1956.pdf
+text_file: extracted/DLR_1Q26_Earnings_Supplemental_5.1.2026__6ec4db1956.txt

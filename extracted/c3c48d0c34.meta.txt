@@ -1,0 +1,5 @@
+original_name: Digital Realty 4Q25 Earnings Presentation FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/77b10dac-057e-4c44-83e4-bd352ee5143a
+pdf_file: pdfs/Digital_Realty_4Q25_Earnings_Presentation_FINAL__c3c48d0c34.pdf
+text_file: extracted/Digital_Realty_4Q25_Earnings_Presentation_FINAL__c3c48d0c34.txt

@@ -1,0 +1,5 @@
+original_name: 1Q17-Earnings-PR-FINAL-formatted.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/97cbd27b-1583-484c-9bf2-65b5dafa6392
+pdf_file: pdfs/1Q17-Earnings-PR-FINAL-formatted__5736dceb2c.pdf
+text_file: extracted/1Q17-Earnings-PR-FINAL-formatted__5736dceb2c.txt

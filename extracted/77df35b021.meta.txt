@@ -1,0 +1,5 @@
+original_name: Digital-Realty-4Q22-Earnings-Supplemental.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/6a76622a-5651-4485-b139-ba47cff63a77
+pdf_file: pdfs/Digital-Realty-4Q22-Earnings-Supplemental__77df35b021.pdf
+text_file: extracted/Digital-Realty-4Q22-Earnings-Supplemental__77df35b021.txt

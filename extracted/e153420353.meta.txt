@@ -1,0 +1,5 @@
+original_name: Digital-Realty-4Q16-Earnings-Presentation-Final.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/50222cab-a775-437a-84d0-233c8e3d62f0
+pdf_file: pdfs/Digital-Realty-4Q16-Earnings-Presentation-Final__e153420353.pdf
+text_file: extracted/Digital-Realty-4Q16-Earnings-Presentation-Final__e153420353.txt

@@ -1,0 +1,5 @@
+original_name: DLR-Earnings-4Q15-Presentation-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/148aa10e-aa19-4494-bc03-c8df91b7138d
+pdf_file: pdfs/DLR-Earnings-4Q15-Presentation-FINAL__ccf3e6a2a9.pdf
+text_file: extracted/DLR-Earnings-4Q15-Presentation-FINAL__ccf3e6a2a9.txt

@@ -1,0 +1,5 @@
+original_name: 2Q18-Financial-Supplemental-FINAL.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/e8a55d7e-d97a-4bba-ba5d-dd145bccb978
+pdf_file: pdfs/2Q18-Financial-Supplemental-FINAL__1a2b063857.pdf
+text_file: extracted/2Q18-Financial-Supplemental-FINAL__1a2b063857.txt

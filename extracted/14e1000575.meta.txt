@@ -1,0 +1,5 @@
+original_name: Digital-Realty-4Q22-Earnings-Presentation.pdf
+source_page: https://investor.digitalrealty.com/financials/quarterly-results
+pdf_url: https://investor.digitalrealty.com/static-files/96e3616b-fbba-4075-85d3-f80f03b7cd95
+pdf_file: pdfs/Digital-Realty-4Q22-Earnings-Presentation__14e1000575.pdf
+text_file: extracted/Digital-Realty-4Q22-Earnings-Presentation__14e1000575.txt
