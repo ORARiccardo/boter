@@ -1,412 +1,32 @@
 --- previous
 +++ latest
-@@ -189,26 +189,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Margareta Djordjevic, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">22/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Online (Webex)</td>
-+							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">28/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">online</td>
- 
+@@ -886,8 +886,8 @@
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">European Data Centre Association (EUDCA)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Rating scheme for data centres</td>
-+							<div style="white-space: pre-line !important">&quot;Business for CBAM Coalition&quot;</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange on Business for CBAM Coalition proposal for a strong and ambitious ETS1, including a meaningful carbon price to support European Competitiveness.</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/b55d88d1-9815-455d-8e48-d44df44e6762/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/707512ef-3aff-4eaa-b36a-ca20d2d75a95/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-2-link"
- 				target="_blank" rel="noopener"
-@@ -240,23 +240,26 @@
- 							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
+ 							<div style="white-space: pre-line !important">Cambridge Institute for Sustainability Leadership (CISL),
+-Vattenfall,
+-IBERDROLA (IBE)</div>
++IBERDROLA (IBE),
++Vattenfall</div>
  						</td>
  
--						<td class="ecl-table__cell" data-ecl-table-header="Date">20/07/2026</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">23/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Commissariat à l&#39;Energie atomique et aux énergies alternatives (CEA)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting to present CEA’s involvement in the development of low-carbon technologies</td>
-+							<div style="white-space: pre-line !important">ExxonMobil Petroleum &amp; Chemical (EMPC)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">•	Methane Regulation implementation
-+•	Competitiveness and future of EU refining.
-+•	Net Zero Industry Act
-+•	EU energy security</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/1da5af5b-d5b1-4fe9-968f-adff7b5bcca7/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/8352a1c4-a920-443c-9ab9-48d9be0f1fdc/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-3-link"
- 				target="_blank" rel="noopener"
-@@ -285,26 +288,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Vincent Berrutto, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Hybrid meeting (in-person meeting at DG ENER headquarters + web conference with additional participants)</td>
-+							<div style="white-space: pre-line !important">Margareta Djordjevic, Head of Unit</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">22/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Online (Webex)</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Siemens Energy AG</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on digitalisation of electricity grids.</td>
-+							<div style="white-space: pre-line !important">European Data Centre Association (EUDCA)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Rating scheme for data centres</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/2fb28aca-22d3-4958-b15d-85a8c3b799db/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/b55d88d1-9815-455d-8e48-d44df44e6762/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-4-link"
- 				target="_blank" rel="noopener"
-@@ -336,23 +339,23 @@
- 							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
- 						</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">22/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Bureau Européen des Unions de Consommateurs (BEUC)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange views on current priorities for EU energy consumer policy and the implementation of the Citizens Energy Package.</td>
-+							<div style="white-space: pre-line !important">ELECTRICITE DE FRANCE (EDF)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/77ef6cfd-687d-4fb8-9061-ea51bc91015f/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/51fa8306-6af4-4fb6-99a9-448e41e2d768/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-5-link"
- 				target="_blank" rel="noopener"
-@@ -381,26 +384,36 @@
+ 						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
+@@ -974,26 +974,27 @@
  
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Commission Representative(s)">
 -							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
 -						</td>
 -
--						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
-+							<div style="white-space: pre-line !important">Celine Gauer, Director-General
-+Margareta Djordjevic, Head of Unit</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">22/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Energy Storage Europe (ESE)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting</td>
-+							<div style="white-space: pre-line !important">ABB Ltd,
-+Signify N.V.,
-+VELUX A/S (VELUX Group),
-+Compagnie de SAINT-GOBAIN,
-+Knauf Insulation,
-+Danfoss A/S,
-+Alfa Laval Corporate AB (AL),
-+Schneider Electric (SE),
-+SSAB AB (SSAB),
-+ROCKWOOL A/S (ROCKWOOL Group)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views with representatives of the &quot;One System Approach&quot; coalition on energy efficiency, electrification and competitiveness. Discussion on the implementation of the current policy framework and reflections on the post-2030 framework.</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/106d1514-15ce-4c7f-952f-1f362e7dce0b/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/9679723c-4139-4d81-826b-2142e5c87bd6/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-6-link"
- 				target="_blank" rel="noopener"
-@@ -432,23 +445,23 @@
- 							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
- 						</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">20/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">International Association of Oil &amp; Gas Producers Europe (IOGP Europe)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction meeting followed by a discussion on the EU Methane Regulation. </td>
-+							<div style="white-space: pre-line !important">Commissariat à l&#39;Energie atomique et aux énergies alternatives (CEA)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting to present CEA’s involvement in the development of low-carbon technologies</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/0fe9bb66-69fc-494d-896b-5a5fc05fb9f4/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/1da5af5b-d5b1-4fe9-968f-adff7b5bcca7/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-7-link"
- 				target="_blank" rel="noopener"
-@@ -480,23 +493,25 @@
- 							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
- 						</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">20/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">online</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Forum Atomique Européen (nucleareurope)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction to the European Nuclear Industry</td>
-+							<div style="white-space: pre-line !important">Center for LNG (CLNG),
-+The USLNG Partnership,
-+American Petroleum Institute (API)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">EU-US Energy Trade, EU Methane Regulation</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/36cc64d2-2330-4360-88c4-a0e9237fb2f5/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/505f71ad-87b7-4bd6-bd8b-2964c2300cf1/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-8-link"
- 				target="_blank" rel="noopener"
-@@ -525,26 +540,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Mechthild Woersdoerfer, Deputy Director-General</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
-+							<div style="white-space: pre-line !important">Vincent Berrutto, Head of Unit</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Hybrid meeting (in-person meeting at DG ENER headquarters + web conference with additional participants)</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">ELECTRICITE DE FRANCE (EDF)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
-+							<div style="white-space: pre-line !important">Siemens Energy AG</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on digitalisation of electricity grids.</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/ba2b6237-3d51-4791-b1e6-e171b55f4918/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/2fb28aca-22d3-4958-b15d-85a8c3b799db/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-9-link"
- 				target="_blank" rel="noopener"
-@@ -573,26 +588,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Vincent Berrutto, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">10/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">DM24</td>
-+							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">KIC InnoEnergy SE (EIT InnoEnergy)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI and Digital - presentation of the relevant companies/ technologies in InnoEnergy’s portfolio. </td>
-+							<div style="white-space: pre-line !important">Bureau Européen des Unions de Consommateurs (BEUC)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange views on current priorities for EU energy consumer policy and the implementation of the Citizens Energy Package.</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/4901d72c-df49-44a0-86c5-aa9990f92313/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/77ef6cfd-687d-4fb8-9061-ea51bc91015f/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-10-link"
- 				target="_blank" rel="noopener"
-@@ -621,28 +636,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Lukasz Kolinski, Director</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">09/07/2026</td>
-+							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Cambridge Institute for Sustainability Leadership (CISL),
--IBERDROLA (IBE),
--Vattenfall</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
-+							<div style="white-space: pre-line !important">Energy Storage Europe (ESE)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/e255f7de-09c2-40cd-afd1-e326b9f81bf2/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/106d1514-15ce-4c7f-952f-1f362e7dce0b/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-11-link"
- 				target="_blank" rel="noopener"
-@@ -671,26 +684,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Paula Abreu Marques, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">09/07/2026</td>
-+							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Gas Distributors for Sustainability (GD4S)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Biomethane, hybrid heating solutions</td>
-+							<div style="white-space: pre-line !important">International Association of Oil &amp; Gas Producers Europe (IOGP Europe)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction meeting followed by a discussion on the EU Methane Regulation. </td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/eb478285-a66c-4508-ba2f-74b55324dfee/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/0fe9bb66-69fc-494d-896b-5a5fc05fb9f4/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-12-link"
- 				target="_blank" rel="noopener"
-@@ -722,23 +735,23 @@
- 							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
- 						</td>
- 
 -						<td class="ecl-table__cell" data-ecl-table-header="Date">08/07/2026</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
++							<div style="white-space: pre-line !important">Maciej Ciszewski, Head of Unit</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Date">09/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Online ( Webex)</td>
  
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Interest representative(s)">
@@ -414,10 +34,11 @@
 -						</td>
 -
 -						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on how to accelerate energy renovations</td>
-+							<div style="white-space: pre-line !important">Forum Atomique Européen (nucleareurope)</div>
++							<div style="white-space: pre-line !important">Climate Action Network Europe (CAN Europe)</div>
 +						</td>
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction to the European Nuclear Industry</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">DG ENER presented the EU Energy and Raw Materials
++Platform.</td>
  
  						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
  							<span>
@@ -425,11 +46,11 @@
  		
  
 -			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/93859c13-9415-4956-b621-691b443dcf47/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/36cc64d2-2330-4360-88c4-a0e9237fb2f5/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/58d09c62-d97b-4829-b547-3841f8e55a82/minutes"
  				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-13-link"
+ 				id="ecl-file-18-link"
  				target="_blank" rel="noopener"
-@@ -767,26 +780,26 @@
+@@ -1022,26 +1023,26 @@
  
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Commission Representative(s)">
@@ -439,10 +60,10 @@
 -						<td class="ecl-table__cell" data-ecl-table-header="Date">07/07/2026</td>
 -
 -						<td class="ecl-table__cell" data-ecl-table-header="Location">Videoconference</td>
-+							<div style="white-space: pre-line !important">Mechthild Woersdoerfer, Deputy Director-General</div>
++							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
 +						</td>
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Date">08/07/2026</td>
 +
 +						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
  
@@ -452,144 +73,6 @@
 -						</td>
 -
 -						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Post-2030 energy and climate framework</td>
-+							<div style="white-space: pre-line !important">ELECTRICITE DE FRANCE (EDF)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/401208c5-19c6-4624-910e-ee493f18a6e6/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/ba2b6237-3d51-4791-b1e6-e171b55f4918/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-14-link"
- 				target="_blank" rel="noopener"
-@@ -815,26 +828,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Pierre Schellekens, Director</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">07/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">DG ENER Brussels</td>
-+							<div style="white-space: pre-line !important">Vincent Berrutto, Head of Unit</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">10/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">DM24</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Burson Cohn &amp; Wolfe SRL (BCW)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Overview of energy policies, financing, and recent measures</td>
-+							<div style="white-space: pre-line !important">KIC InnoEnergy SE (EIT InnoEnergy)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI and Digital - presentation of the relevant companies/ technologies in InnoEnergy’s portfolio. </td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/543894c8-834d-45a3-a6b3-c5ade83c239d/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/4901d72c-df49-44a0-86c5-aa9990f92313/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-15-link"
- 				target="_blank" rel="noopener"
-@@ -866,23 +879,25 @@
- 							<div style="white-space: pre-line !important">Lukasz Kolinski, Director</div>
- 						</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Date">02/07/2026</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">09/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Schneider Electric (SE)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification, electricity grids</td>
-+							<div style="white-space: pre-line !important">Cambridge Institute for Sustainability Leadership (CISL),
-+Vattenfall,
-+IBERDROLA (IBE)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/6a4c0148-997c-4695-806f-97046c27b308/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/e255f7de-09c2-40cd-afd1-e326b9f81bf2/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-16-link"
- 				target="_blank" rel="noopener"
-@@ -911,26 +926,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Joachim Balke, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">02/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels, Belgium</td>
-+							<div style="white-space: pre-line !important">Paula Abreu Marques, Head of Unit</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">09/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">CurrENT Europe (CurrENT)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">CurrENT presented their planned benefit-sharing study, assessing models of incentivising use of innovative grid solutions and their benefits in Italy and Germany. CurrENT also presented views on the ongoing negotiation of the European Grids Package.</td>
-+							<div style="white-space: pre-line !important">Gas Distributors for Sustainability (GD4S)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Biomethane, hybrid heating solutions</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/79308e02-52e1-4989-8820-327a6f95b5d0/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/eb478285-a66c-4508-ba2f-74b55324dfee/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-17-link"
- 				target="_blank" rel="noopener"
-@@ -962,23 +977,23 @@
- 							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
- 						</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Date">01/07/2026</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">08/07/2026</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Statkraft AS (Statkraft)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">ETS, electricity interconnectivity, sustainable finance taxonomy, electrification, industrial policy</td>
 +							<div style="white-space: pre-line !important">Climate Strategy (Climate Strategy)</div>
 +						</td>
 +
@@ -600,34 +83,30 @@
  								
  		
  
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/ebd4f9bb-26c5-4b47-9512-74f6b98b1fa9/minutes"
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/401208c5-19c6-4624-910e-ee493f18a6e6/minutes"
 +			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/93859c13-9415-4956-b621-691b443dcf47/minutes"
  				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-18-link"
+ 				id="ecl-file-19-link"
  				target="_blank" rel="noopener"
-@@ -1007,26 +1022,26 @@
+@@ -1070,26 +1071,26 @@
  
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Paula Rey Garcia, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">01/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels, Belgium</td>
+-							<div style="white-space: pre-line !important">Pierre Schellekens, Director</div>
 +							<div style="white-space: pre-line !important">Paula Abreu Marques, Head of Unit</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">07/07/2026</td>
-+
+ 						</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Date">07/07/2026</td>
+ 
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">DG ENER Brussels</td>
 +						<td class="ecl-table__cell" data-ecl-table-header="Location">Videoconference</td>
  
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">European Hydropower Alliance</div>
+-							<div style="white-space: pre-line !important">Burson Cohn &amp; Wolfe SRL (BCW)</div>
 -						</td>
 -
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Discussion on the role of hydropower in the energy system</td>
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Overview of energy policies, financing, and recent measures</td>
 +							<div style="white-space: pre-line !important">Confederation of Danish Industry (DI)</div>
 +						</td>
 +
@@ -638,21 +117,21 @@
  								
  		
  
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/60b3f255-d20a-4b9e-b1ac-9dc83ed6de51/minutes"
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/543894c8-834d-45a3-a6b3-c5ade83c239d/minutes"
 +			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/401208c5-19c6-4624-910e-ee493f18a6e6/minutes"
  				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-19-link"
+ 				id="ecl-file-20-link"
  				target="_blank" rel="noopener"
-@@ -1055,26 +1070,26 @@
+@@ -1118,26 +1119,26 @@
  
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Joachim Balke, Head of Unit</div>
+-							<div style="white-space: pre-line !important">Lukasz Kolinski, Director</div>
 -						</td>
 -
--						<td class="ecl-table__cell" data-ecl-table-header="Date">01/07/2026</td>
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">02/07/2026</td>
 -
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels, Belgium</td>
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
 +							<div style="white-space: pre-line !important">Pierre Schellekens, Director</div>
 +						</td>
 +
@@ -662,11 +141,11 @@
  
  						<td class="ecl-table__cell"
  							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Google Ireland Limited and its affiliates</div>
+-							<div style="white-space: pre-line !important">Schneider Electric (SE)</div>
 -						</td>
 -
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange on non-wire solutions and grid enhancing technologies</td>
-+							<div style="white-space: pre-line !important">Burson Cohn &amp; Wolfe SRL (BCW)</div>
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification, electricity grids</td>
++							<div style="white-space: pre-line !important">Burson SRL (Burson)</div>
 +						</td>
 +
 +						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Overview of energy policies, financing, and recent measures</td>
@@ -676,46 +155,8 @@
  								
  		
  
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/1802c57d-dd4f-490e-aa46-e1d9684a33c8/minutes"
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/6a4c0148-997c-4695-806f-97046c27b308/minutes"
 +			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/543894c8-834d-45a3-a6b3-c5ade83c239d/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-20-link"
- 				target="_blank" rel="noopener"
-@@ -1103,26 +1118,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Paula Rey Garcia, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">01/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels, Belgium </td>
-+							<div style="white-space: pre-line !important">Lukasz Kolinski, Director</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">02/07/2026</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">EPIA SolarPower Europe (SPE)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Discussion on the role of batteries in meeting AccelerateEU&#39;s estimated energy storage needs by 2030</td>
-+							<div style="white-space: pre-line !important">Schneider Electric (SE)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification, electricity grids</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/a4a0720b-d686-489e-aece-e2d29f03955f/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/6a4c0148-997c-4695-806f-97046c27b308/minutes"
  				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
  				id="ecl-file-21-link"
  				target="_blank" rel="noopener"
