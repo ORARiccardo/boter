@@ -1,292 +1,42 @@
 --- previous
 +++ latest
-@@ -778,26 +778,26 @@
+@@ -1183,7 +1183,7 @@
+       <li class="ecl-pagination__item ecl-pagination__item--current">
+         <span class="ecl-pagination__text ecl-pagination__text--summary" aria-current="true">1</span>
+         <span class="ecl-pagination__text ecl-pagination__text--full"
+-              aria-current="true">Page 1 of 90</span>
++              aria-current="true">Page 1 of 91</span>
+       </li>
  
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Olivier Bringer, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels </td>
-+							<div style="white-space: pre-line !important">Lucilla Sioli, Director</div>
-+						</td>
+       
+@@ -2248,6 +2248,18 @@
+ 
+         
+ 
++        
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">17/07/2026</td>
++      
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Videoconference</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Ericsson Nikola Tesla d.d.</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">EU’s International Digital Strategy</td>
-+							<div style="white-space: pre-line !important">The Future Society (TFS)</div>
-+						</td>
++    
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Discussion on upcoming enforcement of the rules for GPAI models with systemic risks</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/abb5a42b-e065-4b7d-9314-2a759fed76b2/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/839350bb-8108-4209-bbb6-a8a7e33ed531/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-14-link"
- 				target="_blank" rel="noopener"
-@@ -826,30 +826,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Lucilla Sioli, Director
--Cécile Huet, Head of Unit</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Location">L-51, Brussels</td>
-+							<div style="white-space: pre-line !important">Olivier Bringer, Head of Unit</div>
-+						</td>
++      
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Date">16/07/2026</td>
++      
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels </td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Technische Universität München (TUM),
--Google Ireland Limited and its affiliates</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI and robotics research and innovation
--EU policy and regulatory framework
--</td>
-+							<div style="white-space: pre-line !important">Ericsson Nikola Tesla d.d.</div>
-+						</td>
++        
 +
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">EU’s International Digital Strategy</td>
+         <li class="ecl-pagination__item ecl-pagination__item--truncation">
+           <span class="ecl-pagination__text ecl-pagination__text--summary">...</span>
+         </li>
+@@ -2261,9 +2273,9 @@
+       
  
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
+         <li class="ecl-pagination__item">
+-          <a href="https://ec.europa.eu/transparency-initiative/meetings/meeting.do?host=aae7124c-b839-4139-9ffe-ad5660fe9404&amp;page=90"
++          <a href="https://ec.europa.eu/transparency-initiative/meetings/meeting.do?host=aae7124c-b839-4139-9ffe-ad5660fe9404&amp;page=91"
+              class="ecl-link ecl-link--standalone ecl-pagination__link"
+-             aria-label="Go to page 90">90</a>
++             aria-label="Go to page 91">91</a>
+         </li>
  
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/87d799ab-3e2a-4226-86a2-49642a795994/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/abb5a42b-e065-4b7d-9314-2a759fed76b2/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-15-link"
- 				target="_blank" rel="noopener"
-@@ -878,9 +874,8 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Despina Spanou, Deputy Director-General
--Lucilla Sioli, Director
--Christiane Kirketerp De Viron, Acting Director</div>
-+							<div style="white-space: pre-line !important">Lucilla Sioli, Director
-+Cécile Huet, Head of Unit</div>
- 						</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
-@@ -889,17 +884,20 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">OpenAI OpCo, LLC</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI Act compliance and cyber action plan</td>
-+							<div style="white-space: pre-line !important">Technische Universität München (TUM),
-+Google Ireland Limited and its affiliates</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI and robotics research and innovation
-+EU policy and regulatory framework
-+</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/c5b7caf4-fe5d-4ca6-a60f-a4800c770f15/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/87d799ab-3e2a-4226-86a2-49642a795994/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-16-link"
- 				target="_blank" rel="noopener"
-@@ -928,7 +926,9 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Lucilla Sioli, Director</div>
-+							<div style="white-space: pre-line !important">Despina Spanou, Deputy Director-General
-+Lucilla Sioli, Director
-+Christiane Kirketerp De Viron, Acting Director</div>
- 						</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
-@@ -937,17 +937,17 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">CompuGroup Medical SE &amp; Co. KGaA (CGM)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Presentation of the MARE AI Health Park Venice project and exchange of views on AI in health</td>
-+							<div style="white-space: pre-line !important">OpenAI OpCo, LLC</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI Act compliance and cyber action plan</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/5c45a49c-8ab8-4f70-9df8-4f4d62c9d1a2/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/c5b7caf4-fe5d-4ca6-a60f-a4800c770f15/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-17-link"
- 				target="_blank" rel="noopener"
-@@ -976,28 +976,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Thomas Skordas, Deputy Director-General
--Kilian Gross, Director
--Peter Stuckmann, Head of Unit</div>
-+							<div style="white-space: pre-line !important">Lucilla Sioli, Director</div>
- 						</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Videoconference</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">L-51, Brussels</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Serentschy Advisory Services GmbH</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on precision time synchronisation, optical quantum clocks, resilient positioning, navigation and timing (PNT), and international standardisation.</td>
-+							<div style="white-space: pre-line !important">CompuGroup Medical SE &amp; Co. KGaA (CGM)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Presentation of the MARE AI Health Park Venice project and exchange of views on AI in health</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/b7aac9a6-b84d-4108-82a8-042a305bf3fa/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/5c45a49c-8ab8-4f70-9df8-4f4d62c9d1a2/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-18-link"
- 				target="_blank" rel="noopener"
-@@ -1026,26 +1024,28 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Manuel Mateo Goyet, Head of Unit</div>
-+							<div style="white-space: pre-line !important">Thomas Skordas, Deputy Director-General
-+Kilian Gross, Director
-+Peter Stuckmann, Head of Unit</div>
- 						</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Location">online</td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">Videoconference</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Kyndryl Holdings, Inc.</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Proposal for the Cloud and AI Development Act</td>
-+							<div style="white-space: pre-line !important">Serentschy Advisory Services GmbH</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on precision time synchronisation, optical quantum clocks, resilient positioning, navigation and timing (PNT), and international standardisation.</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/76613753-31be-46a4-b3d1-353483e2d3c1/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/b7aac9a6-b84d-4108-82a8-042a305bf3fa/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-19-link"
- 				target="_blank" rel="noopener"
-@@ -1074,7 +1074,7 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Christiane Kirketerp De Viron, Acting Director</div>
-+							<div style="white-space: pre-line !important">Manuel Mateo Goyet, Head of Unit</div>
- 						</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
-@@ -1083,17 +1083,17 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Federation of European Risk Management Associations (FERMA)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">FERMA Gulliver project</td>
-+							<div style="white-space: pre-line !important">Kyndryl Holdings, Inc.</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Proposal for the Cloud and AI Development Act</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/37193b2e-38e5-4555-8e65-e77138358d17/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/76613753-31be-46a4-b3d1-353483e2d3c1/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-20-link"
- 				target="_blank" rel="noopener"
-@@ -1122,26 +1122,26 @@
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Commission Representative(s)">
--							<div style="white-space: pre-line !important">Manuel Mateo Goyet, Head of Unit</div>
-+							<div style="white-space: pre-line !important">Christiane Kirketerp De Viron, Acting Director</div>
- 						</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
- 
--						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels </td>
-+						<td class="ecl-table__cell" data-ecl-table-header="Location">online</td>
- 
- 						<td class="ecl-table__cell"
- 							data-ecl-table-header="Interest representative(s)">
--							<div style="white-space: pre-line !important">Advanced Micro Devices (AMD)</div>
--						</td>
--
--						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Proposal for the Cloud and AI Development Act</td>
-+							<div style="white-space: pre-line !important">Federation of European Risk Management Associations (FERMA)</div>
-+						</td>
-+
-+						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">FERMA Gulliver project</td>
- 
- 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
- 							<span>
- 								
- 		
- 
--			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/b2fad442-1f3d-46fe-b8e2-f923c1594c4c/minutes"
-+			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/37193b2e-38e5-4555-8e65-e77138358d17/minutes"
- 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
- 				id="ecl-file-21-link"
- 				target="_blank" rel="noopener"
+         
