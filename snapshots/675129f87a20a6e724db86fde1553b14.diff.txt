@@ -1,0 +1,763 @@
+--- previous
++++ latest
+@@ -192,23 +192,23 @@
+ 							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
+ 						</td>
+ 
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">28/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">online</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Date">25/08/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">&quot;Business for CBAM Coalition&quot;</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange on Business for CBAM Coalition proposal for a strong and ambitious ETS1, including a meaningful carbon price to support European Competitiveness.</td>
++							<div style="white-space: pre-line !important">European Network of Transmission System Operators for Electricity (ENTSO-E)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting.</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/707512ef-3aff-4eaa-b36a-ca20d2d75a95/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/6e69c7c2-e94f-4d28-bc8a-31309df25c5f/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-2-link"
+ 				target="_blank" rel="noopener"
+@@ -237,26 +237,26 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Maciej Ciszewski, Head of Unit</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">27/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Online meeting (zoom)</td>
++							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Date">28/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">online</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">ExxonMobil Petroleum &amp; Chemical (EMPC)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis on energy markets. </td>
++							<div style="white-space: pre-line !important">&quot;Business for CBAM Coalition&quot;</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange on Business for CBAM Coalition proposal for a strong and ambitious ETS1, including a meaningful carbon price to support European Competitiveness.</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/038e316b-3d0f-4033-ad8b-97f244e4b976/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/707512ef-3aff-4eaa-b36a-ca20d2d75a95/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-3-link"
+ 				target="_blank" rel="noopener"
+@@ -288,24 +288,23 @@
+ 							<div style="white-space: pre-line !important">Maciej Ciszewski, Head of Unit</div>
+ 						</td>
+ 
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">24/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Online meeting (Webex)</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Date">27/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Online meeting (zoom)</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">NORTH ATLANTIC ENERGIES</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis
+-on energy markets.</td>
++							<div style="white-space: pre-line !important">ExxonMobil Petroleum &amp; Chemical (EMPC)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis on energy markets. </td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/ae4eb0f8-7638-48d3-990b-543d39c77cbf/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/038e316b-3d0f-4033-ad8b-97f244e4b976/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-4-link"
+ 				target="_blank" rel="noopener"
+@@ -337,23 +336,24 @@
+ 							<div style="white-space: pre-line !important">Maciej Ciszewski, Head of Unit</div>
+ 						</td>
+ 
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">23/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">European Commission, DG ENER</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Date">24/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Online meeting (Webex)</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">BP p.l.c. (bp)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis on energy markets.</td>
++							<div style="white-space: pre-line !important">NORTH ATLANTIC ENERGIES</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis
++on energy markets.</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/22a550d1-c972-4255-b28d-cf8dae57f935/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/ae4eb0f8-7638-48d3-990b-543d39c77cbf/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-5-link"
+ 				target="_blank" rel="noopener"
+@@ -387,21 +387,21 @@
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Date">23/07/2026</td>
+ 
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Online meeting (Webex)</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Location">European Commission, DG ENER</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">Phillips 66 Limited (P66L)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis on energy markets. </td>
++							<div style="white-space: pre-line !important">BP p.l.c. (bp)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis on energy markets.</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/526835e7-400e-41b2-a075-b504d2ba6e94/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/22a550d1-c972-4255-b28d-cf8dae57f935/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-6-link"
+ 				target="_blank" rel="noopener"
+@@ -430,29 +430,26 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
++							<div style="white-space: pre-line !important">Maciej Ciszewski, Head of Unit</div>
+ 						</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Date">23/07/2026</td>
+ 
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Online meeting (Webex)</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">ExxonMobil Petroleum &amp; Chemical (EMPC)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">•	Methane Regulation implementation
+-•	Competitiveness and future of EU refining.
+-•	Net Zero Industry Act
+-•	EU energy security</td>
++							<div style="white-space: pre-line !important">Phillips 66 Limited (P66L)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Exchange of views on the implications of the Middle East crisis on energy markets. </td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/8352a1c4-a920-443c-9ab9-48d9be0f1fdc/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/526835e7-400e-41b2-a075-b504d2ba6e94/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-7-link"
+ 				target="_blank" rel="noopener"
+@@ -481,26 +478,29 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Margareta Djordjevic, Head of Unit</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">22/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Online (Webex)</td>
++							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Date">23/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">European Data Centre Association (EUDCA)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Rating scheme for data centres</td>
++							<div style="white-space: pre-line !important">ExxonMobil Petroleum &amp; Chemical (EMPC)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">•	Methane Regulation implementation
++•	Competitiveness and future of EU refining.
++•	Net Zero Industry Act
++•	EU energy security</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/b55d88d1-9815-455d-8e48-d44df44e6762/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/8352a1c4-a920-443c-9ab9-48d9be0f1fdc/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-8-link"
+ 				target="_blank" rel="noopener"
+@@ -529,26 +529,26 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
++							<div style="white-space: pre-line !important">Margareta Djordjevic, Head of Unit</div>
+ 						</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Date">22/07/2026</td>
+ 
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Online (Webex)</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">ELECTRICITE DE FRANCE (EDF)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting</td>
++							<div style="white-space: pre-line !important">European Data Centre Association (EUDCA)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Rating scheme for data centres</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/51fa8306-6af4-4fb6-99a9-448e41e2d768/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/b55d88d1-9815-455d-8e48-d44df44e6762/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-9-link"
+ 				target="_blank" rel="noopener"
+@@ -566,6 +566,54 @@
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+ 			<span class="ecl-u-sr-only" id="ecl-file-9-title">Minutes (PDF)</span>
++
++		
++	
++							</span>
++						</td>
++
++					</tr>
++					<tr class="ecl-table__row">
++
++						<td class="ecl-table__cell"
++							data-ecl-table-header="Commission Representative(s)">
++							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Date">22/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
++
++						<td class="ecl-table__cell"
++							data-ecl-table-header="Interest representative(s)">
++							<div style="white-space: pre-line !important">ELECTRICITE DE FRANCE (EDF)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introductory meeting</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
++							<span>
++								
++		
++
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/51fa8306-6af4-4fb6-99a9-448e41e2d768/minutes"
++				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
++				id="ecl-file-10-link"
++				target="_blank" rel="noopener"
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-10-link-label ecl-file-10-title"> 
++				<span class="ecl-link__label"
++				id="ecl-file-10-link-label">Download</span>
++
++				<svg viewBox="0 0 48 48"
++					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
++					aria-hidden="true">
++        <path fill-rule="evenodd"
++						d="m25.47 30.24 12.45-12.42 2.13 2.13L23.97 36 7.92 19.98l2.13-2.13L22.47 30.3V3h3zM39 42v-6h3v6c0 1.65-1.35 3-3 3H9c-1.65 0-3-1.35-3-3v-6h3v6z" />
++      </svg>
++			</a>
++
++			<!-- Optional accessible title (only rendered if provided) -->
++			<span class="ecl-u-sr-only" id="ecl-file-10-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -608,11 +656,11 @@
+ 
+ 			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/9679723c-4139-4d81-826b-2142e5c87bd6/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-10-link"
++				id="ecl-file-11-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-10-link-label ecl-file-10-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-11-link-label ecl-file-11-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-10-link-label">Download</span>
++				id="ecl-file-11-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -623,7 +671,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-10-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-11-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -656,11 +704,11 @@
+ 
+ 			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/1da5af5b-d5b1-4fe9-968f-adff7b5bcca7/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-11-link"
++				id="ecl-file-12-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-11-link-label ecl-file-11-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-12-link-label ecl-file-12-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-11-link-label">Download</span>
++				id="ecl-file-12-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -671,7 +719,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-11-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-12-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -706,11 +754,11 @@
+ 
+ 			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/505f71ad-87b7-4bd6-bd8b-2964c2300cf1/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-12-link"
++				id="ecl-file-13-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-12-link-label ecl-file-12-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-13-link-label ecl-file-13-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-12-link-label">Download</span>
++				id="ecl-file-13-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -721,7 +769,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-12-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-13-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -754,11 +802,11 @@
+ 
+ 			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/2fb28aca-22d3-4958-b15d-85a8c3b799db/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-13-link"
++				id="ecl-file-14-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-13-link-label ecl-file-13-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-14-link-label ecl-file-14-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-13-link-label">Download</span>
++				id="ecl-file-14-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -769,7 +817,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-13-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-14-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -802,11 +850,11 @@
+ 
+ 			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/77ef6cfd-687d-4fb8-9061-ea51bc91015f/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-14-link"
++				id="ecl-file-15-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-14-link-label ecl-file-14-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-15-link-label ecl-file-15-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-14-link-label">Download</span>
++				id="ecl-file-15-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -817,7 +865,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-14-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-15-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -850,11 +898,11 @@
+ 
+ 			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/106d1514-15ce-4c7f-952f-1f362e7dce0b/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-15-link"
++				id="ecl-file-16-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-15-link-label ecl-file-15-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-16-link-label ecl-file-16-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-15-link-label">Download</span>
++				id="ecl-file-16-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -865,7 +913,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-15-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-16-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -877,7 +925,7 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
++							<div style="white-space: pre-line !important">Kitti Nyitrai, Head of Unit</div>
+ 						</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
+@@ -886,23 +934,24 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">International Association of Oil &amp; Gas Producers Europe (IOGP Europe)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction meeting followed by a discussion on the EU Methane Regulation. </td>
++							<div style="white-space: pre-line !important">FTI Consulting Belgium,
++ConocoPhillips (COP)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">EU Methane Regulation</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/0fe9bb66-69fc-494d-896b-5a5fc05fb9f4/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/e0dc5826-2db4-4572-b3b3-4177b77883e3/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-16-link"
++				id="ecl-file-17-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-16-link-label ecl-file-16-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-17-link-label ecl-file-17-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-16-link-label">Download</span>
++				id="ecl-file-17-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -913,7 +962,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-16-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-17-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -934,23 +983,23 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">Forum Atomique Européen (nucleareurope)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction to the European Nuclear Industry</td>
++							<div style="white-space: pre-line !important">International Association of Oil &amp; Gas Producers Europe (IOGP Europe)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction meeting followed by a discussion on the EU Methane Regulation. </td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/36cc64d2-2330-4360-88c4-a0e9237fb2f5/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/0fe9bb66-69fc-494d-896b-5a5fc05fb9f4/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-17-link"
++				id="ecl-file-18-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-17-link-label ecl-file-17-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-18-link-label ecl-file-18-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-17-link-label">Download</span>
++				id="ecl-file-18-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -961,7 +1010,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-17-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-18-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -973,7 +1022,7 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Mechthild Woersdoerfer, Deputy Director-General</div>
++							<div style="white-space: pre-line !important">Celine Gauer, Director-General</div>
+ 						</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
+@@ -982,23 +1031,23 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">ELECTRICITE DE FRANCE (EDF)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
++							<div style="white-space: pre-line !important">Forum Atomique Européen (nucleareurope)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Introduction to the European Nuclear Industry</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/ba2b6237-3d51-4791-b1e6-e171b55f4918/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/36cc64d2-2330-4360-88c4-a0e9237fb2f5/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-18-link"
++				id="ecl-file-19-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-18-link-label ecl-file-18-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-19-link-label ecl-file-19-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-18-link-label">Download</span>
++				id="ecl-file-19-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -1009,7 +1058,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-18-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-19-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -1021,32 +1070,32 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Vincent Berrutto, Head of Unit</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">10/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">DM24</td>
++							<div style="white-space: pre-line !important">Mechthild Woersdoerfer, Deputy Director-General</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Date">15/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">KIC InnoEnergy SE (EIT InnoEnergy)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI and Digital - presentation of the relevant companies/ technologies in InnoEnergy’s portfolio. </td>
++							<div style="white-space: pre-line !important">ELECTRICITE DE FRANCE (EDF)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/4901d72c-df49-44a0-86c5-aa9990f92313/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/ba2b6237-3d51-4791-b1e6-e171b55f4918/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-19-link"
++				id="ecl-file-20-link"
+ 				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-19-link-label ecl-file-19-title"> 
++				style="white-space: nowrap !important;" aria-labelledby="ecl-file-20-link-label ecl-file-20-title"> 
+ 				<span class="ecl-link__label"
+-				id="ecl-file-19-link-label">Download</span>
++				id="ecl-file-20-link-label">Download</span>
+ 
+ 				<svg viewBox="0 0 48 48"
+ 					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+@@ -1057,7 +1106,7 @@
+ 			</a>
+ 
+ 			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-19-title">Minutes (PDF)</span>
++			<span class="ecl-u-sr-only" id="ecl-file-20-title">Minutes (PDF)</span>
+ 
+ 		
+ 	
+@@ -1069,76 +1118,26 @@
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Lukasz Kolinski, Director</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">09/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
++							<div style="white-space: pre-line !important">Vincent Berrutto, Head of Unit</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Date">10/07/2026</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Location">DM24</td>
+ 
+ 						<td class="ecl-table__cell"
+ 							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">Cambridge Institute for Sustainability Leadership (CISL),
+-IBERDROLA (IBE),
+-Vattenfall</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Electrification</td>
++							<div style="white-space: pre-line !important">KIC InnoEnergy SE (EIT InnoEnergy)</div>
++						</td>
++
++						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">AI and Digital - presentation of the relevant companies/ technologies in InnoEnergy’s portfolio. </td>
+ 
+ 						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+ 							<span>
+ 								
+ 		
+ 
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/e255f7de-09c2-40cd-afd1-e326b9f81bf2/minutes"
+-				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+-				id="ecl-file-20-link"
+-				target="_blank" rel="noopener"
+-				style="white-space: nowrap !important;" aria-labelledby="ecl-file-20-link-label ecl-file-20-title"> 
+-				<span class="ecl-link__label"
+-				id="ecl-file-20-link-label">Download</span>
+-
+-				<svg viewBox="0 0 48 48"
+-					class="ecl-icon ecl-icon--fluid ecl-link__icon" focusable="false"
+-					aria-hidden="true">
+-        <path fill-rule="evenodd"
+-						d="m25.47 30.24 12.45-12.42 2.13 2.13L23.97 36 7.92 19.98l2.13-2.13L22.47 30.3V3h3zM39 42v-6h3v6c0 1.65-1.35 3-3 3H9c-1.65 0-3-1.35-3-3v-6h3v6z" />
+-      </svg>
+-			</a>
+-
+-			<!-- Optional accessible title (only rendered if provided) -->
+-			<span class="ecl-u-sr-only" id="ecl-file-20-title">Minutes (PDF)</span>
+-
+-		
+-	
+-							</span>
+-						</td>
+-
+-					</tr>
+-					<tr class="ecl-table__row">
+-
+-						<td class="ecl-table__cell"
+-							data-ecl-table-header="Commission Representative(s)">
+-							<div style="white-space: pre-line !important">Paula Abreu Marques, Head of Unit</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Date">09/07/2026</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Location">Brussels</td>
+-
+-						<td class="ecl-table__cell"
+-							data-ecl-table-header="Interest representative(s)">
+-							<div style="white-space: pre-line !important">Gas Distributors for Sustainability (GD4S)</div>
+-						</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Subject matter">Biomethane, hybrid heating solutions</td>
+-
+-						<td class="ecl-table__cell" data-ecl-table-header="Minutes">
+-							<span>
+-								
+-		
+-
+-			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/eb478285-a66c-4508-ba2f-74b55324dfee/minutes"
++			<a href="https://ec.europa.eu/transparency-initiative/meetings/data/meetings/4901d72c-df49-44a0-86c5-aa9990f92313/minutes"
+ 				class="ecl-link ecl-link--standalone ecl-link--icon ecl-file__download"
+ 				id="ecl-file-21-link"
+ 				target="_blank" rel="noopener"
